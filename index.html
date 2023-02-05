@@ -1,0 +1,94 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <!-- start off by setting up links -->
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Main Page</title>
+    <!-- this is for the down chevron icon -->
+    <script src="https://kit.fontawesome.com/5a1ce19c05.js" crossorigin="anonymous"></script>
+<!--     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+    <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.15.1/css/all.css" integrity="sha384-vp86vTRFVJgpjF9jiIGPEEqYqlDwgyBgEF109VFjmqGmIY/Y4HV4d3Gp2irVfcrp" crossorigin="anonymous"> -->
+    <!-- this is for the fonts -->
+    <link rel="stylesheet" type="text/css" href="alliance_fonts/stylesheet.css">
+    <!-- this is the actual stylesheet -->
+    <link rel="stylesheet" type="text/css" href="css/style.css">
+    <!-- this is for the feature slider -->
+    <script src="https://cdn.jsdelivr.net/npm/typed.js@2.0.11"></script>
+  </head>
+
+  <body>
+
+    <!-- setting up a navigation bar -->
+    <div class="navbar">
+      <a href="#banner" id="scroll-banner-button">Micah Young</a>
+      <a href="projects.html" class="work-link">My Work</a>
+    </div>
+
+    <!-- setting up a banner video -->
+    <section id="banner" data-video="ocean">
+      <video id="banner-video" autoplay loop>
+        <source src="images/ocean_trimmed.mp4" type="video/mp4">
+        Your browser does not support the video tag.
+      </video>
+
+    <!-- setting up the feature slider -->
+      <div class="inner">
+        <header>
+          <section id="feature-slider">
+            <h1>
+              <span id="typed"></span>
+            </h1>
+          </section>
+          <script>
+            var typed = new Typed('#typed', {
+              strings: ['I am a Data Scientist', 'I am a Kānaka Maoli', 'I am a Bibliophile'],
+              typeSpeed: 50,
+              backSpeed: 50,
+              startDelay: 1000,
+              loop: true,
+              });
+          </script>
+        </header>
+      </div>
+
+    <!-- adding a scroll down chevron -->
+      <a href="#about_me_container" id="scroll-aboutme-button">
+        <i class="fa fa-chevron-circle-down" aria-hidden="true" style="font-size:60px;"></i>
+      </a>
+
+    </section>
+
+    <!-- adding the About Me page with an image and text -->
+    <section id = "about_me_container">
+      <img src="images/grad_profile.jpg" id="about_me_img" class="about_me_img" type="image/jpg">
+      <div class="about_me_text mobile">
+        <p> 
+          Hi, I’m Micah. I grew up in the San Francisco Bay Area and went to college at Yale. Following an interest in social science and history, I double majored in Economics and African Studies. I believe that Data Science can be used to improve the lives of indigenous peoples: from mainland Native Americans to Africans, or Native Hawaiians such as myself. While data are informative, they are incomplete without cultural understanding. Meaningful research must come from within the community, rather than technically proficient outsiders. My goal is to develop skills in order to uplift and empower my community of Native Hawaiians. 
+        </p>
+        <p>
+          In my free time, I read books. Every six months or so I dive into a new subject area. I’ve studied poetry and Russian literature, to critical race theory and African literature, to memoirs, biographies, philosophy, and history of science. I keep track of my readings and write annual reflections of what I’ve learned. 
+        </p>
+        <p>
+          Post-college, I was an Associate Consultant at Bain & Company and I currently work as a Data Scientist for Berkshire Partners. 
+        </p>
+        <p>
+          Click on “My Work” to see what I’ve been up to lately or check out my resume <a href = "images/220203_resume.pdf"> here</a>.
+        </p>
+      </div>
+    </section>
+
+    <!-- adding icons for linkedin and email -->
+    <div class="communications_icons">
+      <a href="https://www.linkedin.com/in/micahckyoung/" id="linkedin_icon">
+        <i class="fa-brands fa-linkedin-in" aria-hidden="true"></i>
+      </a>
+      <a href="mailto:micah.young@aya.yale.edu" id="email_icon">
+        <i class="fa-regular fa-envelope" aria-hidden="true"></i>
+      </a>
+    </div>
+    
+    <!-- linking the javascript file for the scroll-down -->
+    <script src="scroll-down.js"></script>
+  </body>
+</html>
