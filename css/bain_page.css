@@ -1,0 +1,175 @@
+/* Table of Contents
+==================================================
+# Basic Typography
+# Navigation Bar 
+# Writing Content 
+# Home Button 
+*/
+
+
+/*--------------------*/
+/* BASIC TYPOGRAPHY */
+/*--------------------*/
+
+:root {
+  --micah_grey: hsl(0, 0%, 25%);
+}
+
+html {
+  font-size: 16px; /* This sets the base font size for the document */
+}
+
+body {
+    background: hsl(0, 100%, 100%);
+    color: var(--micah_grey);
+    font-family: 'Alliance No.1', Arial, sans-serif;
+    font-weight: 300;
+    font-size: calc(1rem + 0.3vw);
+}
+
+h1 {
+    text-align: center;
+    margin-top: 60px;
+    font-family: 'Alliance No.2', Arial, sans-serif;
+    font-weight: 300;
+    margin-bottom: calc(1rem + 2vw); /* add some space below the heading */
+    padding: 0 20px; /* add left and right padding */
+}
+
+/*setting up the break*/
+hr {
+    size: 1px;
+    margin-bottom: calc(1rem + 2vw); /* add some space below */
+}
+
+
+/*--------------------*/
+/* Navigation Bar */
+/*--------------------*/
+
+.navbar {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 80%;
+    background-color: hsl(0, 100%, 100%);
+    padding: 10px 10%;
+    z-index: 1;
+    font-family: 'Alliance No.2', Arial, sans-serif;
+    font-size: 1rem;
+}
+
+.navbar a {
+    text-decoration: none;
+    color: var(--micah_grey);
+    transition: background 0.5s, color 0.5s;
+    padding: 2px 5px 2px 5px;
+}
+
+.navbar .work-link {
+    border: 1px solid var(--micah_grey);;
+}
+
+.navbar a:hover {
+    background: var(--micah_grey);
+    color: hsl(0, 100%, 100%);
+}
+
+/*--------------------*/
+/* Writing Content */
+/*--------------------*/
+
+
+#writing_content_container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  width: 80%;
+  height: 100%;
+  position: relative;
+  margin: 0 auto;
+}
+
+#writing_content_container img {
+  width: 40%;
+  height: 100%;
+  object-fit: contain;
+  flex-shrink: 0;
+}
+
+#writing_content_container .writing_text {
+  width: calc(30rem + 30vw);
+  overflow-y: auto;
+  height: 100%;
+  right: 0;
+  position: relative;
+}
+
+/*adding special features for section titles*/
+#writing_content_container .writing_text .section-title {
+    font-size: calc(1rem + 0.7vw);
+    margin-top: calc(1rem + 2vw);
+}
+
+/*setting up for mobile*/
+
+@media only screen and (max-width: 1000px) {
+    #writing_content_container img {
+        margin: 0 auto;
+    }
+    #writing_content_container .writing_text.mobile {
+        width: 100%;
+        padding: 0px;
+    }
+}
+
+@media only screen and (max-width: 600px) {
+    #writing_content_container {
+        flex-direction: column;
+    }
+    #writing_content_container .writing_text.mobile {
+        width: 100%;
+        font-size: 1rem;
+        padding: 0px;
+    }
+}
+
+/*--------------------*/
+/* Home Button */
+/*--------------------*/
+
+
+.home-button {
+    width: 10em;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: transparent;
+    border: var(--micah_grey);
+    border-width: 1px;
+    transition: all 500ms;
+    font-size: 1rem;
+    text-align: center;
+    margin: 0 auto;
+    font-family: 'Alliance No.2', Arial, sans-serif;
+    text-decoration: none;
+    margin-top: 20px;
+}
+
+.home-button a {
+    text-decoration: none;
+    border: var(--micah_grey);
+    width: 10em;
+    color: var(--micah_grey);
+    transition: background 0.5s, color 0.5s;
+    padding: 2px 5px 2px 5px;
+}
+
+.home-button a:hover {
+    background: var(--micah_grey);
+    color: hsl(0, 100%, 100%);
+}
+

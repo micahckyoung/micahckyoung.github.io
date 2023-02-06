@@ -1,0 +1,224 @@
+/* Table of Contents
+==================================================
+# BASIC TYPOGRAPHY
+# Navigation Bar 
+# Banner 
+# About Me 
+# Communications Icons
+*/
+
+
+/*--------------------*/
+/* BASIC TYPOGRAPHY */
+/*--------------------*/
+
+
+/*base setup*/
+
+/*creating some variables*/
+
+:root {
+  --micah_grey: hsl(0, 0%, 25%);
+}
+
+
+body {
+    background: hsl(0, 100%, 100%);
+    color: var(--micah_grey);
+    font-family: 'Alliance No.1', Arial, sans-serif;
+    font-weight: 300;
+}
+
+html {
+  font-size: 16px; /* This sets the base font size for the document */
+}
+
+/*--------------------*/
+/* Navigation Bar */
+/*--------------------*/
+
+.navbar {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 80%;
+    background-color: hsl(0, 100%, 100%);
+    padding: 10px 10%;
+    z-index: 1;
+    font-family: 'Alliance No.2', Arial, sans-serif;
+}
+
+.navbar a {
+    text-decoration: none;
+    color: var(--micah_grey);
+    transition: background 0.5s, color 0.5s;
+    padding: 2px 5px 2px 5px;
+}
+
+.navbar .work-link {
+    border: 1px solid var(--micah_grey);;
+}
+
+.navbar a:hover {
+    background: var(--micah_grey);
+    color: hsl(0, 100%, 100%);
+}
+
+
+/*--------------------*/
+/* Banner */
+/*--------------------*/
+
+
+#banner {
+    position: relative /* This is to position the video and text over it */
+    width: 100%; /* Make the video take up the full width of the banner */
+    height: 100vh; /* Make the video take up the full height of the viewport  */
+    overflow: hidden; /* Hide any parts of the video that go outside the banner */
+    font-family: 'Alliance No.2', Arial, sans-serif;
+}
+
+#banner video {
+    position: absolute; /* Position the video to fill the banner */
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%); /* centering the video */
+    width: 90%;
+    height: 90vh;
+    object-fit: cover; /* Make the video cover the entire banner */
+}
+
+#feature-slider {
+    position: absolute; /* Position the text over the video */
+    color: white; /* Change the text color to white */
+    width: 90%; /* Make the text take up the full width of the banner */
+    text-align: center; /* Center the text horizontally */
+    font-size: 4rem;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    top: 50%;
+    transform: translateY(-50%);
+    text-shadow: 0 0 1px black;
+}
+
+@media only screen and (max-width: 600px) {
+  #feature-slider {
+    font-size: 30px;
+  }
+}
+
+/*setting up the chevron icon*/
+
+#banner i {
+  position: absolute;
+  bottom: 80px;
+  left: 50%;
+  transform: translateX(-50%);
+  font-size: 40px;
+  color: white;
+  opacity: 0.8;
+  z-index: 1;
+  transition: color 0.5s, opacity 0.5s, border 0.5s;
+}
+
+#banner i:hover {
+    color: white;
+    opacity: 1;
+    border: 2px black;
+}
+
+/*making it impossible to click on chevron in mobile*/
+
+@media only screen and (max-width: 600px) {
+    #scroll-aboutme-button {
+        pointer-events: none;
+        cursor: default;
+    }
+}
+
+/*--------------------*/
+/* About Me */
+/*--------------------*/
+
+
+#about_me_container {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 90%; /* change the width here */
+  margin: 0 auto; /* center the element horizontally */
+  height: auto;
+  margin-top: 60px;
+}
+
+
+#about_me_container img {
+  width: 50%;
+  object-fit: contain;
+  position: relative;
+}
+
+#about_me_container .about_me_text {
+  width: 50%;
+  padding-left: 40px;
+  justify-content: center;
+  font-size: calc(1rem + 0.5vw);
+}
+
+/*setting up for mobile*/
+
+@media only screen and (max-width: 1000px) {
+    #about_me_container {
+        flex-direction: column;
+    }
+    #about_me_container .about_me_text.mobile {
+        width: 100%;
+        padding: 0px;
+    }
+}
+
+@media only screen and (max-width: 600px) {
+    #about_me_container {
+        flex-direction: column;
+    }
+    #about_me_container .about_me_text.mobile {
+        width: 100%;
+        font-size: 1rem;
+        padding: 0px;
+    }
+    .communications_icons {
+        font-size: 20px;
+    }
+}
+
+/*--------------------*/
+/* Communications Icons */
+/*--------------------*/
+
+
+.communications_icons {
+  display: block;
+  text-align: right;
+  width: 90%;
+  font-size: calc(2rem + 0.5vw);
+  margin-top: auto;
+}
+
+.communications_icons a {
+    text-decoration: none;
+}
+
+.communications_icons i {
+  display: inline-block;
+  color: var(--micah_grey);
+  padding: 10px;
+}
+
+.communications_icons i:hover {
+  background-color: var(--micah_grey);
+  color: white;
+}

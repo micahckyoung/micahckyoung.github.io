@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Basic Grid</title>
+        <!-- this is for the fonts -->
+    <link rel="stylesheet" type="text/css" href="../alliance_fonts/stylesheet.css">
+        <!-- this is the actual stylesheet -->
+    <link rel="stylesheet" type="text/css" href="../css/mywork_style.css">
+  </head>
+  <body>
+
+    <!-- setting up the navigation bar -->
+
+    <div class="navbar">
+      <a href="../index.html">Micah Young</a>
+      <a href="../mywork/index.html" class="work-link">My Work</a>
+      <!-- note I am setting the button as a page refresh rather than a scroll. May change this if I can figure it out -->
+      <!-- <a href="#projects" id="scroll-projects-button" class="work-link">My Work</a> -->
+    </div>
+
+    <h1>Projects</h1>
+
+    <!-- creating a grid of cards -->
+
+    <section class="basic-grid">
+
+      <!-- each card is wrapped in a link -->
+      <a href="bain_essay/index.html" class="card-link"> 
+        <div class="card">
+          <div class="card-text-container">
+            <div class="card-text">
+              10 Business Lessons I Learned While Consulting for Bain
+            </div>
+          </div>
+          <img src="../images/bain_image.png" alt="Compass drawing">
+        </div>
+      </a>
+
+
+    </section>
+
+    <!-- creating a Home button -->
+
+    <div class="home-button">
+      <a href="../index.html">Home</a>
+    </div>
+
+    <!-- linking the javascript file for the scroll-down -->
+    <script src="scroll-down.js"></script>
+  </body>
+</html>
