@@ -1,0 +1,75 @@
+<!DOCTYPE html>
+<html class="js-loading">
+<head>
+    <!-- Critical inline styles - Must be first -->
+    <style>
+        .js-loading {
+            visibility: hidden;
+        }
+        /* Fix FOUC by hiding until everything is ready */
+        html {
+            background-color: #f3f4f6;
+        }
+    </style>
+
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Family Tree Viewer</title>
+
+    <!-- Font preload -->
+    <link rel="preload" href="../../alliance_fonts/stylesheet.css" as="style">
+    
+    <!-- Stylesheets -->
+    <link rel="stylesheet" type="text/css" href="../../css/genealogy_style.css">
+</head>
+<body>
+    <!-- Mobile Warning -->
+    <div class="mobile-warning">
+        <h2>Desktop Access Only</h2>
+        <p>This family tree viewer is only available on desktop devices. Please visit using a computer and increase your screen width.</p>
+    </div>
+
+    <!-- Desktop Content -->
+    <div class="desktop-content">
+        <div class="navbar">
+            <a href="../../">Micah Young</a>
+        </div>
+        <div id="helpBanner" class="help-banner">
+            Use arrow keys to navigate the family tree
+        </div>
+
+        <div class="search-container">
+            <input type="text" id="searchInput" placeholder="Search family members...">
+            <div id="searchSuggestions" class="search-suggestions"></div>
+        </div>
+
+        <div id="treeContainer" class="tree-container"></div>
+
+        <div id="modalOverlay" class="modal-overlay"></div>
+        <div id="infoModal" class="info-modal">
+            <div class="modal-header">
+                <span id="closeModal" class="close-button" style="cursor: pointer; float: right; font-size: 24px; margin-top: -10px;">×</span>
+            </div>
+            <h2>Welcome to my family tree!</h2>
+            <div class="modal-content">
+                <!-- <p>Welcome to my family tree!</p> -->
+                <h3>Navigation</h3>
+                <ul>
+                    <li>Up Arrow: Move to mother</li>
+                    <li>Down Arrow: Move to previous generation lineal ancestor</li>
+                    <li>Left/Right Arrows: Move between siblings or spouses</li>
+                </ul>
+                <h3>Search</h3>
+                <p>Use the search box in the top right to quickly find family members by name.</p>
+                <h3>Zoom</h3>
+                <p>Use the zoom controls on the right side of the screen to adjust the view size.</p>
+                <h4>Final Note</h4>
+                <p>This tree is still a work in progress. Please be patient with this work.</p>
+            </div>
+        </div>
+    </div>
+
+    <!-- Scripts -->
+    <script src="../../js/genealogy_functions.js" defer></script>
+</body>
+</html>

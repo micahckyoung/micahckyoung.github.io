@@ -173,3 +173,25 @@ hr {
     color: hsl(0, 100%, 100%);
 }
 
+
+.article-date {
+    width: 60%;
+    margin: 0 auto;
+    color: var(--micah_grey);
+    margin-top: calc(-1rem - 1vw);
+    margin-bottom: calc(1rem + 1vw);
+    font-family: 'Alliance No.1', Arial, sans-serif;
+    font-weight: 300;
+    font-size: calc(1rem + 0.3vw);
+    text-align: center; 
+}
+
+/*.article-date {
+    text-align: center;
+    color: var(--micah_grey);
+    margin-top: calc(-1rem - 1vw);
+    margin-bottom: calc(1rem + 1vw);
+    font-family: 'Alliance No.1', Arial, sans-serif;
+    font-weight: 300;
+    font-size: calc(0.8rem + 0.2vw);
+}*/

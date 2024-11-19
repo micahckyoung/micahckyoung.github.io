@@ -149,15 +149,15 @@ html {
   display: flex;
   align-items: center;
   justify-content: center;
-  width: 90%; /* change the width here */
-  margin: 0 auto; /* center the element horizontally */
+  width: 90%; 
+  margin: 0 auto; 
   height: auto;
   margin-top: 60px;
 }
 
 
 #about_me_container img {
-  width: 50%;
+  width: 40%;
   object-fit: contain;
   position: relative;
 }
@@ -166,7 +166,7 @@ html {
   width: 50%;
   padding-left: 40px;
   justify-content: center;
-  font-size: calc(1rem + 0.5vw);
+  font-size: calc(.9rem + 0.3vw);
 }
 
 /*setting up for mobile*/
@@ -203,9 +203,10 @@ html {
 .communications_icons {
   display: block;
   text-align: right;
-  width: 90%;
+/*  width: 90%;*/
   font-size: calc(2rem + 0.5vw);
   margin-top: auto;
+  margin-left: auto;
 }
 
 .communications_icons a {
