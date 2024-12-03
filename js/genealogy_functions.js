@@ -180,15 +180,48 @@ function clearNuclearFamilyHighlights() {
     });
 }
 
+// function highlightNuclearFamily(familyData, parentMapping, focusedId) {
+//     clearNuclearFamilyHighlights();
+    
+//     const familyUnit = Object.values(parentMapping).find(family => 
+//         family.parent_variable_names.includes(focusedId)
+//     );
+    
+//     if (familyUnit) {
+//         const spouseId = familyUnit.parent_variable_names.find(id => id !== focusedId);
+        
+//         if (spouseId) {
+//             const spouseBox = document.querySelector(`[data-id="${spouseId}"]`);
+//             if (spouseBox) {
+//                 spouseBox.classList.add('nuclear-family', 'spouse');
+//             }
+//         }
+        
+//         familyUnit.children_variable_names.forEach(childId => {
+//             const childBox = document.querySelector(`[data-id="${childId}"]`);
+//             if (childBox) {
+//                 childBox.classList.add('nuclear-family', 'child');
+//             }
+//         });
+//     }
+// }
+
 function highlightNuclearFamily(familyData, parentMapping, focusedId) {
     clearNuclearFamilyHighlights();
     
-    const familyUnit = Object.values(parentMapping).find(family => 
+    // Find if person is a parent (existing code)
+    const familyUnitAsParent = Object.values(parentMapping).find(family => 
         family.parent_variable_names.includes(focusedId)
     );
     
-    if (familyUnit) {
-        const spouseId = familyUnit.parent_variable_names.find(id => id !== focusedId);
+    // Find if person is a child (new code)
+    const familyUnitAsChild = Object.values(parentMapping).find(family => 
+        family.children_variable_names.includes(focusedId)
+    );
+    
+    // Highlight person's spouse and children (if they are a parent)
+    if (familyUnitAsParent) {
+        const spouseId = familyUnitAsParent.parent_variable_names.find(id => id !== focusedId);
         
         if (spouseId) {
             const spouseBox = document.querySelector(`[data-id="${spouseId}"]`);
@@ -197,10 +230,20 @@ function highlightNuclearFamily(familyData, parentMapping, focusedId) {
             }
         }
         
-        familyUnit.children_variable_names.forEach(childId => {
+        familyUnitAsParent.children_variable_names.forEach(childId => {
             const childBox = document.querySelector(`[data-id="${childId}"]`);
             if (childBox) {
                 childBox.classList.add('nuclear-family', 'child');
+            }
+        });
+    }
+    
+    // Highlight person's parents (if they are a child)
+    if (familyUnitAsChild) {
+        familyUnitAsChild.parent_variable_names.forEach(parentId => {
+            const parentBox = document.querySelector(`[data-id="${parentId}"]`);
+            if (parentBox) {
+                parentBox.classList.add('nuclear-family', 'parent');
             }
         });
     }

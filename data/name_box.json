@@ -2,7 +2,7 @@
     "var_micah": {
         "name": "Micah Clemens Kulanakilaikekai'ale'ale Young",
         "birth": "1999",
-        "x": 6612.5,
+        "x": 7535.0,
         "y": 60.0,
         "box_height": 80.0,
         "generation": 0,
@@ -29,7 +29,7 @@
     "var_a": {
         "name": "Melia Elizabeth Keahiokeola Young",
         "birth": "2001",
-        "x": 6842.5,
+        "x": 7765.0,
         "y": 67.5,
         "box_height": 65.0,
         "generation": 0,
@@ -56,7 +56,7 @@
     "var_1": {
         "name": "Heidi Kaleimomi Ho",
         "birth": "1970",
-        "x": 6612.5,
+        "x": 7535.0,
         "y": 225.0,
         "box_height": 50.0,
         "generation": 1,
@@ -88,7 +88,7 @@
     "var_0": {
         "name": "Malcolm Clemens Young",
         "birth": "1967",
-        "x": 6842.5,
+        "x": 7765.0,
         "y": 217.5,
         "box_height": 65.0,
         "generation": 1,
@@ -117,15 +117,18 @@
     },
     "var_01": {
         "name": "Angela Clare Payne",
-        "birth": "<NA>",
-        "x": 6842.5,
-        "y": 382.5,
-        "box_height": 35.0,
+        "birth": "1940",
+        "x": 8565.0,
+        "y": 375.0,
+        "box_height": 50.0,
         "generation": 2,
         "relationships": {
-            "mother": "",
-            "father": "",
-            "siblings": [],
+            "mother": "var_011",
+            "father": "var_010",
+            "siblings": [
+                "var_01a",
+                "var_01b"
+            ],
             "children": [
                 "var_0",
                 "var_0a"
@@ -137,23 +140,26 @@
             "direct_lineal_gender": "F"
         },
         "arrows": {
-            "up": "",
+            "up": "var_011",
             "down": "var_0",
-            "left": "var_10",
+            "left": "var_01b",
             "right": "var_00"
         }
     },
     "var_00": {
         "name": "Stephen Pomery Young",
-        "birth": "<NA>",
-        "x": 7072.5,
-        "y": 382.5,
-        "box_height": 35.0,
+        "birth": "1938",
+        "x": 8795.0,
+        "y": 375.0,
+        "box_height": 50.0,
         "generation": 2,
         "relationships": {
-            "mother": "",
-            "father": "",
-            "siblings": [],
+            "mother": "var_001",
+            "father": "var_000",
+            "siblings": [
+                "var_00a",
+                "var_00b"
+            ],
             "children": [
                 "var_0",
                 "var_0a"
@@ -165,18 +171,18 @@
             "direct_lineal_gender": "M"
         },
         "arrows": {
-            "up": "",
+            "up": "var_001",
             "down": "var_0",
             "left": "var_01",
-            "right": ""
+            "right": "var_00a"
         }
     },
     "var_0a": {
         "name": "Andrew Young",
-        "birth": "<NA>",
-        "x": 7072.5,
-        "y": 232.5,
-        "box_height": 35.0,
+        "birth": "1970",
+        "x": 7995.0,
+        "y": 225.0,
+        "box_height": 50.0,
         "generation": 1,
         "relationships": {
             "mother": "var_01",
@@ -201,7 +207,7 @@
     "var_11": {
         "name": "Diane Lynne Keahiokeola St. Sure",
         "birth": "1945",
-        "x": 6152.5,
+        "x": 6500.0,
         "y": 367.5,
         "box_height": 65.0,
         "generation": 2,
@@ -235,14 +241,19 @@
     "var_10": {
         "name": "Glenn Kwock Chin Ho",
         "birth": "1943",
-        "x": 6382.5,
+        "x": 6730.0,
         "y": 375.0,
         "box_height": 50.0,
         "generation": 2,
         "relationships": {
-            "mother": "",
-            "father": "",
-            "siblings": [],
+            "mother": "var_101",
+            "father": "var_100",
+            "siblings": [
+                "var_10a",
+                "var_10b",
+                "var_10c",
+                "var_10d"
+            ],
             "children": [
                 "var_1",
                 "var_1a",
@@ -256,16 +267,16 @@
             "direct_lineal_gender": "M"
         },
         "arrows": {
-            "up": "",
+            "up": "var_101",
             "down": "var_1",
             "left": "var_11",
-            "right": "var_01"
+            "right": "var_10a"
         }
     },
     "var_1a": {
         "name": "Glenn Kwock Chin (Keoki) Ho",
         "birth": "1968",
-        "x": 5922.5,
+        "x": 6845.0,
         "y": 217.5,
         "box_height": 65.0,
         "generation": 1,
@@ -292,11 +303,11 @@
         }
     },
     "var_1b": {
-        "name": "Derek Ho",
-        "birth": "<NA>",
-        "x": 6152.5,
-        "y": 232.5,
-        "box_height": 35.0,
+        "name": "Derek Dwight Ho",
+        "birth": "1961",
+        "x": 7075.0,
+        "y": 225.0,
+        "box_height": 50.0,
         "generation": 1,
         "relationships": {
             "mother": "var_11",
@@ -322,10 +333,10 @@
     },
     "var_1c": {
         "name": "Darren Ho",
-        "birth": "<NA>",
-        "x": 6382.5,
-        "y": 232.5,
-        "box_height": 35.0,
+        "birth": "1963",
+        "x": 7305.0,
+        "y": 225.0,
+        "box_height": 50.0,
         "generation": 1,
         "relationships": {
             "mother": "var_11",
@@ -352,7 +363,7 @@
     "var_111": {
         "name": "Sarah Elizabeth Leimomi Shaw",
         "birth": "1920",
-        "x": 5692.5,
+        "x": 4945.0,
         "y": 517.5,
         "box_height": 65.0,
         "generation": 3,
@@ -387,14 +398,19 @@
     "var_110": {
         "name": "Richard Herbert St. Sure",
         "birth": "1911",
-        "x": 5922.5,
+        "x": 5175.0,
         "y": 517.5,
         "box_height": 65.0,
         "generation": 3,
         "relationships": {
-            "mother": "",
-            "father": "",
-            "siblings": [],
+            "mother": "var_1101",
+            "father": "var_1100",
+            "siblings": [
+                "var_110a",
+                "var_110b",
+                "var_110c",
+                "var_110d"
+            ],
             "children": [
                 "var_11",
                 "var_11a",
@@ -408,16 +424,16 @@
             "direct_lineal_gender": "M"
         },
         "arrows": {
-            "up": "",
+            "up": "var_1101",
             "down": "var_11",
             "left": "var_111",
-            "right": ""
+            "right": "var_110a"
         }
     },
     "var_11a": {
         "name": "Karen Kaui St. Sure",
         "birth": "1940",
-        "x": 5462.5,
+        "x": 5810.0,
         "y": 375.0,
         "box_height": 50.0,
         "generation": 2,
@@ -446,7 +462,7 @@
     "var_11b": {
         "name": "Charles Richard St. Sure",
         "birth": "1942",
-        "x": 5692.5,
+        "x": 6040.0,
         "y": 367.5,
         "box_height": 65.0,
         "generation": 2,
@@ -475,7 +491,7 @@
     "var_11c": {
         "name": "Roberta Leinala St. Sure",
         "birth": "1951",
-        "x": 5922.5,
+        "x": 6270.0,
         "y": 367.5,
         "box_height": 65.0,
         "generation": 2,
@@ -504,7 +520,7 @@
     "var_1111": {
         "name": "Helen Leinaala Makalena Hoonakaua Watson",
         "birth": "1889",
-        "x": 5117.5,
+        "x": 4370.0,
         "y": 660.0,
         "box_height": 80.0,
         "generation": 4,
@@ -551,7 +567,7 @@
     "var_1110": {
         "name": "Charles Richard Kealoha Shaw",
         "birth": "1883",
-        "x": 5347.5,
+        "x": 4600.0,
         "y": 667.5,
         "box_height": 65.0,
         "generation": 4,
@@ -576,13 +592,13 @@
             "up": "var_11101",
             "down": "var_111",
             "left": "var_1111",
-            "right": ""
+            "right": "var_1101"
         }
     },
     "var_111a": {
         "name": "Alma Leinaala Shaw",
         "birth": "1915",
-        "x": 4772.5,
+        "x": 4025.0,
         "y": 525.0,
         "box_height": 50.0,
         "generation": 3,
@@ -612,7 +628,7 @@
     "var_111b": {
         "name": "Helen Noelani Shaw",
         "birth": "1916",
-        "x": 5002.5,
+        "x": 4255.0,
         "y": 525.0,
         "box_height": 50.0,
         "generation": 3,
@@ -642,7 +658,7 @@
     "var_111c": {
         "name": "Hazel Leocadia Shaw",
         "birth": "1918",
-        "x": 5232.5,
+        "x": 4485.0,
         "y": 525.0,
         "box_height": 50.0,
         "generation": 3,
@@ -672,7 +688,7 @@
     "var_111d": {
         "name": "James Thomas Shaw",
         "birth": "1919",
-        "x": 5462.5,
+        "x": 4715.0,
         "y": 525.0,
         "box_height": 50.0,
         "generation": 3,
@@ -764,7 +780,7 @@
             "up": "",
             "down": "var_1110",
             "left": "var_11101",
-            "right": ""
+            "right": "var_11011"
         }
     },
     "var_111011": {
@@ -844,7 +860,7 @@
             "up": "var_1110101",
             "down": "var_11101",
             "left": "var_111011",
-            "right": ""
+            "right": "var_110111"
         }
     },
     "var_11101a": {
@@ -1405,7 +1421,7 @@
             "up": "var_11101001",
             "down": "var_111010",
             "left": "var_1110101",
-            "right": ""
+            "right": "var_1101111"
         }
     },
     "var_1110111": {
@@ -1486,7 +1502,7 @@
             "up": "var_111010001",
             "down": "var_1110100",
             "left": "var_11101001",
-            "right": ""
+            "right": "var_11011001"
         }
     },
     "var_11101001": {
@@ -1540,7 +1556,7 @@
             "up": "var_1110100001",
             "down": "var_11101000",
             "left": "var_111010001",
-            "right": ""
+            "right": "var_110110011"
         }
     },
     "var_111010001": {
@@ -1594,7 +1610,7 @@
             "up": "var_11101000001",
             "down": "var_111010000",
             "left": "var_1110100001",
-            "right": ""
+            "right": "var_0011000001a"
         }
     },
     "var_1110100001": {
@@ -1648,7 +1664,7 @@
             "up": "var_111010000001",
             "down": "var_1110100000",
             "left": "var_11101000001",
-            "right": ""
+            "right": "var_00110000011"
         }
     },
     "var_11101000001": {
@@ -1939,7 +1955,7 @@
     "var_1111a": {
         "name": "Arthur Watson",
         "birth": "1886",
-        "x": 1667.5,
+        "x": 920.0,
         "y": 675.0,
         "box_height": 50.0,
         "generation": 4,
@@ -1980,7 +1996,7 @@
     "var_1111b": {
         "name": "Albert Joseph Watson",
         "birth": "1888",
-        "x": 1897.5,
+        "x": 1150.0,
         "y": 675.0,
         "box_height": 50.0,
         "generation": 4,
@@ -2021,7 +2037,7 @@
     "var_1111c": {
         "name": "Henry K Watson",
         "birth": "1891",
-        "x": 2127.5,
+        "x": 1380.0,
         "y": 675.0,
         "box_height": 50.0,
         "generation": 4,
@@ -2062,7 +2078,7 @@
     "var_1111d": {
         "name": "Walter Oliver Watson",
         "birth": "1894",
-        "x": 2357.5,
+        "x": 1610.0,
         "y": 675.0,
         "box_height": 50.0,
         "generation": 4,
@@ -2103,7 +2119,7 @@
     "var_1111e": {
         "name": "Ethel Lucile Watson",
         "birth": "1895",
-        "x": 2587.5,
+        "x": 1840.0,
         "y": 675.0,
         "box_height": 50.0,
         "generation": 4,
@@ -2144,7 +2160,7 @@
     "var_1111f": {
         "name": "William Bernard Watson",
         "birth": "1896",
-        "x": 2817.5,
+        "x": 2070.0,
         "y": 667.5,
         "box_height": 65.0,
         "generation": 4,
@@ -2185,7 +2201,7 @@
     "var_1111g": {
         "name": "Edna Watson",
         "birth": "1897",
-        "x": 3047.5,
+        "x": 2300.0,
         "y": 675.0,
         "box_height": 50.0,
         "generation": 4,
@@ -2226,7 +2242,7 @@
     "var_1111h": {
         "name": "George Watson",
         "birth": "1899",
-        "x": 3277.5,
+        "x": 2530.0,
         "y": 675.0,
         "box_height": 50.0,
         "generation": 4,
@@ -2267,7 +2283,7 @@
     "var_1111i": {
         "name": "John Watson",
         "birth": "1900",
-        "x": 3507.5,
+        "x": 2760.0,
         "y": 675.0,
         "box_height": 50.0,
         "generation": 4,
@@ -2308,7 +2324,7 @@
     "var_1111j": {
         "name": "Lucy Watson",
         "birth": "1902",
-        "x": 3737.5,
+        "x": 2990.0,
         "y": 675.0,
         "box_height": 50.0,
         "generation": 4,
@@ -2349,7 +2365,7 @@
     "var_1111k": {
         "name": "Clara Watson",
         "birth": "1903",
-        "x": 3967.5,
+        "x": 3220.0,
         "y": 675.0,
         "box_height": 50.0,
         "generation": 4,
@@ -2390,7 +2406,7 @@
     "var_1111l": {
         "name": "Margaret Watson",
         "birth": "1904",
-        "x": 4197.5,
+        "x": 3450.0,
         "y": 675.0,
         "box_height": 50.0,
         "generation": 4,
@@ -2431,7 +2447,7 @@
     "var_1111m": {
         "name": "Kenneth B Watson",
         "birth": "1907",
-        "x": 4427.5,
+        "x": 3680.0,
         "y": 675.0,
         "box_height": 50.0,
         "generation": 4,
@@ -2472,7 +2488,7 @@
     "var_1111n": {
         "name": "Ernest Anthony Watson",
         "birth": "1908",
-        "x": 4657.5,
+        "x": 3910.0,
         "y": 667.5,
         "box_height": 65.0,
         "generation": 4,
@@ -2513,7 +2529,7 @@
     "var_1111o": {
         "name": "Louis Noelani Maurice Watson",
         "birth": "1911",
-        "x": 4887.5,
+        "x": 4140.0,
         "y": 667.5,
         "box_height": 65.0,
         "generation": 4,
@@ -2552,7 +2568,7 @@
         }
     },
     "var_111111": {
-        "name": "Amelia Akoi",
+        "name": "Amelia Ah Akoi",
         "birth": "1836",
         "x": 1150.0,
         "y": 975.0,
@@ -2593,11 +2609,11 @@
         }
     },
     "var_111110": {
-        "name": "Wikoli Kamukai",
+        "name": "Wikoli (Kamukai) Victor",
         "birth": "1836",
         "x": 1380.0,
-        "y": 975.0,
-        "box_height": 50.0,
+        "y": 967.5,
+        "box_height": 65.0,
         "generation": 6,
         "relationships": {
             "mother": "var_1111101",
@@ -2631,7 +2647,7 @@
         }
     },
     "var_11111a": {
-        "name": "Joseph Aiona",
+        "name": "Joseph Aiona Victor",
         "birth": "1857",
         "x": 0.0,
         "y": 825.0,
@@ -2668,7 +2684,7 @@
         }
     },
     "var_11111b": {
-        "name": "Peter",
+        "name": "Peter Victor",
         "birth": "1862",
         "x": 230.0,
         "y": 825.0,
@@ -2705,7 +2721,7 @@
         }
     },
     "var_11111c": {
-        "name": "Philip Ahau",
+        "name": "Philip Ahau Victor",
         "birth": "1864",
         "x": 460.0,
         "y": 825.0,
@@ -2742,7 +2758,7 @@
         }
     },
     "var_11111d": {
-        "name": "Joseph Aiko",
+        "name": "Joseph Aiko Victor",
         "birth": "1866",
         "x": 690.0,
         "y": 825.0,
@@ -2779,7 +2795,7 @@
         }
     },
     "var_11111e": {
-        "name": "Herman A'ina",
+        "name": "Herman A'ina Victor",
         "birth": "1868",
         "x": 920.0,
         "y": 825.0,
@@ -2816,7 +2832,7 @@
         }
     },
     "var_11111f": {
-        "name": "Aiko",
+        "name": "Aiko Victor",
         "birth": "1871",
         "x": 1150.0,
         "y": 825.0,
@@ -2853,7 +2869,7 @@
         }
     },
     "var_11111g": {
-        "name": "Michael",
+        "name": "Michael Victor",
         "birth": "1875",
         "x": 1380.0,
         "y": 825.0,
@@ -2890,7 +2906,7 @@
         }
     },
     "var_11111h": {
-        "name": "Annie Akiu",
+        "name": "Annie Akiu Victor",
         "birth": "1875",
         "x": 1610.0,
         "y": 825.0,
@@ -2927,11 +2943,11 @@
         }
     },
     "var_11111i": {
-        "name": "Helen Kahanu'u",
+        "name": "Helen Kahanu'u Victor",
         "birth": "1877",
         "x": 1840.0,
-        "y": 825.0,
-        "box_height": 50.0,
+        "y": 817.5,
+        "box_height": 65.0,
         "generation": 5,
         "relationships": {
             "mother": "var_111111",
@@ -2964,7 +2980,7 @@
         }
     },
     "var_11111j": {
-        "name": "Akiuli'ili'i",
+        "name": "Akiuli'ili'I Victor",
         "birth": "1879",
         "x": 2070.0,
         "y": 825.0,
@@ -3001,7 +3017,7 @@
         }
     },
     "var_11111k": {
-        "name": "Emelia",
+        "name": "Emelia Victor",
         "birth": "1879",
         "x": 2300.0,
         "y": 825.0,
@@ -3038,7 +3054,7 @@
         }
     },
     "var_1111110": {
-        "name": "Lum Jo",
+        "name": "Aiko Lum Jo",
         "birth": "1799",
         "x": 1035.0,
         "y": 1125.0,
@@ -3068,10 +3084,10 @@
     },
     "var_1111111": {
         "name": "Maria Ka'ahuape'a",
-        "birth": "<NA>",
+        "birth": "1815",
         "x": 805.0,
-        "y": 1132.5,
-        "box_height": 35.0,
+        "y": 1125.0,
+        "box_height": 50.0,
         "generation": 7,
         "relationships": {
             "mother": "var_11111111",
@@ -3206,7 +3222,7 @@
         }
     },
     "var_1111100": {
-        "name": "Chee In",
+        "name": "Ako",
         "birth": "<NA>",
         "x": 1555.0,
         "y": 1132.5,
@@ -3257,6 +3273,5113 @@
             "down": "var_111110",
             "left": "var_1111110",
             "right": "var_1111100"
+        }
+    },
+    "var_010": {
+        "name": "George Henry Payne",
+        "birth": "1905",
+        "x": 9320.0,
+        "y": 525.0,
+        "box_height": 50.0,
+        "generation": 3,
+        "relationships": {
+            "mother": "",
+            "father": "",
+            "siblings": [],
+            "children": [
+                "var_01",
+                "var_01a",
+                "var_01b"
+            ],
+            "spouse": "var_011"
+        },
+        "family_info": {
+            "direct_lineal": true,
+            "direct_lineal_gender": "M"
+        },
+        "arrows": {
+            "up": "",
+            "down": "var_01",
+            "left": "var_011",
+            "right": "var_001a"
+        }
+    },
+    "var_011": {
+        "name": "Kate Gertrude Wilson",
+        "birth": "1904",
+        "x": 9090.0,
+        "y": 525.0,
+        "box_height": 50.0,
+        "generation": 3,
+        "relationships": {
+            "mother": "var_0111",
+            "father": "var_0110",
+            "siblings": [
+                "var_011a"
+            ],
+            "children": [
+                "var_01",
+                "var_01a",
+                "var_01b"
+            ],
+            "spouse": "var_010"
+        },
+        "family_info": {
+            "direct_lineal": true,
+            "direct_lineal_gender": "F"
+        },
+        "arrows": {
+            "up": "var_0111",
+            "down": "var_01",
+            "left": "var_011a",
+            "right": "var_010"
+        }
+    },
+    "var_000": {
+        "name": "Elmore Clemens Young",
+        "birth": "1909",
+        "x": 10850.0,
+        "y": 525.0,
+        "box_height": 50.0,
+        "generation": 3,
+        "relationships": {
+            "mother": "var_0001",
+            "father": "var_0000",
+            "siblings": [
+                "var_000a"
+            ],
+            "children": [
+                "var_00",
+                "var_00a",
+                "var_00b"
+            ],
+            "spouse": "var_001"
+        },
+        "family_info": {
+            "direct_lineal": true,
+            "direct_lineal_gender": "M"
+        },
+        "arrows": {
+            "up": "var_0001",
+            "down": "var_00",
+            "left": "var_001",
+            "right": "var_000a"
+        }
+    },
+    "var_001": {
+        "name": "Ruth Evelyn Barber",
+        "birth": "1905",
+        "x": 10620.0,
+        "y": 525.0,
+        "box_height": 50.0,
+        "generation": 3,
+        "relationships": {
+            "mother": "var_0011",
+            "father": "var_0010",
+            "siblings": [
+                "var_001a",
+                "var_001b",
+                "var_001c",
+                "var_001d"
+            ],
+            "children": [
+                "var_00",
+                "var_00a",
+                "var_00b"
+            ],
+            "spouse": "var_000"
+        },
+        "family_info": {
+            "direct_lineal": true,
+            "direct_lineal_gender": "F"
+        },
+        "arrows": {
+            "up": "var_0011",
+            "down": "var_00",
+            "left": "var_001d",
+            "right": "var_000"
+        }
+    },
+    "var_0001": {
+        "name": "Anna Elizabeth Thompson",
+        "birth": "1882",
+        "x": 12225.0,
+        "y": 667.5,
+        "box_height": 65.0,
+        "generation": 4,
+        "relationships": {
+            "mother": "",
+            "father": "",
+            "siblings": [],
+            "children": [
+                "var_000",
+                "var_000a"
+            ],
+            "spouse": "var_0000"
+        },
+        "family_info": {
+            "direct_lineal": true,
+            "direct_lineal_gender": "F"
+        },
+        "arrows": {
+            "up": "",
+            "down": "var_000",
+            "left": "var_0010",
+            "right": "var_0000"
+        }
+    },
+    "var_0000": {
+        "name": "Sherman Pomeroy Young",
+        "birth": "1865",
+        "x": 12455.0,
+        "y": 667.5,
+        "box_height": 65.0,
+        "generation": 4,
+        "relationships": {
+            "mother": "var_00001",
+            "father": "var_00000",
+            "siblings": [
+                "var_0000a",
+                "var_0000b",
+                "var_0000c",
+                "var_0000d"
+            ],
+            "children": [
+                "var_000",
+                "var_000a"
+            ],
+            "spouse": "var_0001"
+        },
+        "family_info": {
+            "direct_lineal": true,
+            "direct_lineal_gender": "M"
+        },
+        "arrows": {
+            "up": "var_00001",
+            "down": "var_000",
+            "left": "var_0001",
+            "right": "var_0000a"
+        }
+    },
+    "var_000a": {
+        "name": "Robert Summerfield Young",
+        "birth": "1905",
+        "x": 11080.0,
+        "y": 517.5,
+        "box_height": 65.0,
+        "generation": 3,
+        "relationships": {
+            "mother": "var_0001",
+            "father": "var_0000",
+            "siblings": [
+                "var_000"
+            ],
+            "children": [],
+            "spouse": ""
+        },
+        "family_info": {
+            "direct_lineal": true,
+            "direct_lineal_gender": ""
+        },
+        "arrows": {
+            "up": "var_0001",
+            "down": "var_00",
+            "left": "var_000",
+            "right": ""
+        }
+    },
+    "var_0010": {
+        "name": "Frank Fullerton Barber",
+        "birth": "1857",
+        "x": 11815.0,
+        "y": 667.5,
+        "box_height": 65.0,
+        "generation": 4,
+        "relationships": {
+            "mother": "var_00101",
+            "father": "var_00100",
+            "siblings": [],
+            "children": [
+                "var_001",
+                "var_001a",
+                "var_001b",
+                "var_001c",
+                "var_001d"
+            ],
+            "spouse": "var_0011"
+        },
+        "family_info": {
+            "direct_lineal": true,
+            "direct_lineal_gender": "M"
+        },
+        "arrows": {
+            "up": "var_00101",
+            "down": "var_001",
+            "left": "var_0011",
+            "right": "var_0001"
+        }
+    },
+    "var_0011": {
+        "name": "Lucy Maria Wood",
+        "birth": "1867",
+        "x": 11585.0,
+        "y": 675.0,
+        "box_height": 50.0,
+        "generation": 4,
+        "relationships": {
+            "mother": "var_00111",
+            "father": "var_00110",
+            "siblings": [
+                "var_0011a",
+                "var_0011b",
+                "var_0011c",
+                "var_0011d"
+            ],
+            "children": [
+                "var_001",
+                "var_001a",
+                "var_001b",
+                "var_001c",
+                "var_001d"
+            ],
+            "spouse": "var_0010"
+        },
+        "family_info": {
+            "direct_lineal": true,
+            "direct_lineal_gender": "F"
+        },
+        "arrows": {
+            "up": "var_00111",
+            "down": "var_001",
+            "left": "var_0011d",
+            "right": "var_0010"
+        }
+    },
+    "var_00100": {
+        "name": "Augustus Anson Barber",
+        "birth": "1820",
+        "x": 11930.0,
+        "y": 817.5,
+        "box_height": 65.0,
+        "generation": 5,
+        "relationships": {
+            "mother": "",
+            "father": "",
+            "siblings": [],
+            "children": [
+                "var_0010"
+            ],
+            "spouse": "var_00101"
+        },
+        "family_info": {
+            "direct_lineal": true,
+            "direct_lineal_gender": "M"
+        },
+        "arrows": {
+            "up": "",
+            "down": "var_0010",
+            "left": "var_00101",
+            "right": "var_00001a"
+        }
+    },
+    "var_00101": {
+        "name": "Eleanor Elizabeth Fullerton",
+        "birth": "1830",
+        "x": 11700.0,
+        "y": 817.5,
+        "box_height": 65.0,
+        "generation": 5,
+        "relationships": {
+            "mother": "",
+            "father": "",
+            "siblings": [],
+            "children": [
+                "var_0010"
+            ],
+            "spouse": "var_00100"
+        },
+        "family_info": {
+            "direct_lineal": true,
+            "direct_lineal_gender": "F"
+        },
+        "arrows": {
+            "up": "",
+            "down": "var_0010",
+            "left": "var_00110",
+            "right": "var_00100"
+        }
+    },
+    "var_00a": {
+        "name": "Anson Young",
+        "birth": "<NA>",
+        "x": 9025.0,
+        "y": 382.5,
+        "box_height": 35.0,
+        "generation": 2,
+        "relationships": {
+            "mother": "var_001",
+            "father": "var_000",
+            "siblings": [
+                "var_00",
+                "var_00b"
+            ],
+            "children": [],
+            "spouse": ""
+        },
+        "family_info": {
+            "direct_lineal": true,
+            "direct_lineal_gender": ""
+        },
+        "arrows": {
+            "up": "var_001",
+            "down": "var_0",
+            "left": "var_00",
+            "right": "var_00b"
+        }
+    },
+    "var_00b": {
+        "name": "Lucy Young",
+        "birth": "<NA>",
+        "x": 9255.0,
+        "y": 382.5,
+        "box_height": 35.0,
+        "generation": 2,
+        "relationships": {
+            "mother": "var_001",
+            "father": "var_000",
+            "siblings": [
+                "var_00",
+                "var_00a"
+            ],
+            "children": [],
+            "spouse": ""
+        },
+        "family_info": {
+            "direct_lineal": true,
+            "direct_lineal_gender": ""
+        },
+        "arrows": {
+            "up": "var_001",
+            "down": "var_0",
+            "left": "var_00a",
+            "right": ""
+        }
+    },
+    "var_1100": {
+        "name": "Franklin Augustus St. Sure",
+        "birth": "1874",
+        "x": 5750.0,
+        "y": 667.5,
+        "box_height": 65.0,
+        "generation": 4,
+        "relationships": {
+            "mother": "var_11001",
+            "father": "var_11000",
+            "siblings": [],
+            "children": [
+                "var_110",
+                "var_110a",
+                "var_110b",
+                "var_110c",
+                "var_110d"
+            ],
+            "spouse": "var_1101"
+        },
+        "family_info": {
+            "direct_lineal": true,
+            "direct_lineal_gender": "M"
+        },
+        "arrows": {
+            "up": "var_11001",
+            "down": "var_110",
+            "left": "var_1101",
+            "right": "var_1011"
+        }
+    },
+    "var_1101": {
+        "name": "Mabel Alice Mossman",
+        "birth": "1882",
+        "x": 5520.0,
+        "y": 675.0,
+        "box_height": 50.0,
+        "generation": 4,
+        "relationships": {
+            "mother": "var_11011",
+            "father": "var_11010",
+            "siblings": [],
+            "children": [
+                "var_110",
+                "var_110a",
+                "var_110b",
+                "var_110c",
+                "var_110d"
+            ],
+            "spouse": "var_1100"
+        },
+        "family_info": {
+            "direct_lineal": true,
+            "direct_lineal_gender": "F"
+        },
+        "arrows": {
+            "up": "var_11011",
+            "down": "var_110",
+            "left": "var_1110",
+            "right": "var_1100"
+        }
+    },
+    "var_110a": {
+        "name": "John Estes St. Sure",
+        "birth": "1905",
+        "x": 5405.0,
+        "y": 525.0,
+        "box_height": 50.0,
+        "generation": 3,
+        "relationships": {
+            "mother": "var_1101",
+            "father": "var_1100",
+            "siblings": [
+                "var_110",
+                "var_110b",
+                "var_110c",
+                "var_110d"
+            ],
+            "children": [],
+            "spouse": ""
+        },
+        "family_info": {
+            "direct_lineal": true,
+            "direct_lineal_gender": ""
+        },
+        "arrows": {
+            "up": "var_1101",
+            "down": "var_11",
+            "left": "var_110",
+            "right": "var_110b"
+        }
+    },
+    "var_110b": {
+        "name": "Franklin St. Sure",
+        "birth": "1907",
+        "x": 5635.0,
+        "y": 525.0,
+        "box_height": 50.0,
+        "generation": 3,
+        "relationships": {
+            "mother": "var_1101",
+            "father": "var_1100",
+            "siblings": [
+                "var_110",
+                "var_110a",
+                "var_110c",
+                "var_110d"
+            ],
+            "children": [],
+            "spouse": ""
+        },
+        "family_info": {
+            "direct_lineal": true,
+            "direct_lineal_gender": ""
+        },
+        "arrows": {
+            "up": "var_1101",
+            "down": "var_11",
+            "left": "var_110a",
+            "right": "var_110c"
+        }
+    },
+    "var_110c": {
+        "name": "Robert St. Sure",
+        "birth": "1909",
+        "x": 5865.0,
+        "y": 525.0,
+        "box_height": 50.0,
+        "generation": 3,
+        "relationships": {
+            "mother": "var_1101",
+            "father": "var_1100",
+            "siblings": [
+                "var_110",
+                "var_110a",
+                "var_110b",
+                "var_110d"
+            ],
+            "children": [],
+            "spouse": ""
+        },
+        "family_info": {
+            "direct_lineal": true,
+            "direct_lineal_gender": ""
+        },
+        "arrows": {
+            "up": "var_1101",
+            "down": "var_11",
+            "left": "var_110b",
+            "right": "var_110d"
+        }
+    },
+    "var_110d": {
+        "name": "George St. Sure",
+        "birth": "1909",
+        "x": 6095.0,
+        "y": 525.0,
+        "box_height": 50.0,
+        "generation": 3,
+        "relationships": {
+            "mother": "var_1101",
+            "father": "var_1100",
+            "siblings": [
+                "var_110",
+                "var_110a",
+                "var_110b",
+                "var_110c"
+            ],
+            "children": [],
+            "spouse": ""
+        },
+        "family_info": {
+            "direct_lineal": true,
+            "direct_lineal_gender": ""
+        },
+        "arrows": {
+            "up": "var_1101",
+            "down": "var_11",
+            "left": "var_110c",
+            "right": "var_101a"
+        }
+    },
+    "var_11010": {
+        "name": "William F Mossman",
+        "birth": "1834",
+        "x": 7345.0,
+        "y": 825.0,
+        "box_height": 50.0,
+        "generation": 5,
+        "relationships": {
+            "mother": "var_110101",
+            "father": "var_110100",
+            "siblings": [],
+            "children": [
+                "var_1101"
+            ],
+            "spouse": "var_11011"
+        },
+        "family_info": {
+            "direct_lineal": true,
+            "direct_lineal_gender": "M"
+        },
+        "arrows": {
+            "up": "var_110101",
+            "down": "var_1101",
+            "left": "var_11011",
+            "right": "var_11001"
+        }
+    },
+    "var_11011": {
+        "name": "Clara Mokomanic Rohrer",
+        "birth": "1852",
+        "x": 7115.0,
+        "y": 817.5,
+        "box_height": 65.0,
+        "generation": 5,
+        "relationships": {
+            "mother": "var_110111",
+            "father": "var_110110",
+            "siblings": [],
+            "children": [
+                "var_1101"
+            ],
+            "spouse": "var_11010"
+        },
+        "family_info": {
+            "direct_lineal": true,
+            "direct_lineal_gender": "F"
+        },
+        "arrows": {
+            "up": "var_110111",
+            "down": "var_1101",
+            "left": "var_11100",
+            "right": "var_11010"
+        }
+    },
+    "var_01a": {
+        "name": "Malcolm Payne",
+        "birth": "1930",
+        "x": 8105.0,
+        "y": 375.0,
+        "box_height": 50.0,
+        "generation": 2,
+        "relationships": {
+            "mother": "var_011",
+            "father": "var_010",
+            "siblings": [
+                "var_01",
+                "var_01b"
+            ],
+            "children": [],
+            "spouse": ""
+        },
+        "family_info": {
+            "direct_lineal": true,
+            "direct_lineal_gender": ""
+        },
+        "arrows": {
+            "up": "var_011",
+            "down": "var_0",
+            "left": "var_10d",
+            "right": "var_01b"
+        }
+    },
+    "var_01b": {
+        "name": "Cynthia Payne",
+        "birth": "1933",
+        "x": 8335.0,
+        "y": 375.0,
+        "box_height": 50.0,
+        "generation": 2,
+        "relationships": {
+            "mother": "var_011",
+            "father": "var_010",
+            "siblings": [
+                "var_01",
+                "var_01a"
+            ],
+            "children": [],
+            "spouse": ""
+        },
+        "family_info": {
+            "direct_lineal": true,
+            "direct_lineal_gender": ""
+        },
+        "arrows": {
+            "up": "var_011",
+            "down": "var_0",
+            "left": "var_01a",
+            "right": "var_01"
+        }
+    },
+    "var_110111": {
+        "name": "Mary O-Daun-Duck ",
+        "birth": "1830",
+        "x": 7000.0,
+        "y": 975.0,
+        "box_height": 50.0,
+        "generation": 6,
+        "relationships": {
+            "mother": "var_1101111",
+            "father": "var_1101110",
+            "siblings": [],
+            "children": [
+                "var_11011"
+            ],
+            "spouse": "var_110110"
+        },
+        "family_info": {
+            "direct_lineal": true,
+            "direct_lineal_gender": "F"
+        },
+        "arrows": {
+            "up": "var_1101111",
+            "down": "var_11011",
+            "left": "var_111010",
+            "right": "var_110110"
+        }
+    },
+    "var_110110": {
+        "name": "Daniel Rohrer",
+        "birth": "1828",
+        "x": 7230.0,
+        "y": 975.0,
+        "box_height": 50.0,
+        "generation": 6,
+        "relationships": {
+            "mother": "var_1101101",
+            "father": "var_1101100",
+            "siblings": [],
+            "children": [
+                "var_11011"
+            ],
+            "spouse": "var_110111"
+        },
+        "family_info": {
+            "direct_lineal": true,
+            "direct_lineal_gender": "M"
+        },
+        "arrows": {
+            "up": "var_1101101",
+            "down": "var_11011",
+            "left": "var_110111",
+            "right": "var_110101"
+        }
+    },
+    "var_100": {
+        "name": "George Fong (Blackie) Ho",
+        "birth": "1910",
+        "x": 7760.0,
+        "y": 517.5,
+        "box_height": 65.0,
+        "generation": 3,
+        "relationships": {
+            "mother": "var_1001",
+            "father": "var_1000",
+            "siblings": [
+                "var_100a",
+                "var_100b",
+                "var_100c"
+            ],
+            "children": [
+                "var_10",
+                "var_10a",
+                "var_10b",
+                "var_10c",
+                "var_10d"
+            ],
+            "spouse": "var_101"
+        },
+        "family_info": {
+            "direct_lineal": true,
+            "direct_lineal_gender": "M"
+        },
+        "arrows": {
+            "up": "var_1001",
+            "down": "var_10",
+            "left": "var_101",
+            "right": "var_100a"
+        }
+    },
+    "var_101": {
+        "name": "June (Masako) (Fukuda) Fujiyama",
+        "birth": "1920",
+        "x": 7530.0,
+        "y": 517.5,
+        "box_height": 65.0,
+        "generation": 3,
+        "relationships": {
+            "mother": "var_1011",
+            "father": "var_1010",
+            "siblings": [
+                "var_101a",
+                "var_101b",
+                "var_101c",
+                "var_101d"
+            ],
+            "children": [
+                "var_10",
+                "var_10a",
+                "var_10b",
+                "var_10c",
+                "var_10d"
+            ],
+            "spouse": "var_100"
+        },
+        "family_info": {
+            "direct_lineal": true,
+            "direct_lineal_gender": "F"
+        },
+        "arrows": {
+            "up": "var_1011",
+            "down": "var_10",
+            "left": "var_101d",
+            "right": "var_100"
+        }
+    },
+    "var_1000": {
+        "name": "Hin Yim Lee",
+        "birth": "<NA>",
+        "x": 8220.0,
+        "y": 682.5,
+        "box_height": 35.0,
+        "generation": 4,
+        "relationships": {
+            "mother": "",
+            "father": "",
+            "siblings": [],
+            "children": [
+                "var_100",
+                "var_100a",
+                "var_100b",
+                "var_100c"
+            ],
+            "spouse": "var_1001"
+        },
+        "family_info": {
+            "direct_lineal": true,
+            "direct_lineal_gender": "M"
+        },
+        "arrows": {
+            "up": "",
+            "down": "var_100",
+            "left": "var_1001",
+            "right": "var_0111"
+        }
+    },
+    "var_1001": {
+        "name": "Lyau Fun Tai",
+        "birth": "1885",
+        "x": 7990.0,
+        "y": 675.0,
+        "box_height": 50.0,
+        "generation": 4,
+        "relationships": {
+            "mother": "",
+            "father": "",
+            "siblings": [],
+            "children": [
+                "var_100",
+                "var_100a",
+                "var_100b",
+                "var_100c"
+            ],
+            "spouse": "var_1000"
+        },
+        "family_info": {
+            "direct_lineal": true,
+            "direct_lineal_gender": "F"
+        },
+        "arrows": {
+            "up": "",
+            "down": "var_100",
+            "left": "var_1010",
+            "right": "var_1000"
+        }
+    },
+    "var_1010": {
+        "name": "Shuichi Fujiyama",
+        "birth": "1882",
+        "x": 7185.0,
+        "y": 675.0,
+        "box_height": 50.0,
+        "generation": 4,
+        "relationships": {
+            "mother": "",
+            "father": "",
+            "siblings": [],
+            "children": [
+                "var_101",
+                "var_101a",
+                "var_101b",
+                "var_101c",
+                "var_101d"
+            ],
+            "spouse": "var_1011"
+        },
+        "family_info": {
+            "direct_lineal": true,
+            "direct_lineal_gender": "M"
+        },
+        "arrows": {
+            "up": "",
+            "down": "var_101",
+            "left": "var_1011",
+            "right": "var_1001"
+        }
+    },
+    "var_1011": {
+        "name": "Teru Denkon",
+        "birth": "1895",
+        "x": 6955.0,
+        "y": 675.0,
+        "box_height": 50.0,
+        "generation": 4,
+        "relationships": {
+            "mother": "",
+            "father": "",
+            "siblings": [],
+            "children": [
+                "var_101",
+                "var_101a",
+                "var_101b",
+                "var_101c",
+                "var_101d"
+            ],
+            "spouse": "var_1010"
+        },
+        "family_info": {
+            "direct_lineal": true,
+            "direct_lineal_gender": "F"
+        },
+        "arrows": {
+            "up": "",
+            "down": "var_101",
+            "left": "var_1100",
+            "right": "var_1010"
+        }
+    },
+    "var_11001": {
+        "name": "Ellen Donoghue",
+        "birth": "1847",
+        "x": 7635.0,
+        "y": 825.0,
+        "box_height": 50.0,
+        "generation": 5,
+        "relationships": {
+            "mother": "",
+            "father": "",
+            "siblings": [],
+            "children": [
+                "var_1100"
+            ],
+            "spouse": "var_11000"
+        },
+        "family_info": {
+            "direct_lineal": true,
+            "direct_lineal_gender": "F"
+        },
+        "arrows": {
+            "up": "",
+            "down": "var_1100",
+            "left": "var_11010",
+            "right": "var_11000"
+        }
+    },
+    "var_0110": {
+        "name": "Robert Wilson",
+        "birth": "1878",
+        "x": 9090.0,
+        "y": 675.0,
+        "box_height": 50.0,
+        "generation": 4,
+        "relationships": {
+            "mother": "var_01101",
+            "father": "var_01100",
+            "siblings": [
+                "var_0110a",
+                "var_0110b",
+                "var_0110c",
+                "var_0110d",
+                "var_0110e"
+            ],
+            "children": [
+                "var_011",
+                "var_011a"
+            ],
+            "spouse": "var_0111"
+        },
+        "family_info": {
+            "direct_lineal": true,
+            "direct_lineal_gender": "M"
+        },
+        "arrows": {
+            "up": "var_01101",
+            "down": "var_011",
+            "left": "var_0111",
+            "right": "var_0110a"
+        }
+    },
+    "var_0111": {
+        "name": "Gertrude Fuchs",
+        "birth": "1880",
+        "x": 8860.0,
+        "y": 675.0,
+        "box_height": 50.0,
+        "generation": 4,
+        "relationships": {
+            "mother": "",
+            "father": "",
+            "siblings": [],
+            "children": [
+                "var_011",
+                "var_011a"
+            ],
+            "spouse": "var_0110"
+        },
+        "family_info": {
+            "direct_lineal": true,
+            "direct_lineal_gender": "F"
+        },
+        "arrows": {
+            "up": "",
+            "down": "var_011",
+            "left": "var_1000",
+            "right": "var_0110"
+        }
+    },
+    "var_011a": {
+        "name": "Leonard Wilson",
+        "birth": "1905",
+        "x": 8860.0,
+        "y": 525.0,
+        "box_height": 50.0,
+        "generation": 3,
+        "relationships": {
+            "mother": "var_0111",
+            "father": "var_0110",
+            "siblings": [
+                "var_011"
+            ],
+            "children": [],
+            "spouse": ""
+        },
+        "family_info": {
+            "direct_lineal": true,
+            "direct_lineal_gender": ""
+        },
+        "arrows": {
+            "up": "var_0111",
+            "down": "var_01",
+            "left": "var_100c",
+            "right": "var_011"
+        }
+    },
+    "var_01100": {
+        "name": "Frank Wilson",
+        "birth": "1847",
+        "x": 9780.0,
+        "y": 825.0,
+        "box_height": 50.0,
+        "generation": 5,
+        "relationships": {
+            "mother": "var_011001",
+            "father": "var_011000",
+            "siblings": [
+                "var_01100a",
+                "var_01100b",
+                "var_01100c",
+                "var_01100d"
+            ],
+            "children": [
+                "var_0110",
+                "var_0110a",
+                "var_0110b",
+                "var_0110c",
+                "var_0110d",
+                "var_0110e"
+            ],
+            "spouse": "var_01101"
+        },
+        "family_info": {
+            "direct_lineal": true,
+            "direct_lineal_gender": "M"
+        },
+        "arrows": {
+            "up": "var_011001",
+            "down": "var_0110",
+            "left": "var_01101",
+            "right": "var_01100a"
+        }
+    },
+    "var_01101": {
+        "name": "Anna Spindler",
+        "birth": "1850",
+        "x": 9550.0,
+        "y": 825.0,
+        "box_height": 50.0,
+        "generation": 5,
+        "relationships": {
+            "mother": "",
+            "father": "",
+            "siblings": [],
+            "children": [
+                "var_0110",
+                "var_0110a",
+                "var_0110b",
+                "var_0110c",
+                "var_0110d",
+                "var_0110e"
+            ],
+            "spouse": "var_01100"
+        },
+        "family_info": {
+            "direct_lineal": true,
+            "direct_lineal_gender": "F"
+        },
+        "arrows": {
+            "up": "",
+            "down": "var_0110",
+            "left": "var_11000",
+            "right": "var_01100"
+        }
+    },
+    "var_011000": {
+        "name": "William Wilson",
+        "birth": "1820",
+        "x": 10355.0,
+        "y": 975.0,
+        "box_height": 50.0,
+        "generation": 6,
+        "relationships": {
+            "mother": "var_0110001",
+            "father": "var_0110000",
+            "siblings": [
+                "var_011000a",
+                "var_011000b",
+                "var_011000c",
+                "var_011000d"
+            ],
+            "children": [
+                "var_01100",
+                "var_01100a",
+                "var_01100b",
+                "var_01100c",
+                "var_01100d"
+            ],
+            "spouse": "var_011001"
+        },
+        "family_info": {
+            "direct_lineal": true,
+            "direct_lineal_gender": "M"
+        },
+        "arrows": {
+            "up": "var_0110001",
+            "down": "var_01100",
+            "left": "var_011001",
+            "right": "var_011000a"
+        }
+    },
+    "var_011001": {
+        "name": "Sarah Ann Crabtree",
+        "birth": "1820",
+        "x": 10125.0,
+        "y": 975.0,
+        "box_height": 50.0,
+        "generation": 6,
+        "relationships": {
+            "mother": "",
+            "father": "",
+            "siblings": [],
+            "children": [
+                "var_01100",
+                "var_01100a",
+                "var_01100b",
+                "var_01100c",
+                "var_01100d"
+            ],
+            "spouse": "var_011000"
+        },
+        "family_info": {
+            "direct_lineal": true,
+            "direct_lineal_gender": "F"
+        },
+        "arrows": {
+            "up": "",
+            "down": "var_01100",
+            "left": "var_110000",
+            "right": "var_011000"
+        }
+    },
+    "var_0110000": {
+        "name": "Charles Wilson",
+        "birth": "1796",
+        "x": 10930.0,
+        "y": 1125.0,
+        "box_height": 50.0,
+        "generation": 7,
+        "relationships": {
+            "mother": "",
+            "father": "",
+            "siblings": [],
+            "children": [
+                "var_011000",
+                "var_011000a",
+                "var_011000b",
+                "var_011000c",
+                "var_011000d"
+            ],
+            "spouse": "var_0110001"
+        },
+        "family_info": {
+            "direct_lineal": true,
+            "direct_lineal_gender": "M"
+        },
+        "arrows": {
+            "up": "",
+            "down": "var_011000",
+            "left": "var_0110001",
+            "right": "var_0011001a"
+        }
+    },
+    "var_0110001": {
+        "name": "Susanna Singleton",
+        "birth": "1796",
+        "x": 10700.0,
+        "y": 1125.0,
+        "box_height": 50.0,
+        "generation": 7,
+        "relationships": {
+            "mother": "",
+            "father": "",
+            "siblings": [],
+            "children": [
+                "var_011000",
+                "var_011000a",
+                "var_011000b",
+                "var_011000c",
+                "var_011000d"
+            ],
+            "spouse": "var_0110000"
+        },
+        "family_info": {
+            "direct_lineal": true,
+            "direct_lineal_gender": "F"
+        },
+        "arrows": {
+            "up": "",
+            "down": "var_011000",
+            "left": "var_1100000",
+            "right": "var_0110000"
+        }
+    },
+    "var_011000a": {
+        "name": "Hannah Wilson",
+        "birth": "<NA>",
+        "x": 10585.0,
+        "y": 982.5,
+        "box_height": 35.0,
+        "generation": 6,
+        "relationships": {
+            "mother": "var_0110001",
+            "father": "var_0110000",
+            "siblings": [
+                "var_011000",
+                "var_011000b",
+                "var_011000c",
+                "var_011000d"
+            ],
+            "children": [],
+            "spouse": ""
+        },
+        "family_info": {
+            "direct_lineal": true,
+            "direct_lineal_gender": ""
+        },
+        "arrows": {
+            "up": "var_0110001",
+            "down": "var_01100",
+            "left": "var_011000",
+            "right": "var_011000b"
+        }
+    },
+    "var_011000b": {
+        "name": "Joe Wilson",
+        "birth": "<NA>",
+        "x": 10815.0,
+        "y": 982.5,
+        "box_height": 35.0,
+        "generation": 6,
+        "relationships": {
+            "mother": "var_0110001",
+            "father": "var_0110000",
+            "siblings": [
+                "var_011000",
+                "var_011000a",
+                "var_011000c",
+                "var_011000d"
+            ],
+            "children": [],
+            "spouse": ""
+        },
+        "family_info": {
+            "direct_lineal": true,
+            "direct_lineal_gender": ""
+        },
+        "arrows": {
+            "up": "var_0110001",
+            "down": "var_01100",
+            "left": "var_011000a",
+            "right": "var_011000c"
+        }
+    },
+    "var_011000c": {
+        "name": "Charles Wilson",
+        "birth": "<NA>",
+        "x": 11045.0,
+        "y": 982.5,
+        "box_height": 35.0,
+        "generation": 6,
+        "relationships": {
+            "mother": "var_0110001",
+            "father": "var_0110000",
+            "siblings": [
+                "var_011000",
+                "var_011000a",
+                "var_011000b",
+                "var_011000d"
+            ],
+            "children": [],
+            "spouse": ""
+        },
+        "family_info": {
+            "direct_lineal": true,
+            "direct_lineal_gender": ""
+        },
+        "arrows": {
+            "up": "var_0110001",
+            "down": "var_01100",
+            "left": "var_011000b",
+            "right": "var_011000d"
+        }
+    },
+    "var_011000d": {
+        "name": "Lucy Wilson",
+        "birth": "<NA>",
+        "x": 11275.0,
+        "y": 982.5,
+        "box_height": 35.0,
+        "generation": 6,
+        "relationships": {
+            "mother": "var_0110001",
+            "father": "var_0110000",
+            "siblings": [
+                "var_011000",
+                "var_011000a",
+                "var_011000b",
+                "var_011000c"
+            ],
+            "children": [],
+            "spouse": ""
+        },
+        "family_info": {
+            "direct_lineal": true,
+            "direct_lineal_gender": ""
+        },
+        "arrows": {
+            "up": "var_0110001",
+            "down": "var_01100",
+            "left": "var_011000c",
+            "right": "var_001101"
+        }
+    },
+    "var_01100a": {
+        "name": "Edward Wilson",
+        "birth": "1858",
+        "x": 10010.0,
+        "y": 825.0,
+        "box_height": 50.0,
+        "generation": 5,
+        "relationships": {
+            "mother": "var_011001",
+            "father": "var_011000",
+            "siblings": [
+                "var_01100",
+                "var_01100b",
+                "var_01100c",
+                "var_01100d"
+            ],
+            "children": [],
+            "spouse": ""
+        },
+        "family_info": {
+            "direct_lineal": true,
+            "direct_lineal_gender": ""
+        },
+        "arrows": {
+            "up": "var_011001",
+            "down": "var_0110",
+            "left": "var_01100",
+            "right": "var_01100b"
+        }
+    },
+    "var_01100b": {
+        "name": "Lucy Wilson",
+        "birth": "<NA>",
+        "x": 10240.0,
+        "y": 832.5,
+        "box_height": 35.0,
+        "generation": 5,
+        "relationships": {
+            "mother": "var_011001",
+            "father": "var_011000",
+            "siblings": [
+                "var_01100",
+                "var_01100a",
+                "var_01100c",
+                "var_01100d"
+            ],
+            "children": [],
+            "spouse": ""
+        },
+        "family_info": {
+            "direct_lineal": true,
+            "direct_lineal_gender": ""
+        },
+        "arrows": {
+            "up": "var_011001",
+            "down": "var_0110",
+            "left": "var_01100a",
+            "right": "var_01100c"
+        }
+    },
+    "var_01100c": {
+        "name": "Hanna Wilson",
+        "birth": "<NA>",
+        "x": 10470.0,
+        "y": 832.5,
+        "box_height": 35.0,
+        "generation": 5,
+        "relationships": {
+            "mother": "var_011001",
+            "father": "var_011000",
+            "siblings": [
+                "var_01100",
+                "var_01100a",
+                "var_01100b",
+                "var_01100d"
+            ],
+            "children": [],
+            "spouse": ""
+        },
+        "family_info": {
+            "direct_lineal": true,
+            "direct_lineal_gender": ""
+        },
+        "arrows": {
+            "up": "var_011001",
+            "down": "var_0110",
+            "left": "var_01100b",
+            "right": "var_01100d"
+        }
+    },
+    "var_01100d": {
+        "name": "William Wilson",
+        "birth": "<NA>",
+        "x": 10700.0,
+        "y": 832.5,
+        "box_height": 35.0,
+        "generation": 5,
+        "relationships": {
+            "mother": "var_011001",
+            "father": "var_011000",
+            "siblings": [
+                "var_01100",
+                "var_01100a",
+                "var_01100b",
+                "var_01100c"
+            ],
+            "children": [],
+            "spouse": ""
+        },
+        "family_info": {
+            "direct_lineal": true,
+            "direct_lineal_gender": ""
+        },
+        "arrows": {
+            "up": "var_011001",
+            "down": "var_0110",
+            "left": "var_01100c",
+            "right": "var_00111"
+        }
+    },
+    "var_0110a": {
+        "name": "Walter Wilson",
+        "birth": "1882",
+        "x": 9320.0,
+        "y": 675.0,
+        "box_height": 50.0,
+        "generation": 4,
+        "relationships": {
+            "mother": "var_01101",
+            "father": "var_01100",
+            "siblings": [
+                "var_0110",
+                "var_0110b",
+                "var_0110c",
+                "var_0110d",
+                "var_0110e"
+            ],
+            "children": [],
+            "spouse": ""
+        },
+        "family_info": {
+            "direct_lineal": true,
+            "direct_lineal_gender": ""
+        },
+        "arrows": {
+            "up": "var_01101",
+            "down": "var_011",
+            "left": "var_0110",
+            "right": "var_0110b"
+        }
+    },
+    "var_0110b": {
+        "name": "Frieda Wilson",
+        "birth": "1879",
+        "x": 9550.0,
+        "y": 675.0,
+        "box_height": 50.0,
+        "generation": 4,
+        "relationships": {
+            "mother": "var_01101",
+            "father": "var_01100",
+            "siblings": [
+                "var_0110",
+                "var_0110a",
+                "var_0110c",
+                "var_0110d",
+                "var_0110e"
+            ],
+            "children": [],
+            "spouse": ""
+        },
+        "family_info": {
+            "direct_lineal": true,
+            "direct_lineal_gender": ""
+        },
+        "arrows": {
+            "up": "var_01101",
+            "down": "var_011",
+            "left": "var_0110a",
+            "right": "var_0110c"
+        }
+    },
+    "var_0110c": {
+        "name": "Frank Wilson",
+        "birth": "1876",
+        "x": 9780.0,
+        "y": 675.0,
+        "box_height": 50.0,
+        "generation": 4,
+        "relationships": {
+            "mother": "var_01101",
+            "father": "var_01100",
+            "siblings": [
+                "var_0110",
+                "var_0110a",
+                "var_0110b",
+                "var_0110d",
+                "var_0110e"
+            ],
+            "children": [],
+            "spouse": ""
+        },
+        "family_info": {
+            "direct_lineal": true,
+            "direct_lineal_gender": ""
+        },
+        "arrows": {
+            "up": "var_01101",
+            "down": "var_011",
+            "left": "var_0110b",
+            "right": "var_0110d"
+        }
+    },
+    "var_0110d": {
+        "name": "Henry Wilson",
+        "birth": "1875",
+        "x": 10010.0,
+        "y": 675.0,
+        "box_height": 50.0,
+        "generation": 4,
+        "relationships": {
+            "mother": "var_01101",
+            "father": "var_01100",
+            "siblings": [
+                "var_0110",
+                "var_0110a",
+                "var_0110b",
+                "var_0110c",
+                "var_0110e"
+            ],
+            "children": [],
+            "spouse": ""
+        },
+        "family_info": {
+            "direct_lineal": true,
+            "direct_lineal_gender": ""
+        },
+        "arrows": {
+            "up": "var_01101",
+            "down": "var_011",
+            "left": "var_0110c",
+            "right": "var_0110e"
+        }
+    },
+    "var_0110e": {
+        "name": "Elizabeth Wilson",
+        "birth": "<NA>",
+        "x": 10240.0,
+        "y": 682.5,
+        "box_height": 35.0,
+        "generation": 4,
+        "relationships": {
+            "mother": "var_01101",
+            "father": "var_01100",
+            "siblings": [
+                "var_0110",
+                "var_0110a",
+                "var_0110b",
+                "var_0110c",
+                "var_0110d"
+            ],
+            "children": [],
+            "spouse": ""
+        },
+        "family_info": {
+            "direct_lineal": true,
+            "direct_lineal_gender": ""
+        },
+        "arrows": {
+            "up": "var_01101",
+            "down": "var_011",
+            "left": "var_0110d",
+            "right": "var_0011a"
+        }
+    },
+    "var_11000": {
+        "name": "Franklin Augustus Lindsfelt St. Sure ",
+        "birth": "1842",
+        "x": 7865.0,
+        "y": 817.5,
+        "box_height": 65.0,
+        "generation": 5,
+        "relationships": {
+            "mother": "var_110001",
+            "father": "var_110000",
+            "siblings": [],
+            "children": [
+                "var_1100"
+            ],
+            "spouse": "var_11001"
+        },
+        "family_info": {
+            "direct_lineal": true,
+            "direct_lineal_gender": "M"
+        },
+        "arrows": {
+            "up": "var_110001",
+            "down": "var_1100",
+            "left": "var_11001",
+            "right": "var_01101"
+        }
+    },
+    "var_110000": {
+        "name": "Adolf Fredrik St. Cyr (St. Sure) Lindsfeldt ",
+        "birth": "1806",
+        "x": 8270.0,
+        "y": 960.0,
+        "box_height": 80.0,
+        "generation": 6,
+        "relationships": {
+            "mother": "var_1100001",
+            "father": "var_1100000",
+            "siblings": [],
+            "children": [
+                "var_11000"
+            ],
+            "spouse": "var_110001"
+        },
+        "family_info": {
+            "direct_lineal": true,
+            "direct_lineal_gender": "M"
+        },
+        "arrows": {
+            "up": "var_1100001",
+            "down": "var_11000",
+            "left": "var_110001",
+            "right": "var_011001"
+        }
+    },
+    "var_1100000": {
+        "name": "Adolf Fredrik Von Lindsfelt",
+        "birth": "1773",
+        "x": 9715.0,
+        "y": 1117.5,
+        "box_height": 65.0,
+        "generation": 7,
+        "relationships": {
+            "mother": "",
+            "father": "",
+            "siblings": [],
+            "children": [
+                "var_110000"
+            ],
+            "spouse": "var_1100001"
+        },
+        "family_info": {
+            "direct_lineal": true,
+            "direct_lineal_gender": "M"
+        },
+        "arrows": {
+            "up": "",
+            "down": "var_110000",
+            "left": "var_1100001",
+            "right": "var_0110001"
+        }
+    },
+    "var_1100001": {
+        "name": "Carolina Fredr Ekström ",
+        "birth": "1789",
+        "x": 9485.0,
+        "y": 1117.5,
+        "box_height": 65.0,
+        "generation": 7,
+        "relationships": {
+            "mother": "",
+            "father": "",
+            "siblings": [],
+            "children": [
+                "var_110000"
+            ],
+            "spouse": "var_1100000"
+        },
+        "family_info": {
+            "direct_lineal": true,
+            "direct_lineal_gender": "F"
+        },
+        "arrows": {
+            "up": "",
+            "down": "var_110000",
+            "left": "var_1100010",
+            "right": "var_1100000"
+        }
+    },
+    "var_110001": {
+        "name": "Elisabet Concordia von Krassow",
+        "birth": "1819",
+        "x": 8040.0,
+        "y": 967.5,
+        "box_height": 65.0,
+        "generation": 6,
+        "relationships": {
+            "mother": "var_1100011",
+            "father": "var_1100010",
+            "siblings": [],
+            "children": [
+                "var_11000"
+            ],
+            "spouse": "var_110000"
+        },
+        "family_info": {
+            "direct_lineal": true,
+            "direct_lineal_gender": "F"
+        },
+        "arrows": {
+            "up": "var_1100011",
+            "down": "var_11000",
+            "left": "var_110100",
+            "right": "var_110000"
+        }
+    },
+    "var_1100010": {
+        "name": "Carl Gustav Von Krassow ",
+        "birth": "1779",
+        "x": 9195.0,
+        "y": 1117.5,
+        "box_height": 65.0,
+        "generation": 7,
+        "relationships": {
+            "mother": "var_11000101",
+            "father": "var_11000100",
+            "siblings": [],
+            "children": [
+                "var_110001"
+            ],
+            "spouse": "var_1100011"
+        },
+        "family_info": {
+            "direct_lineal": true,
+            "direct_lineal_gender": "M"
+        },
+        "arrows": {
+            "up": "var_11000101",
+            "down": "var_110001",
+            "left": "var_1100011",
+            "right": "var_1100001"
+        }
+    },
+    "var_1100011": {
+        "name": "Anna Greta Jacobsson ",
+        "birth": "1798",
+        "x": 8965.0,
+        "y": 1125.0,
+        "box_height": 50.0,
+        "generation": 7,
+        "relationships": {
+            "mother": "",
+            "father": "",
+            "siblings": [],
+            "children": [
+                "var_110001"
+            ],
+            "spouse": "var_1100010"
+        },
+        "family_info": {
+            "direct_lineal": true,
+            "direct_lineal_gender": "F"
+        },
+        "arrows": {
+            "up": "",
+            "down": "var_110001",
+            "left": "var_1101000",
+            "right": "var_1100010"
+        }
+    },
+    "var_11000100": {
+        "name": "Gustav Adam von Krassow",
+        "birth": "1742",
+        "x": 9600.0,
+        "y": 1267.5,
+        "box_height": 65.0,
+        "generation": 8,
+        "relationships": {
+            "mother": "var_110001001",
+            "father": "var_110001000",
+            "siblings": [],
+            "children": [
+                "var_1100010"
+            ],
+            "spouse": "var_11000101"
+        },
+        "family_info": {
+            "direct_lineal": true,
+            "direct_lineal_gender": "M"
+        },
+        "arrows": {
+            "up": "var_110001001",
+            "down": "var_1100010",
+            "left": "var_11000101",
+            "right": "var_00110011"
+        }
+    },
+    "var_11000101": {
+        "name": "Concordia Elisabeth Stannicke ",
+        "birth": "1749",
+        "x": 9370.0,
+        "y": 1267.5,
+        "box_height": 65.0,
+        "generation": 8,
+        "relationships": {
+            "mother": "",
+            "father": "",
+            "siblings": [],
+            "children": [
+                "var_1100010"
+            ],
+            "spouse": "var_11000100"
+        },
+        "family_info": {
+            "direct_lineal": true,
+            "direct_lineal_gender": "F"
+        },
+        "arrows": {
+            "up": "",
+            "down": "var_1100010",
+            "left": "var_11010000",
+            "right": "var_11000100"
+        }
+    },
+    "var_110001000": {
+        "name": "Eberhard Mauritz von Krassow ",
+        "birth": "1689",
+        "x": 9715.0,
+        "y": 1417.5,
+        "box_height": 65.0,
+        "generation": 9,
+        "relationships": {
+            "mother": "",
+            "father": "",
+            "siblings": [],
+            "children": [
+                "var_11000100"
+            ],
+            "spouse": "var_110001001"
+        },
+        "family_info": {
+            "direct_lineal": true,
+            "direct_lineal_gender": "M"
+        },
+        "arrows": {
+            "up": "",
+            "down": "var_11000100",
+            "left": "var_110001001",
+            "right": "var_001100001"
+        }
+    },
+    "var_110001001": {
+        "name": "Mariana Eleonora Coyet ",
+        "birth": "1711",
+        "x": 9485.0,
+        "y": 1417.5,
+        "box_height": 65.0,
+        "generation": 9,
+        "relationships": {
+            "mother": "",
+            "father": "",
+            "siblings": [],
+            "children": [
+                "var_11000100"
+            ],
+            "spouse": "var_110001000"
+        },
+        "family_info": {
+            "direct_lineal": true,
+            "direct_lineal_gender": "F"
+        },
+        "arrows": {
+            "up": "",
+            "down": "var_11000100",
+            "left": "var_110110000",
+            "right": "var_110001000"
+        }
+    },
+    "var_110100": {
+        "name": "Thomas James Mossman",
+        "birth": "1800",
+        "x": 7750.0,
+        "y": 975.0,
+        "box_height": 50.0,
+        "generation": 6,
+        "relationships": {
+            "mother": "var_1101001",
+            "father": "var_1101000",
+            "siblings": [],
+            "children": [
+                "var_11010"
+            ],
+            "spouse": "var_110101"
+        },
+        "family_info": {
+            "direct_lineal": true,
+            "direct_lineal_gender": "M"
+        },
+        "arrows": {
+            "up": "var_1101001",
+            "down": "var_11010",
+            "left": "var_110101",
+            "right": "var_110001"
+        }
+    },
+    "var_1101000": {
+        "name": "Robert Mossman",
+        "birth": "1769",
+        "x": 8675.0,
+        "y": 1125.0,
+        "box_height": 50.0,
+        "generation": 7,
+        "relationships": {
+            "mother": "var_11010001",
+            "father": "var_11010000",
+            "siblings": [],
+            "children": [
+                "var_110100"
+            ],
+            "spouse": "var_1101001"
+        },
+        "family_info": {
+            "direct_lineal": true,
+            "direct_lineal_gender": "M"
+        },
+        "arrows": {
+            "up": "var_11010001",
+            "down": "var_110100",
+            "left": "var_1101001",
+            "right": "var_1100011"
+        }
+    },
+    "var_1101001": {
+        "name": "Mary Steel ",
+        "birth": "1768",
+        "x": 8445.0,
+        "y": 1125.0,
+        "box_height": 50.0,
+        "generation": 7,
+        "relationships": {
+            "mother": "var_11010011",
+            "father": "var_11010010",
+            "siblings": [],
+            "children": [
+                "var_110100"
+            ],
+            "spouse": "var_1101000"
+        },
+        "family_info": {
+            "direct_lineal": true,
+            "direct_lineal_gender": "F"
+        },
+        "arrows": {
+            "up": "var_11010011",
+            "down": "var_110100",
+            "left": "var_1101010",
+            "right": "var_1101000"
+        }
+    },
+    "var_11010000": {
+        "name": "Adam Mossman",
+        "birth": "1734",
+        "x": 9080.0,
+        "y": 1275.0,
+        "box_height": 50.0,
+        "generation": 8,
+        "relationships": {
+            "mother": "",
+            "father": "",
+            "siblings": [],
+            "children": [
+                "var_1101000"
+            ],
+            "spouse": "var_11010001"
+        },
+        "family_info": {
+            "direct_lineal": true,
+            "direct_lineal_gender": "M"
+        },
+        "arrows": {
+            "up": "",
+            "down": "var_1101000",
+            "left": "var_11010001",
+            "right": "var_11000101"
+        }
+    },
+    "var_11010001": {
+        "name": "Mary Wundrum",
+        "birth": "1734",
+        "x": 8850.0,
+        "y": 1275.0,
+        "box_height": 50.0,
+        "generation": 8,
+        "relationships": {
+            "mother": "",
+            "father": "",
+            "siblings": [],
+            "children": [
+                "var_1101000"
+            ],
+            "spouse": "var_11010000"
+        },
+        "family_info": {
+            "direct_lineal": true,
+            "direct_lineal_gender": "F"
+        },
+        "arrows": {
+            "up": "",
+            "down": "var_1101000",
+            "left": "var_11010010",
+            "right": "var_11010000"
+        }
+    },
+    "var_11010010": {
+        "name": "Peter Steel",
+        "birth": "<NA>",
+        "x": 8560.0,
+        "y": 1282.5,
+        "box_height": 35.0,
+        "generation": 8,
+        "relationships": {
+            "mother": "",
+            "father": "",
+            "siblings": [],
+            "children": [
+                "var_1101001"
+            ],
+            "spouse": "var_11010011"
+        },
+        "family_info": {
+            "direct_lineal": true,
+            "direct_lineal_gender": "M"
+        },
+        "arrows": {
+            "up": "",
+            "down": "var_1101001",
+            "left": "var_11010011",
+            "right": "var_11010001"
+        }
+    },
+    "var_11010011": {
+        "name": "Margaret Aitken",
+        "birth": "<NA>",
+        "x": 8330.0,
+        "y": 1282.5,
+        "box_height": 35.0,
+        "generation": 8,
+        "relationships": {
+            "mother": "",
+            "father": "",
+            "siblings": [],
+            "children": [
+                "var_1101001"
+            ],
+            "spouse": "var_11010010"
+        },
+        "family_info": {
+            "direct_lineal": true,
+            "direct_lineal_gender": "F"
+        },
+        "arrows": {
+            "up": "",
+            "down": "var_1101001",
+            "left": "var_11011000",
+            "right": "var_11010010"
+        }
+    },
+    "var_110101": {
+        "name": "Mary Ann Lewis",
+        "birth": "1814",
+        "x": 7520.0,
+        "y": 975.0,
+        "box_height": 50.0,
+        "generation": 6,
+        "relationships": {
+            "mother": "var_1101011",
+            "father": "var_1101010",
+            "siblings": [],
+            "children": [
+                "var_11010"
+            ],
+            "spouse": "var_110100"
+        },
+        "family_info": {
+            "direct_lineal": true,
+            "direct_lineal_gender": "F"
+        },
+        "arrows": {
+            "up": "var_1101011",
+            "down": "var_11010",
+            "left": "var_110110",
+            "right": "var_110100"
+        }
+    },
+    "var_1101010": {
+        "name": "Richard Lewis",
+        "birth": "1788",
+        "x": 8155.0,
+        "y": 1125.0,
+        "box_height": 50.0,
+        "generation": 7,
+        "relationships": {
+            "mother": "",
+            "father": "",
+            "siblings": [],
+            "children": [
+                "var_110101"
+            ],
+            "spouse": "var_1101011"
+        },
+        "family_info": {
+            "direct_lineal": true,
+            "direct_lineal_gender": "M"
+        },
+        "arrows": {
+            "up": "",
+            "down": "var_110101",
+            "left": "var_1101011",
+            "right": "var_1101001"
+        }
+    },
+    "var_1101011": {
+        "name": "Elizabeth Lewis",
+        "birth": "1783",
+        "x": 7925.0,
+        "y": 1125.0,
+        "box_height": 50.0,
+        "generation": 7,
+        "relationships": {
+            "mother": "",
+            "father": "",
+            "siblings": [],
+            "children": [
+                "var_110101"
+            ],
+            "spouse": "var_1101010"
+        },
+        "family_info": {
+            "direct_lineal": true,
+            "direct_lineal_gender": "F"
+        },
+        "arrows": {
+            "up": "",
+            "down": "var_110101",
+            "left": "var_1101100",
+            "right": "var_1101010"
+        }
+    },
+    "var_1101100": {
+        "name": "David Rohrer",
+        "birth": "1805",
+        "x": 7635.0,
+        "y": 1125.0,
+        "box_height": 50.0,
+        "generation": 7,
+        "relationships": {
+            "mother": "var_11011001",
+            "father": "var_11011000",
+            "siblings": [],
+            "children": [
+                "var_110110"
+            ],
+            "spouse": "var_1101101"
+        },
+        "family_info": {
+            "direct_lineal": true,
+            "direct_lineal_gender": "M"
+        },
+        "arrows": {
+            "up": "var_11011001",
+            "down": "var_110110",
+            "left": "var_1101101",
+            "right": "var_1101011"
+        }
+    },
+    "var_1101101": {
+        "name": "Martha Daniel",
+        "birth": "1806",
+        "x": 7405.0,
+        "y": 1125.0,
+        "box_height": 50.0,
+        "generation": 7,
+        "relationships": {
+            "mother": "",
+            "father": "",
+            "siblings": [],
+            "children": [
+                "var_110110"
+            ],
+            "spouse": "var_1101100"
+        },
+        "family_info": {
+            "direct_lineal": true,
+            "direct_lineal_gender": "F"
+        },
+        "arrows": {
+            "up": "",
+            "down": "var_110110",
+            "left": "var_1101110",
+            "right": "var_1101100"
+        }
+    },
+    "var_11011000": {
+        "name": "Abraham Alexander Rohrer",
+        "birth": "1765",
+        "x": 7750.0,
+        "y": 1267.5,
+        "box_height": 65.0,
+        "generation": 8,
+        "relationships": {
+            "mother": "var_110110001",
+            "father": "var_110110000",
+            "siblings": [],
+            "children": [
+                "var_1101100"
+            ],
+            "spouse": "var_11011001"
+        },
+        "family_info": {
+            "direct_lineal": true,
+            "direct_lineal_gender": "M"
+        },
+        "arrows": {
+            "up": "var_110110001",
+            "down": "var_1101100",
+            "left": "var_11011001",
+            "right": "var_11010011"
+        }
+    },
+    "var_11011001": {
+        "name": "Nancy Elizabeth Cook",
+        "birth": "1770",
+        "x": 7520.0,
+        "y": 1275.0,
+        "box_height": 50.0,
+        "generation": 8,
+        "relationships": {
+            "mother": "var_110110011",
+            "father": "var_110110010",
+            "siblings": [],
+            "children": [
+                "var_1101100"
+            ],
+            "spouse": "var_11011000"
+        },
+        "family_info": {
+            "direct_lineal": true,
+            "direct_lineal_gender": "F"
+        },
+        "arrows": {
+            "up": "var_110110011",
+            "down": "var_1101100",
+            "left": "var_11101000",
+            "right": "var_11011000"
+        }
+    },
+    "var_110110000": {
+        "name": "Johannes Rohrer",
+        "birth": "1735",
+        "x": 8155.0,
+        "y": 1425.0,
+        "box_height": 50.0,
+        "generation": 9,
+        "relationships": {
+            "mother": "",
+            "father": "",
+            "siblings": [],
+            "children": [
+                "var_11011000"
+            ],
+            "spouse": "var_110110001"
+        },
+        "family_info": {
+            "direct_lineal": true,
+            "direct_lineal_gender": "M"
+        },
+        "arrows": {
+            "up": "",
+            "down": "var_11011000",
+            "left": "var_110110001",
+            "right": "var_110001001"
+        }
+    },
+    "var_110110001": {
+        "name": "Anna Barbara Weidman",
+        "birth": "1735",
+        "x": 7925.0,
+        "y": 1425.0,
+        "box_height": 50.0,
+        "generation": 9,
+        "relationships": {
+            "mother": "",
+            "father": "",
+            "siblings": [],
+            "children": [
+                "var_11011000"
+            ],
+            "spouse": "var_110110000"
+        },
+        "family_info": {
+            "direct_lineal": true,
+            "direct_lineal_gender": "F"
+        },
+        "arrows": {
+            "up": "",
+            "down": "var_11011000",
+            "left": "var_110110010",
+            "right": "var_110110000"
+        }
+    },
+    "var_110110010": {
+        "name": "Harmon Cook",
+        "birth": "1728",
+        "x": 7635.0,
+        "y": 1425.0,
+        "box_height": 50.0,
+        "generation": 9,
+        "relationships": {
+            "mother": "",
+            "father": "",
+            "siblings": [],
+            "children": [
+                "var_11011001"
+            ],
+            "spouse": "var_110110011"
+        },
+        "family_info": {
+            "direct_lineal": true,
+            "direct_lineal_gender": "M"
+        },
+        "arrows": {
+            "up": "",
+            "down": "var_11011001",
+            "left": "var_110110011",
+            "right": "var_110110001"
+        }
+    },
+    "var_110110011": {
+        "name": "Mary Ann Agness Turk",
+        "birth": "1732",
+        "x": 7405.0,
+        "y": 1425.0,
+        "box_height": 50.0,
+        "generation": 9,
+        "relationships": {
+            "mother": "",
+            "father": "",
+            "siblings": [],
+            "children": [
+                "var_11011001"
+            ],
+            "spouse": "var_110110010"
+        },
+        "family_info": {
+            "direct_lineal": true,
+            "direct_lineal_gender": "F"
+        },
+        "arrows": {
+            "up": "",
+            "down": "var_11011001",
+            "left": "var_111010000",
+            "right": "var_110110010"
+        }
+    },
+    "var_1101110": {
+        "name": "Mah-ko-day",
+        "birth": "1810",
+        "x": 7115.0,
+        "y": 1125.0,
+        "box_height": 50.0,
+        "generation": 7,
+        "relationships": {
+            "mother": "",
+            "father": "",
+            "siblings": [],
+            "children": [
+                "var_110111"
+            ],
+            "spouse": "var_1101111"
+        },
+        "family_info": {
+            "direct_lineal": true,
+            "direct_lineal_gender": "M"
+        },
+        "arrows": {
+            "up": "",
+            "down": "var_110111",
+            "left": "var_1101111",
+            "right": "var_1101101"
+        }
+    },
+    "var_1101111": {
+        "name": "Ka-ge-gay-aun-de-mo-quay",
+        "birth": "<NA>",
+        "x": 6885.0,
+        "y": 1125.0,
+        "box_height": 50.0,
+        "generation": 7,
+        "relationships": {
+            "mother": "",
+            "father": "",
+            "siblings": [],
+            "children": [
+                "var_110111"
+            ],
+            "spouse": "var_1101110"
+        },
+        "family_info": {
+            "direct_lineal": true,
+            "direct_lineal_gender": "F"
+        },
+        "arrows": {
+            "up": "",
+            "down": "var_110111",
+            "left": "var_1110100",
+            "right": "var_1101110"
+        }
+    },
+    "var_10a": {
+        "name": "Ronald Ho",
+        "birth": "1942",
+        "x": 6960.0,
+        "y": 375.0,
+        "box_height": 50.0,
+        "generation": 2,
+        "relationships": {
+            "mother": "var_101",
+            "father": "var_100",
+            "siblings": [
+                "var_10",
+                "var_10b",
+                "var_10c",
+                "var_10d"
+            ],
+            "children": [],
+            "spouse": ""
+        },
+        "family_info": {
+            "direct_lineal": true,
+            "direct_lineal_gender": ""
+        },
+        "arrows": {
+            "up": "var_101",
+            "down": "var_1",
+            "left": "var_10",
+            "right": "var_10b"
+        }
+    },
+    "var_10b": {
+        "name": "Beverly Yuk Jun Ho",
+        "birth": "1945",
+        "x": 7190.0,
+        "y": 375.0,
+        "box_height": 50.0,
+        "generation": 2,
+        "relationships": {
+            "mother": "var_101",
+            "father": "var_100",
+            "siblings": [
+                "var_10",
+                "var_10a",
+                "var_10c",
+                "var_10d"
+            ],
+            "children": [],
+            "spouse": ""
+        },
+        "family_info": {
+            "direct_lineal": true,
+            "direct_lineal_gender": ""
+        },
+        "arrows": {
+            "up": "var_101",
+            "down": "var_1",
+            "left": "var_10a",
+            "right": "var_10c"
+        }
+    },
+    "var_10c": {
+        "name": "Dennis Ho",
+        "birth": "1947",
+        "x": 7420.0,
+        "y": 375.0,
+        "box_height": 50.0,
+        "generation": 2,
+        "relationships": {
+            "mother": "var_101",
+            "father": "var_100",
+            "siblings": [
+                "var_10",
+                "var_10a",
+                "var_10b",
+                "var_10d"
+            ],
+            "children": [],
+            "spouse": ""
+        },
+        "family_info": {
+            "direct_lineal": true,
+            "direct_lineal_gender": ""
+        },
+        "arrows": {
+            "up": "var_101",
+            "down": "var_1",
+            "left": "var_10b",
+            "right": "var_10d"
+        }
+    },
+    "var_10d": {
+        "name": "Sharon Siu Lung DeMelo Ho",
+        "birth": "1948",
+        "x": 7650.0,
+        "y": 367.5,
+        "box_height": 65.0,
+        "generation": 2,
+        "relationships": {
+            "mother": "var_101",
+            "father": "var_100",
+            "siblings": [
+                "var_10",
+                "var_10a",
+                "var_10b",
+                "var_10c"
+            ],
+            "children": [],
+            "spouse": ""
+        },
+        "family_info": {
+            "direct_lineal": true,
+            "direct_lineal_gender": ""
+        },
+        "arrows": {
+            "up": "var_101",
+            "down": "var_1",
+            "left": "var_10c",
+            "right": "var_01a"
+        }
+    },
+    "var_100a": {
+        "name": "Rose (Lin) Lee",
+        "birth": "1905",
+        "x": 7990.0,
+        "y": 525.0,
+        "box_height": 50.0,
+        "generation": 3,
+        "relationships": {
+            "mother": "var_1001",
+            "father": "var_1000",
+            "siblings": [
+                "var_100",
+                "var_100b",
+                "var_100c"
+            ],
+            "children": [],
+            "spouse": ""
+        },
+        "family_info": {
+            "direct_lineal": true,
+            "direct_lineal_gender": ""
+        },
+        "arrows": {
+            "up": "var_1001",
+            "down": "var_10",
+            "left": "var_100",
+            "right": "var_100b"
+        }
+    },
+    "var_100b": {
+        "name": "Joseph (Sui Hoon) Lee",
+        "birth": "1906",
+        "x": 8220.0,
+        "y": 517.5,
+        "box_height": 65.0,
+        "generation": 3,
+        "relationships": {
+            "mother": "var_1001",
+            "father": "var_1000",
+            "siblings": [
+                "var_100",
+                "var_100a",
+                "var_100c"
+            ],
+            "children": [],
+            "spouse": ""
+        },
+        "family_info": {
+            "direct_lineal": true,
+            "direct_lineal_gender": ""
+        },
+        "arrows": {
+            "up": "var_1001",
+            "down": "var_10",
+            "left": "var_100a",
+            "right": "var_100c"
+        }
+    },
+    "var_100c": {
+        "name": "Albert Lee",
+        "birth": "1908",
+        "x": 8450.0,
+        "y": 525.0,
+        "box_height": 50.0,
+        "generation": 3,
+        "relationships": {
+            "mother": "var_1001",
+            "father": "var_1000",
+            "siblings": [
+                "var_100",
+                "var_100a",
+                "var_100b"
+            ],
+            "children": [],
+            "spouse": ""
+        },
+        "family_info": {
+            "direct_lineal": true,
+            "direct_lineal_gender": ""
+        },
+        "arrows": {
+            "up": "var_1001",
+            "down": "var_10",
+            "left": "var_100b",
+            "right": "var_011a"
+        }
+    },
+    "var_101a": {
+        "name": "Takeo Fujiyama",
+        "birth": "1918",
+        "x": 6610.0,
+        "y": 525.0,
+        "box_height": 50.0,
+        "generation": 3,
+        "relationships": {
+            "mother": "var_1011",
+            "father": "var_1010",
+            "siblings": [
+                "var_101",
+                "var_101b",
+                "var_101c",
+                "var_101d"
+            ],
+            "children": [],
+            "spouse": ""
+        },
+        "family_info": {
+            "direct_lineal": true,
+            "direct_lineal_gender": ""
+        },
+        "arrows": {
+            "up": "var_1011",
+            "down": "var_10",
+            "left": "var_110d",
+            "right": "var_101b"
+        }
+    },
+    "var_101b": {
+        "name": "Kiyoko (Komatsu) Fujiyama",
+        "birth": "1922",
+        "x": 6840.0,
+        "y": 517.5,
+        "box_height": 65.0,
+        "generation": 3,
+        "relationships": {
+            "mother": "var_1011",
+            "father": "var_1010",
+            "siblings": [
+                "var_101",
+                "var_101a",
+                "var_101c",
+                "var_101d"
+            ],
+            "children": [],
+            "spouse": ""
+        },
+        "family_info": {
+            "direct_lineal": true,
+            "direct_lineal_gender": ""
+        },
+        "arrows": {
+            "up": "var_1011",
+            "down": "var_10",
+            "left": "var_101a",
+            "right": "var_101c"
+        }
+    },
+    "var_101c": {
+        "name": "Yoshiuki (Yot) Fujiyama",
+        "birth": "1925",
+        "x": 7070.0,
+        "y": 517.5,
+        "box_height": 65.0,
+        "generation": 3,
+        "relationships": {
+            "mother": "var_1011",
+            "father": "var_1010",
+            "siblings": [
+                "var_101",
+                "var_101a",
+                "var_101b",
+                "var_101d"
+            ],
+            "children": [],
+            "spouse": ""
+        },
+        "family_info": {
+            "direct_lineal": true,
+            "direct_lineal_gender": ""
+        },
+        "arrows": {
+            "up": "var_1011",
+            "down": "var_10",
+            "left": "var_101b",
+            "right": "var_101d"
+        }
+    },
+    "var_101d": {
+        "name": "Kayang (Kazue) Fujiyama",
+        "birth": "1927",
+        "x": 7300.0,
+        "y": 517.5,
+        "box_height": 65.0,
+        "generation": 3,
+        "relationships": {
+            "mother": "var_1011",
+            "father": "var_1010",
+            "siblings": [
+                "var_101",
+                "var_101a",
+                "var_101b",
+                "var_101c"
+            ],
+            "children": [],
+            "spouse": ""
+        },
+        "family_info": {
+            "direct_lineal": true,
+            "direct_lineal_gender": ""
+        },
+        "arrows": {
+            "up": "var_1011",
+            "down": "var_10",
+            "left": "var_101c",
+            "right": "var_101"
+        }
+    },
+    "var_00000": {
+        "name": "John Harris Young",
+        "birth": "1830",
+        "x": 13030.0,
+        "y": 825.0,
+        "box_height": 50.0,
+        "generation": 5,
+        "relationships": {
+            "mother": "",
+            "father": "",
+            "siblings": [],
+            "children": [
+                "var_0000",
+                "var_0000a",
+                "var_0000b",
+                "var_0000c",
+                "var_0000d"
+            ],
+            "spouse": "var_00001"
+        },
+        "family_info": {
+            "direct_lineal": true,
+            "direct_lineal_gender": "M"
+        },
+        "arrows": {
+            "up": "",
+            "down": "var_0000",
+            "left": "var_00001",
+            "right": ""
+        }
+    },
+    "var_00001": {
+        "name": "Sarah Elizabeth Pomeroy",
+        "birth": "1836",
+        "x": 12800.0,
+        "y": 817.5,
+        "box_height": 65.0,
+        "generation": 5,
+        "relationships": {
+            "mother": "var_000011",
+            "father": "var_000010",
+            "siblings": [
+                "var_00001a"
+            ],
+            "children": [
+                "var_0000",
+                "var_0000a",
+                "var_0000b",
+                "var_0000c",
+                "var_0000d"
+            ],
+            "spouse": "var_00000"
+        },
+        "family_info": {
+            "direct_lineal": true,
+            "direct_lineal_gender": "F"
+        },
+        "arrows": {
+            "up": "var_000011",
+            "down": "var_0000",
+            "left": "var_00001a",
+            "right": "var_00000"
+        }
+    },
+    "var_0000a": {
+        "name": "Martha Margaret Young",
+        "birth": "1852",
+        "x": 12685.0,
+        "y": 667.5,
+        "box_height": 65.0,
+        "generation": 4,
+        "relationships": {
+            "mother": "var_00001",
+            "father": "var_00000",
+            "siblings": [
+                "var_0000",
+                "var_0000b",
+                "var_0000c",
+                "var_0000d"
+            ],
+            "children": [],
+            "spouse": ""
+        },
+        "family_info": {
+            "direct_lineal": true,
+            "direct_lineal_gender": ""
+        },
+        "arrows": {
+            "up": "var_00001",
+            "down": "var_000",
+            "left": "var_0000",
+            "right": "var_0000b"
+        }
+    },
+    "var_0000b": {
+        "name": "James Henry Young",
+        "birth": "1855",
+        "x": 12915.0,
+        "y": 675.0,
+        "box_height": 50.0,
+        "generation": 4,
+        "relationships": {
+            "mother": "var_00001",
+            "father": "var_00000",
+            "siblings": [
+                "var_0000",
+                "var_0000a",
+                "var_0000c",
+                "var_0000d"
+            ],
+            "children": [],
+            "spouse": ""
+        },
+        "family_info": {
+            "direct_lineal": true,
+            "direct_lineal_gender": ""
+        },
+        "arrows": {
+            "up": "var_00001",
+            "down": "var_000",
+            "left": "var_0000a",
+            "right": "var_0000c"
+        }
+    },
+    "var_0000c": {
+        "name": "William Calvin Young",
+        "birth": "1857",
+        "x": 13145.0,
+        "y": 675.0,
+        "box_height": 50.0,
+        "generation": 4,
+        "relationships": {
+            "mother": "var_00001",
+            "father": "var_00000",
+            "siblings": [
+                "var_0000",
+                "var_0000a",
+                "var_0000b",
+                "var_0000d"
+            ],
+            "children": [],
+            "spouse": ""
+        },
+        "family_info": {
+            "direct_lineal": true,
+            "direct_lineal_gender": ""
+        },
+        "arrows": {
+            "up": "var_00001",
+            "down": "var_000",
+            "left": "var_0000b",
+            "right": "var_0000d"
+        }
+    },
+    "var_0000d": {
+        "name": "Benjamin E Young",
+        "birth": "1863",
+        "x": 13375.0,
+        "y": 675.0,
+        "box_height": 50.0,
+        "generation": 4,
+        "relationships": {
+            "mother": "var_00001",
+            "father": "var_00000",
+            "siblings": [
+                "var_0000",
+                "var_0000a",
+                "var_0000b",
+                "var_0000c"
+            ],
+            "children": [],
+            "spouse": ""
+        },
+        "family_info": {
+            "direct_lineal": true,
+            "direct_lineal_gender": ""
+        },
+        "arrows": {
+            "up": "var_00001",
+            "down": "var_000",
+            "left": "var_0000c",
+            "right": ""
+        }
+    },
+    "var_000010": {
+        "name": "N.N Pomeroy",
+        "birth": "<NA>",
+        "x": 14900.0,
+        "y": 982.5,
+        "box_height": 35.0,
+        "generation": 6,
+        "relationships": {
+            "mother": "",
+            "father": "",
+            "siblings": [],
+            "children": [
+                "var_00001",
+                "var_00001a"
+            ],
+            "spouse": "var_000011"
+        },
+        "family_info": {
+            "direct_lineal": true,
+            "direct_lineal_gender": "M"
+        },
+        "arrows": {
+            "up": "",
+            "down": "var_00001",
+            "left": "var_000011",
+            "right": ""
+        }
+    },
+    "var_00001a": {
+        "name": "George S Pomeroy",
+        "birth": "<NA>",
+        "x": 12570.0,
+        "y": 832.5,
+        "box_height": 35.0,
+        "generation": 5,
+        "relationships": {
+            "mother": "var_000011",
+            "father": "var_000010",
+            "siblings": [
+                "var_00001"
+            ],
+            "children": [],
+            "spouse": ""
+        },
+        "family_info": {
+            "direct_lineal": true,
+            "direct_lineal_gender": ""
+        },
+        "arrows": {
+            "up": "var_000011",
+            "down": "var_0000",
+            "left": "var_00100",
+            "right": "var_00001"
+        }
+    },
+    "var_000011": {
+        "name": "Margaret Wallace",
+        "birth": "1798",
+        "x": 14670.0,
+        "y": 975.0,
+        "box_height": 50.0,
+        "generation": 6,
+        "relationships": {
+            "mother": "var_0000111",
+            "father": "var_0000110",
+            "siblings": [
+                "var_000011a",
+                "var_000011b",
+                "var_000011c",
+                "var_000011d",
+                "var_000011e"
+            ],
+            "children": [
+                "var_00001",
+                "var_00001a"
+            ],
+            "spouse": "var_000010"
+        },
+        "family_info": {
+            "direct_lineal": true,
+            "direct_lineal_gender": "F"
+        },
+        "arrows": {
+            "up": "var_0000111",
+            "down": "var_00001",
+            "left": "var_000011e",
+            "right": "var_000010"
+        }
+    },
+    "var_000011a": {
+        "name": "James Wallace",
+        "birth": "<NA>",
+        "x": 13520.0,
+        "y": 982.5,
+        "box_height": 35.0,
+        "generation": 6,
+        "relationships": {
+            "mother": "var_0000111",
+            "father": "var_0000110",
+            "siblings": [
+                "var_000011",
+                "var_000011b",
+                "var_000011c",
+                "var_000011d",
+                "var_000011e"
+            ],
+            "children": [],
+            "spouse": ""
+        },
+        "family_info": {
+            "direct_lineal": true,
+            "direct_lineal_gender": ""
+        },
+        "arrows": {
+            "up": "var_0000111",
+            "down": "var_00001",
+            "left": "var_001100e",
+            "right": "var_000011b"
+        }
+    },
+    "var_000011b": {
+        "name": "Ellen Wallace",
+        "birth": "<NA>",
+        "x": 13750.0,
+        "y": 982.5,
+        "box_height": 35.0,
+        "generation": 6,
+        "relationships": {
+            "mother": "var_0000111",
+            "father": "var_0000110",
+            "siblings": [
+                "var_000011",
+                "var_000011a",
+                "var_000011c",
+                "var_000011d",
+                "var_000011e"
+            ],
+            "children": [],
+            "spouse": ""
+        },
+        "family_info": {
+            "direct_lineal": true,
+            "direct_lineal_gender": ""
+        },
+        "arrows": {
+            "up": "var_0000111",
+            "down": "var_00001",
+            "left": "var_000011a",
+            "right": "var_000011c"
+        }
+    },
+    "var_000011c": {
+        "name": "William C Wallace",
+        "birth": "<NA>",
+        "x": 13980.0,
+        "y": 982.5,
+        "box_height": 35.0,
+        "generation": 6,
+        "relationships": {
+            "mother": "var_0000111",
+            "father": "var_0000110",
+            "siblings": [
+                "var_000011",
+                "var_000011a",
+                "var_000011b",
+                "var_000011d",
+                "var_000011e"
+            ],
+            "children": [],
+            "spouse": ""
+        },
+        "family_info": {
+            "direct_lineal": true,
+            "direct_lineal_gender": ""
+        },
+        "arrows": {
+            "up": "var_0000111",
+            "down": "var_00001",
+            "left": "var_000011b",
+            "right": "var_000011d"
+        }
+    },
+    "var_000011d": {
+        "name": "Elizabeth M Wallace",
+        "birth": "<NA>",
+        "x": 14210.0,
+        "y": 982.5,
+        "box_height": 35.0,
+        "generation": 6,
+        "relationships": {
+            "mother": "var_0000111",
+            "father": "var_0000110",
+            "siblings": [
+                "var_000011",
+                "var_000011a",
+                "var_000011b",
+                "var_000011c",
+                "var_000011e"
+            ],
+            "children": [],
+            "spouse": ""
+        },
+        "family_info": {
+            "direct_lineal": true,
+            "direct_lineal_gender": ""
+        },
+        "arrows": {
+            "up": "var_0000111",
+            "down": "var_00001",
+            "left": "var_000011c",
+            "right": "var_000011e"
+        }
+    },
+    "var_000011e": {
+        "name": "Eleanor Wallace",
+        "birth": "<NA>",
+        "x": 14440.0,
+        "y": 982.5,
+        "box_height": 35.0,
+        "generation": 6,
+        "relationships": {
+            "mother": "var_0000111",
+            "father": "var_0000110",
+            "siblings": [
+                "var_000011",
+                "var_000011a",
+                "var_000011b",
+                "var_000011c",
+                "var_000011d"
+            ],
+            "children": [],
+            "spouse": ""
+        },
+        "family_info": {
+            "direct_lineal": true,
+            "direct_lineal_gender": ""
+        },
+        "arrows": {
+            "up": "var_0000111",
+            "down": "var_00001",
+            "left": "var_000011d",
+            "right": "var_000011"
+        }
+    },
+    "var_0000110": {
+        "name": "William Wallace",
+        "birth": "<NA>",
+        "x": 15870.0,
+        "y": 1132.5,
+        "box_height": 35.0,
+        "generation": 7,
+        "relationships": {
+            "mother": "",
+            "father": "",
+            "siblings": [],
+            "children": [
+                "var_000011",
+                "var_000011a",
+                "var_000011b",
+                "var_000011c",
+                "var_000011d",
+                "var_000011e"
+            ],
+            "spouse": "var_0000111"
+        },
+        "family_info": {
+            "direct_lineal": true,
+            "direct_lineal_gender": "M"
+        },
+        "arrows": {
+            "up": "",
+            "down": "var_000011",
+            "left": "var_0000111",
+            "right": ""
+        }
+    },
+    "var_0000111": {
+        "name": "Martha Wallace",
+        "birth": "<NA>",
+        "x": 15640.0,
+        "y": 1132.5,
+        "box_height": 35.0,
+        "generation": 7,
+        "relationships": {
+            "mother": "",
+            "father": "",
+            "siblings": [],
+            "children": [
+                "var_000011",
+                "var_000011a",
+                "var_000011b",
+                "var_000011c",
+                "var_000011d",
+                "var_000011e"
+            ],
+            "spouse": "var_0000110"
+        },
+        "family_info": {
+            "direct_lineal": true,
+            "direct_lineal_gender": "F"
+        },
+        "arrows": {
+            "up": "",
+            "down": "var_000011",
+            "left": "var_0011000g",
+            "right": "var_0000110"
+        }
+    },
+    "var_001a": {
+        "name": "Frances Doane Barber",
+        "birth": "1893",
+        "x": 9700.0,
+        "y": 525.0,
+        "box_height": 50.0,
+        "generation": 3,
+        "relationships": {
+            "mother": "var_0011",
+            "father": "var_0010",
+            "siblings": [
+                "var_001",
+                "var_001b",
+                "var_001c",
+                "var_001d"
+            ],
+            "children": [],
+            "spouse": ""
+        },
+        "family_info": {
+            "direct_lineal": true,
+            "direct_lineal_gender": ""
+        },
+        "arrows": {
+            "up": "var_0011",
+            "down": "var_00",
+            "left": "var_010",
+            "right": "var_001b"
+        }
+    },
+    "var_001b": {
+        "name": "Louise Maria Barber",
+        "birth": "1896",
+        "x": 9930.0,
+        "y": 525.0,
+        "box_height": 50.0,
+        "generation": 3,
+        "relationships": {
+            "mother": "var_0011",
+            "father": "var_0010",
+            "siblings": [
+                "var_001",
+                "var_001a",
+                "var_001c",
+                "var_001d"
+            ],
+            "children": [],
+            "spouse": ""
+        },
+        "family_info": {
+            "direct_lineal": true,
+            "direct_lineal_gender": ""
+        },
+        "arrows": {
+            "up": "var_0011",
+            "down": "var_00",
+            "left": "var_001a",
+            "right": "var_001c"
+        }
+    },
+    "var_001c": {
+        "name": "Anson Frank Wood Barber",
+        "birth": "1901",
+        "x": 10160.0,
+        "y": 517.5,
+        "box_height": 65.0,
+        "generation": 3,
+        "relationships": {
+            "mother": "var_0011",
+            "father": "var_0010",
+            "siblings": [
+                "var_001",
+                "var_001a",
+                "var_001b",
+                "var_001d"
+            ],
+            "children": [],
+            "spouse": ""
+        },
+        "family_info": {
+            "direct_lineal": true,
+            "direct_lineal_gender": ""
+        },
+        "arrows": {
+            "up": "var_0011",
+            "down": "var_00",
+            "left": "var_001b",
+            "right": "var_001d"
+        }
+    },
+    "var_001d": {
+        "name": "Phillip Theodore Barber",
+        "birth": "1909",
+        "x": 10390.0,
+        "y": 517.5,
+        "box_height": 65.0,
+        "generation": 3,
+        "relationships": {
+            "mother": "var_0011",
+            "father": "var_0010",
+            "siblings": [
+                "var_001",
+                "var_001a",
+                "var_001b",
+                "var_001c"
+            ],
+            "children": [],
+            "spouse": ""
+        },
+        "family_info": {
+            "direct_lineal": true,
+            "direct_lineal_gender": ""
+        },
+        "arrows": {
+            "up": "var_0011",
+            "down": "var_00",
+            "left": "var_001c",
+            "right": "var_001"
+        }
+    },
+    "var_00110": {
+        "name": "Norman Williams Wood",
+        "birth": "1830",
+        "x": 11280.0,
+        "y": 825.0,
+        "box_height": 50.0,
+        "generation": 5,
+        "relationships": {
+            "mother": "var_001101",
+            "father": "var_001100",
+            "siblings": [],
+            "children": [
+                "var_0011",
+                "var_0011a",
+                "var_0011b",
+                "var_0011c",
+                "var_0011d"
+            ],
+            "spouse": "var_00111"
+        },
+        "family_info": {
+            "direct_lineal": true,
+            "direct_lineal_gender": "M"
+        },
+        "arrows": {
+            "up": "var_001101",
+            "down": "var_0011",
+            "left": "var_00111",
+            "right": "var_00101"
+        }
+    },
+    "var_00111": {
+        "name": "Hannah Maria Griffin",
+        "birth": "1826",
+        "x": 11050.0,
+        "y": 825.0,
+        "box_height": 50.0,
+        "generation": 5,
+        "relationships": {
+            "mother": "",
+            "father": "",
+            "siblings": [],
+            "children": [
+                "var_0011",
+                "var_0011a",
+                "var_0011b",
+                "var_0011c",
+                "var_0011d"
+            ],
+            "spouse": "var_00110"
+        },
+        "family_info": {
+            "direct_lineal": true,
+            "direct_lineal_gender": "F"
+        },
+        "arrows": {
+            "up": "",
+            "down": "var_0011",
+            "left": "var_01100d",
+            "right": "var_00110"
+        }
+    },
+    "var_0011a": {
+        "name": "George Norman Wood",
+        "birth": "1860",
+        "x": 10665.0,
+        "y": 675.0,
+        "box_height": 50.0,
+        "generation": 4,
+        "relationships": {
+            "mother": "var_00111",
+            "father": "var_00110",
+            "siblings": [
+                "var_0011",
+                "var_0011b",
+                "var_0011c",
+                "var_0011d"
+            ],
+            "children": [],
+            "spouse": ""
+        },
+        "family_info": {
+            "direct_lineal": true,
+            "direct_lineal_gender": ""
+        },
+        "arrows": {
+            "up": "var_00111",
+            "down": "var_001",
+            "left": "var_0110e",
+            "right": "var_0011b"
+        }
+    },
+    "var_0011b": {
+        "name": "Frank Stetson Wood",
+        "birth": "1863",
+        "x": 10895.0,
+        "y": 675.0,
+        "box_height": 50.0,
+        "generation": 4,
+        "relationships": {
+            "mother": "var_00111",
+            "father": "var_00110",
+            "siblings": [
+                "var_0011",
+                "var_0011a",
+                "var_0011c",
+                "var_0011d"
+            ],
+            "children": [],
+            "spouse": ""
+        },
+        "family_info": {
+            "direct_lineal": true,
+            "direct_lineal_gender": ""
+        },
+        "arrows": {
+            "up": "var_00111",
+            "down": "var_001",
+            "left": "var_0011a",
+            "right": "var_0011c"
+        }
+    },
+    "var_0011c": {
+        "name": "Emma Wood",
+        "birth": "1865",
+        "x": 11125.0,
+        "y": 675.0,
+        "box_height": 50.0,
+        "generation": 4,
+        "relationships": {
+            "mother": "var_00111",
+            "father": "var_00110",
+            "siblings": [
+                "var_0011",
+                "var_0011a",
+                "var_0011b",
+                "var_0011d"
+            ],
+            "children": [],
+            "spouse": ""
+        },
+        "family_info": {
+            "direct_lineal": true,
+            "direct_lineal_gender": ""
+        },
+        "arrows": {
+            "up": "var_00111",
+            "down": "var_001",
+            "left": "var_0011b",
+            "right": "var_0011d"
+        }
+    },
+    "var_0011d": {
+        "name": "Harry Edward Wood",
+        "birth": "1871",
+        "x": 11355.0,
+        "y": 675.0,
+        "box_height": 50.0,
+        "generation": 4,
+        "relationships": {
+            "mother": "var_00111",
+            "father": "var_00110",
+            "siblings": [
+                "var_0011",
+                "var_0011a",
+                "var_0011b",
+                "var_0011c"
+            ],
+            "children": [],
+            "spouse": ""
+        },
+        "family_info": {
+            "direct_lineal": true,
+            "direct_lineal_gender": ""
+        },
+        "arrows": {
+            "up": "var_00111",
+            "down": "var_001",
+            "left": "var_0011c",
+            "right": "var_0011"
+        }
+    },
+    "var_001100": {
+        "name": "Joseph Wood",
+        "birth": "1790",
+        "x": 11930.0,
+        "y": 975.0,
+        "box_height": 50.0,
+        "generation": 6,
+        "relationships": {
+            "mother": "var_0011001",
+            "father": "var_0011000",
+            "siblings": [
+                "var_001100a",
+                "var_001100b",
+                "var_001100c",
+                "var_001100d",
+                "var_001100e"
+            ],
+            "children": [
+                "var_00110"
+            ],
+            "spouse": "var_001101"
+        },
+        "family_info": {
+            "direct_lineal": true,
+            "direct_lineal_gender": "M"
+        },
+        "arrows": {
+            "up": "var_0011001",
+            "down": "var_00110",
+            "left": "var_001101",
+            "right": "var_001100a"
+        }
+    },
+    "var_001100a": {
+        "name": "Benjamin Palmer Wood",
+        "birth": "1793",
+        "x": 12160.0,
+        "y": 975.0,
+        "box_height": 50.0,
+        "generation": 6,
+        "relationships": {
+            "mother": "var_0011001",
+            "father": "var_0011000",
+            "siblings": [
+                "var_001100",
+                "var_001100b",
+                "var_001100c",
+                "var_001100d",
+                "var_001100e"
+            ],
+            "children": [],
+            "spouse": ""
+        },
+        "family_info": {
+            "direct_lineal": true,
+            "direct_lineal_gender": ""
+        },
+        "arrows": {
+            "up": "var_0011001",
+            "down": "var_00110",
+            "left": "var_001100",
+            "right": "var_001100b"
+        }
+    },
+    "var_001100b": {
+        "name": "Ira Wood",
+        "birth": "1797",
+        "x": 12390.0,
+        "y": 975.0,
+        "box_height": 50.0,
+        "generation": 6,
+        "relationships": {
+            "mother": "var_0011001",
+            "father": "var_0011000",
+            "siblings": [
+                "var_001100",
+                "var_001100a",
+                "var_001100c",
+                "var_001100d",
+                "var_001100e"
+            ],
+            "children": [],
+            "spouse": ""
+        },
+        "family_info": {
+            "direct_lineal": true,
+            "direct_lineal_gender": ""
+        },
+        "arrows": {
+            "up": "var_0011001",
+            "down": "var_00110",
+            "left": "var_001100a",
+            "right": "var_001100c"
+        }
+    },
+    "var_001100c": {
+        "name": "Samuel Wood",
+        "birth": "1799",
+        "x": 12620.0,
+        "y": 975.0,
+        "box_height": 50.0,
+        "generation": 6,
+        "relationships": {
+            "mother": "var_0011001",
+            "father": "var_0011000",
+            "siblings": [
+                "var_001100",
+                "var_001100a",
+                "var_001100b",
+                "var_001100d",
+                "var_001100e"
+            ],
+            "children": [],
+            "spouse": ""
+        },
+        "family_info": {
+            "direct_lineal": true,
+            "direct_lineal_gender": ""
+        },
+        "arrows": {
+            "up": "var_0011001",
+            "down": "var_00110",
+            "left": "var_001100b",
+            "right": "var_001100d"
+        }
+    },
+    "var_001100d": {
+        "name": "Ora Wood",
+        "birth": "1802",
+        "x": 12850.0,
+        "y": 975.0,
+        "box_height": 50.0,
+        "generation": 6,
+        "relationships": {
+            "mother": "var_0011001",
+            "father": "var_0011000",
+            "siblings": [
+                "var_001100",
+                "var_001100a",
+                "var_001100b",
+                "var_001100c",
+                "var_001100e"
+            ],
+            "children": [],
+            "spouse": ""
+        },
+        "family_info": {
+            "direct_lineal": true,
+            "direct_lineal_gender": ""
+        },
+        "arrows": {
+            "up": "var_0011001",
+            "down": "var_00110",
+            "left": "var_001100c",
+            "right": "var_001100e"
+        }
+    },
+    "var_001100e": {
+        "name": "Erastus Wood",
+        "birth": "1805",
+        "x": 13080.0,
+        "y": 975.0,
+        "box_height": 50.0,
+        "generation": 6,
+        "relationships": {
+            "mother": "var_0011001",
+            "father": "var_0011000",
+            "siblings": [
+                "var_001100",
+                "var_001100a",
+                "var_001100b",
+                "var_001100c",
+                "var_001100d"
+            ],
+            "children": [],
+            "spouse": ""
+        },
+        "family_info": {
+            "direct_lineal": true,
+            "direct_lineal_gender": ""
+        },
+        "arrows": {
+            "up": "var_0011001",
+            "down": "var_00110",
+            "left": "var_001100d",
+            "right": "var_000011a"
+        }
+    },
+    "var_0011000": {
+        "name": "Joseph Wood",
+        "birth": "1761",
+        "x": 13515.0,
+        "y": 1125.0,
+        "box_height": 50.0,
+        "generation": 7,
+        "relationships": {
+            "mother": "var_00110001",
+            "father": "var_00110000",
+            "siblings": [
+                "var_0011000a",
+                "var_0011000b",
+                "var_0011000c",
+                "var_0011000d",
+                "var_0011000e",
+                "var_0011000f",
+                "var_0011000g"
+            ],
+            "children": [
+                "var_001100",
+                "var_001100a",
+                "var_001100b",
+                "var_001100c",
+                "var_001100d",
+                "var_001100e"
+            ],
+            "spouse": "var_0011001"
+        },
+        "family_info": {
+            "direct_lineal": true,
+            "direct_lineal_gender": "M"
+        },
+        "arrows": {
+            "up": "var_00110001",
+            "down": "var_001100",
+            "left": "var_0011001",
+            "right": "var_0011000a"
+        }
+    },
+    "var_0011001": {
+        "name": "Bethiah Palmer",
+        "birth": "1766",
+        "x": 13285.0,
+        "y": 1125.0,
+        "box_height": 50.0,
+        "generation": 7,
+        "relationships": {
+            "mother": "var_00110011",
+            "father": "var_00110010",
+            "siblings": [
+                "var_0011001a",
+                "var_0011001b",
+                "var_0011001c",
+                "var_0011001d",
+                "var_0011001e",
+                "var_0011001f",
+                "var_0011001g",
+                "var_0011001h"
+            ],
+            "children": [
+                "var_001100",
+                "var_001100a",
+                "var_001100b",
+                "var_001100c",
+                "var_001100d",
+                "var_001100e"
+            ],
+            "spouse": "var_0011000"
+        },
+        "family_info": {
+            "direct_lineal": true,
+            "direct_lineal_gender": "F"
+        },
+        "arrows": {
+            "up": "var_00110011",
+            "down": "var_001100",
+            "left": "var_0011001h",
+            "right": "var_0011000"
+        }
+    },
+    "var_0011000a": {
+        "name": "Israel Wood",
+        "birth": "1744",
+        "x": 13745.0,
+        "y": 1125.0,
+        "box_height": 50.0,
+        "generation": 7,
+        "relationships": {
+            "mother": "var_00110001",
+            "father": "var_00110000",
+            "siblings": [
+                "var_0011000",
+                "var_0011000b",
+                "var_0011000c",
+                "var_0011000d",
+                "var_0011000e",
+                "var_0011000f",
+                "var_0011000g"
+            ],
+            "children": [],
+            "spouse": ""
+        },
+        "family_info": {
+            "direct_lineal": true,
+            "direct_lineal_gender": ""
+        },
+        "arrows": {
+            "up": "var_00110001",
+            "down": "var_001100",
+            "left": "var_0011000",
+            "right": "var_0011000b"
+        }
+    },
+    "var_0011000b": {
+        "name": "Joshua Wood II",
+        "birth": "1749",
+        "x": 13975.0,
+        "y": 1125.0,
+        "box_height": 50.0,
+        "generation": 7,
+        "relationships": {
+            "mother": "var_00110001",
+            "father": "var_00110000",
+            "siblings": [
+                "var_0011000",
+                "var_0011000a",
+                "var_0011000c",
+                "var_0011000d",
+                "var_0011000e",
+                "var_0011000f",
+                "var_0011000g"
+            ],
+            "children": [],
+            "spouse": ""
+        },
+        "family_info": {
+            "direct_lineal": true,
+            "direct_lineal_gender": ""
+        },
+        "arrows": {
+            "up": "var_00110001",
+            "down": "var_001100",
+            "left": "var_0011000a",
+            "right": "var_0011000c"
+        }
+    },
+    "var_0011000c": {
+        "name": "Ischabod Wood",
+        "birth": "1751",
+        "x": 14205.0,
+        "y": 1125.0,
+        "box_height": 50.0,
+        "generation": 7,
+        "relationships": {
+            "mother": "var_00110001",
+            "father": "var_00110000",
+            "siblings": [
+                "var_0011000",
+                "var_0011000a",
+                "var_0011000b",
+                "var_0011000d",
+                "var_0011000e",
+                "var_0011000f",
+                "var_0011000g"
+            ],
+            "children": [],
+            "spouse": ""
+        },
+        "family_info": {
+            "direct_lineal": true,
+            "direct_lineal_gender": ""
+        },
+        "arrows": {
+            "up": "var_00110001",
+            "down": "var_001100",
+            "left": "var_0011000b",
+            "right": "var_0011000d"
+        }
+    },
+    "var_0011000d": {
+        "name": "Thomas Wood",
+        "birth": "1753",
+        "x": 14435.0,
+        "y": 1125.0,
+        "box_height": 50.0,
+        "generation": 7,
+        "relationships": {
+            "mother": "var_00110001",
+            "father": "var_00110000",
+            "siblings": [
+                "var_0011000",
+                "var_0011000a",
+                "var_0011000b",
+                "var_0011000c",
+                "var_0011000e",
+                "var_0011000f",
+                "var_0011000g"
+            ],
+            "children": [],
+            "spouse": ""
+        },
+        "family_info": {
+            "direct_lineal": true,
+            "direct_lineal_gender": ""
+        },
+        "arrows": {
+            "up": "var_00110001",
+            "down": "var_001100",
+            "left": "var_0011000c",
+            "right": "var_0011000e"
+        }
+    },
+    "var_0011000e": {
+        "name": "Elizabeth Wood",
+        "birth": "1755",
+        "x": 14665.0,
+        "y": 1125.0,
+        "box_height": 50.0,
+        "generation": 7,
+        "relationships": {
+            "mother": "var_00110001",
+            "father": "var_00110000",
+            "siblings": [
+                "var_0011000",
+                "var_0011000a",
+                "var_0011000b",
+                "var_0011000c",
+                "var_0011000d",
+                "var_0011000f",
+                "var_0011000g"
+            ],
+            "children": [],
+            "spouse": ""
+        },
+        "family_info": {
+            "direct_lineal": true,
+            "direct_lineal_gender": ""
+        },
+        "arrows": {
+            "up": "var_00110001",
+            "down": "var_001100",
+            "left": "var_0011000d",
+            "right": "var_0011000f"
+        }
+    },
+    "var_0011000f": {
+        "name": "Jacob Wood",
+        "birth": "1756",
+        "x": 14895.0,
+        "y": 1125.0,
+        "box_height": 50.0,
+        "generation": 7,
+        "relationships": {
+            "mother": "var_00110001",
+            "father": "var_00110000",
+            "siblings": [
+                "var_0011000",
+                "var_0011000a",
+                "var_0011000b",
+                "var_0011000c",
+                "var_0011000d",
+                "var_0011000e",
+                "var_0011000g"
+            ],
+            "children": [],
+            "spouse": ""
+        },
+        "family_info": {
+            "direct_lineal": true,
+            "direct_lineal_gender": ""
+        },
+        "arrows": {
+            "up": "var_00110001",
+            "down": "var_001100",
+            "left": "var_0011000e",
+            "right": "var_0011000g"
+        }
+    },
+    "var_0011000g": {
+        "name": "Sylvanus Wood",
+        "birth": "1758",
+        "x": 15125.0,
+        "y": 1125.0,
+        "box_height": 50.0,
+        "generation": 7,
+        "relationships": {
+            "mother": "var_00110001",
+            "father": "var_00110000",
+            "siblings": [
+                "var_0011000",
+                "var_0011000a",
+                "var_0011000b",
+                "var_0011000c",
+                "var_0011000d",
+                "var_0011000e",
+                "var_0011000f"
+            ],
+            "children": [],
+            "spouse": ""
+        },
+        "family_info": {
+            "direct_lineal": true,
+            "direct_lineal_gender": ""
+        },
+        "arrows": {
+            "up": "var_00110001",
+            "down": "var_001100",
+            "left": "var_0011000f",
+            "right": "var_0000111"
+        }
+    },
+    "var_0011001a": {
+        "name": "Amos Palmer",
+        "birth": "1749",
+        "x": 11445.0,
+        "y": 1125.0,
+        "box_height": 50.0,
+        "generation": 7,
+        "relationships": {
+            "mother": "var_00110011",
+            "father": "var_00110010",
+            "siblings": [
+                "var_0011001",
+                "var_0011001b",
+                "var_0011001c",
+                "var_0011001d",
+                "var_0011001e",
+                "var_0011001f",
+                "var_0011001g",
+                "var_0011001h"
+            ],
+            "children": [],
+            "spouse": ""
+        },
+        "family_info": {
+            "direct_lineal": true,
+            "direct_lineal_gender": ""
+        },
+        "arrows": {
+            "up": "var_00110011",
+            "down": "var_001100",
+            "left": "var_0110000",
+            "right": "var_0011001b"
+        }
+    },
+    "var_0011001b": {
+        "name": "Elizabeth Palmer",
+        "birth": "1761",
+        "x": 11675.0,
+        "y": 1125.0,
+        "box_height": 50.0,
+        "generation": 7,
+        "relationships": {
+            "mother": "var_00110011",
+            "father": "var_00110010",
+            "siblings": [
+                "var_0011001",
+                "var_0011001a",
+                "var_0011001c",
+                "var_0011001d",
+                "var_0011001e",
+                "var_0011001f",
+                "var_0011001g",
+                "var_0011001h"
+            ],
+            "children": [],
+            "spouse": ""
+        },
+        "family_info": {
+            "direct_lineal": true,
+            "direct_lineal_gender": ""
+        },
+        "arrows": {
+            "up": "var_00110011",
+            "down": "var_001100",
+            "left": "var_0011001a",
+            "right": "var_0011001c"
+        }
+    },
+    "var_0011001c": {
+        "name": "Oliver Palmer",
+        "birth": "1763",
+        "x": 11905.0,
+        "y": 1125.0,
+        "box_height": 50.0,
+        "generation": 7,
+        "relationships": {
+            "mother": "var_00110011",
+            "father": "var_00110010",
+            "siblings": [
+                "var_0011001",
+                "var_0011001a",
+                "var_0011001b",
+                "var_0011001d",
+                "var_0011001e",
+                "var_0011001f",
+                "var_0011001g",
+                "var_0011001h"
+            ],
+            "children": [],
+            "spouse": ""
+        },
+        "family_info": {
+            "direct_lineal": true,
+            "direct_lineal_gender": ""
+        },
+        "arrows": {
+            "up": "var_00110011",
+            "down": "var_001100",
+            "left": "var_0011001b",
+            "right": "var_0011001d"
+        }
+    },
+    "var_0011001d": {
+        "name": "Hannah Palmer",
+        "birth": "1769",
+        "x": 12135.0,
+        "y": 1125.0,
+        "box_height": 50.0,
+        "generation": 7,
+        "relationships": {
+            "mother": "var_00110011",
+            "father": "var_00110010",
+            "siblings": [
+                "var_0011001",
+                "var_0011001a",
+                "var_0011001b",
+                "var_0011001c",
+                "var_0011001e",
+                "var_0011001f",
+                "var_0011001g",
+                "var_0011001h"
+            ],
+            "children": [],
+            "spouse": ""
+        },
+        "family_info": {
+            "direct_lineal": true,
+            "direct_lineal_gender": ""
+        },
+        "arrows": {
+            "up": "var_00110011",
+            "down": "var_001100",
+            "left": "var_0011001c",
+            "right": "var_0011001e"
+        }
+    },
+    "var_0011001e": {
+        "name": "Mehitable Palmer",
+        "birth": "1771",
+        "x": 12365.0,
+        "y": 1125.0,
+        "box_height": 50.0,
+        "generation": 7,
+        "relationships": {
+            "mother": "var_00110011",
+            "father": "var_00110010",
+            "siblings": [
+                "var_0011001",
+                "var_0011001a",
+                "var_0011001b",
+                "var_0011001c",
+                "var_0011001d",
+                "var_0011001f",
+                "var_0011001g",
+                "var_0011001h"
+            ],
+            "children": [],
+            "spouse": ""
+        },
+        "family_info": {
+            "direct_lineal": true,
+            "direct_lineal_gender": ""
+        },
+        "arrows": {
+            "up": "var_00110011",
+            "down": "var_001100",
+            "left": "var_0011001d",
+            "right": "var_0011001f"
+        }
+    },
+    "var_0011001f": {
+        "name": "Lucy Palmer",
+        "birth": "1776",
+        "x": 12595.0,
+        "y": 1125.0,
+        "box_height": 50.0,
+        "generation": 7,
+        "relationships": {
+            "mother": "var_00110011",
+            "father": "var_00110010",
+            "siblings": [
+                "var_0011001",
+                "var_0011001a",
+                "var_0011001b",
+                "var_0011001c",
+                "var_0011001d",
+                "var_0011001e",
+                "var_0011001g",
+                "var_0011001h"
+            ],
+            "children": [],
+            "spouse": ""
+        },
+        "family_info": {
+            "direct_lineal": true,
+            "direct_lineal_gender": ""
+        },
+        "arrows": {
+            "up": "var_00110011",
+            "down": "var_001100",
+            "left": "var_0011001e",
+            "right": "var_0011001g"
+        }
+    },
+    "var_0011001g": {
+        "name": "Walter Palmer",
+        "birth": "1781",
+        "x": 12825.0,
+        "y": 1125.0,
+        "box_height": 50.0,
+        "generation": 7,
+        "relationships": {
+            "mother": "var_00110011",
+            "father": "var_00110010",
+            "siblings": [
+                "var_0011001",
+                "var_0011001a",
+                "var_0011001b",
+                "var_0011001c",
+                "var_0011001d",
+                "var_0011001e",
+                "var_0011001f",
+                "var_0011001h"
+            ],
+            "children": [],
+            "spouse": ""
+        },
+        "family_info": {
+            "direct_lineal": true,
+            "direct_lineal_gender": ""
+        },
+        "arrows": {
+            "up": "var_00110011",
+            "down": "var_001100",
+            "left": "var_0011001f",
+            "right": "var_0011001h"
+        }
+    },
+    "var_0011001h": {
+        "name": "Betsy Palmer",
+        "birth": "1785",
+        "x": 13055.0,
+        "y": 1125.0,
+        "box_height": 50.0,
+        "generation": 7,
+        "relationships": {
+            "mother": "var_00110011",
+            "father": "var_00110010",
+            "siblings": [
+                "var_0011001",
+                "var_0011001a",
+                "var_0011001b",
+                "var_0011001c",
+                "var_0011001d",
+                "var_0011001e",
+                "var_0011001f",
+                "var_0011001g"
+            ],
+            "children": [],
+            "spouse": ""
+        },
+        "family_info": {
+            "direct_lineal": true,
+            "direct_lineal_gender": ""
+        },
+        "arrows": {
+            "up": "var_00110011",
+            "down": "var_001100",
+            "left": "var_0011001g",
+            "right": "var_0011001"
+        }
+    },
+    "var_00110000": {
+        "name": "Ichabod Wood",
+        "birth": "1719",
+        "x": 14435.0,
+        "y": 1275.0,
+        "box_height": 50.0,
+        "generation": 8,
+        "relationships": {
+            "mother": "var_001100001",
+            "father": "var_001100000",
+            "siblings": [
+                "var_00110000a"
+            ],
+            "children": [
+                "var_0011000",
+                "var_0011000a",
+                "var_0011000b",
+                "var_0011000c",
+                "var_0011000d",
+                "var_0011000e",
+                "var_0011000f",
+                "var_0011000g"
+            ],
+            "spouse": "var_00110001"
+        },
+        "family_info": {
+            "direct_lineal": true,
+            "direct_lineal_gender": "M"
+        },
+        "arrows": {
+            "up": "var_001100001",
+            "down": "var_0011000",
+            "left": "var_00110001",
+            "right": "var_00110000a"
+        }
+    },
+    "var_00110001": {
+        "name": "Thankful Cobb",
+        "birth": "1722",
+        "x": 14205.0,
+        "y": 1275.0,
+        "box_height": 50.0,
+        "generation": 8,
+        "relationships": {
+            "mother": "",
+            "father": "",
+            "siblings": [],
+            "children": [
+                "var_0011000",
+                "var_0011000a",
+                "var_0011000b",
+                "var_0011000c",
+                "var_0011000d",
+                "var_0011000e",
+                "var_0011000f",
+                "var_0011000g"
+            ],
+            "spouse": "var_00110000"
+        },
+        "family_info": {
+            "direct_lineal": true,
+            "direct_lineal_gender": "F"
+        },
+        "arrows": {
+            "up": "",
+            "down": "var_0011000",
+            "left": "var_00110010",
+            "right": "var_00110000"
+        }
+    },
+    "var_00110000a": {
+        "name": "Nathaniel Wood",
+        "birth": "1725",
+        "x": 14665.0,
+        "y": 1275.0,
+        "box_height": 50.0,
+        "generation": 8,
+        "relationships": {
+            "mother": "var_001100001",
+            "father": "var_001100000",
+            "siblings": [
+                "var_00110000"
+            ],
+            "children": [],
+            "spouse": ""
+        },
+        "family_info": {
+            "direct_lineal": true,
+            "direct_lineal_gender": ""
+        },
+        "arrows": {
+            "up": "var_001100001",
+            "down": "var_0011000",
+            "left": "var_00110000",
+            "right": ""
+        }
+    },
+    "var_001100000": {
+        "name": "Samuel Wood",
+        "birth": "1684",
+        "x": 14665.0,
+        "y": 1425.0,
+        "box_height": 50.0,
+        "generation": 9,
+        "relationships": {
+            "mother": "var_0011000001",
+            "father": "var_0011000000",
+            "siblings": [
+                "var_001100000a",
+                "var_001100000b",
+                "var_001100000c"
+            ],
+            "children": [
+                "var_00110000",
+                "var_00110000a"
+            ],
+            "spouse": "var_001100001"
+        },
+        "family_info": {
+            "direct_lineal": true,
+            "direct_lineal_gender": "M"
+        },
+        "arrows": {
+            "up": "var_0011000001",
+            "down": "var_00110000",
+            "left": "var_001100001",
+            "right": "var_001100000a"
+        }
+    },
+    "var_001100001": {
+        "name": "Elizabeth Smith",
+        "birth": "1691",
+        "x": 14435.0,
+        "y": 1425.0,
+        "box_height": 50.0,
+        "generation": 9,
+        "relationships": {
+            "mother": "",
+            "father": "",
+            "siblings": [],
+            "children": [
+                "var_00110000",
+                "var_00110000a"
+            ],
+            "spouse": "var_001100000"
+        },
+        "family_info": {
+            "direct_lineal": true,
+            "direct_lineal_gender": "F"
+        },
+        "arrows": {
+            "up": "",
+            "down": "var_00110000",
+            "left": "var_110001000",
+            "right": "var_001100000"
+        }
+    },
+    "var_001100000a": {
+        "name": "Henry Wood",
+        "birth": "1677",
+        "x": 14895.0,
+        "y": 1425.0,
+        "box_height": 50.0,
+        "generation": 9,
+        "relationships": {
+            "mother": "var_0011000001",
+            "father": "var_0011000000",
+            "siblings": [
+                "var_001100000",
+                "var_001100000b",
+                "var_001100000c"
+            ],
+            "children": [],
+            "spouse": ""
+        },
+        "family_info": {
+            "direct_lineal": true,
+            "direct_lineal_gender": ""
+        },
+        "arrows": {
+            "up": "var_0011000001",
+            "down": "var_00110000",
+            "left": "var_001100000",
+            "right": "var_001100000b"
+        }
+    },
+    "var_001100000b": {
+        "name": "Ephraim Wood",
+        "birth": "1679",
+        "x": 15125.0,
+        "y": 1425.0,
+        "box_height": 50.0,
+        "generation": 9,
+        "relationships": {
+            "mother": "var_0011000001",
+            "father": "var_0011000000",
+            "siblings": [
+                "var_001100000",
+                "var_001100000a",
+                "var_001100000c"
+            ],
+            "children": [],
+            "spouse": ""
+        },
+        "family_info": {
+            "direct_lineal": true,
+            "direct_lineal_gender": ""
+        },
+        "arrows": {
+            "up": "var_0011000001",
+            "down": "var_00110000",
+            "left": "var_001100000a",
+            "right": "var_001100000c"
+        }
+    },
+    "var_001100000c": {
+        "name": "Susannah Wood",
+        "birth": "1691",
+        "x": 15355.0,
+        "y": 1425.0,
+        "box_height": 50.0,
+        "generation": 9,
+        "relationships": {
+            "mother": "var_0011000001",
+            "father": "var_0011000000",
+            "siblings": [
+                "var_001100000",
+                "var_001100000a",
+                "var_001100000b"
+            ],
+            "children": [],
+            "spouse": ""
+        },
+        "family_info": {
+            "direct_lineal": true,
+            "direct_lineal_gender": ""
+        },
+        "arrows": {
+            "up": "var_0011000001",
+            "down": "var_00110000",
+            "left": "var_001100000b",
+            "right": ""
+        }
+    },
+    "var_0011000000": {
+        "name": "Samuel Wood Sr.",
+        "birth": "1647",
+        "x": 15125.0,
+        "y": 1575.0,
+        "box_height": 50.0,
+        "generation": 10,
+        "relationships": {
+            "mother": "var_00110000001",
+            "father": "var_00110000000",
+            "siblings": [
+                "var_0011000000a",
+                "var_0011000000b",
+                "var_0011000000c",
+                "var_0011000000d"
+            ],
+            "children": [
+                "var_001100000",
+                "var_001100000a",
+                "var_001100000b",
+                "var_001100000c"
+            ],
+            "spouse": "var_0011000001"
+        },
+        "family_info": {
+            "direct_lineal": true,
+            "direct_lineal_gender": "M"
+        },
+        "arrows": {
+            "up": "var_00110000001",
+            "down": "var_001100000",
+            "left": "var_0011000001",
+            "right": "var_0011000000a"
+        }
+    },
+    "var_0011000001": {
+        "name": "Rebeckah Morton",
+        "birth": "1651",
+        "x": 14895.0,
+        "y": 1575.0,
+        "box_height": 50.0,
+        "generation": 10,
+        "relationships": {
+            "mother": "var_00110000011",
+            "father": "var_00110000010",
+            "siblings": [
+                "var_0011000001a",
+                "var_0011000001b",
+                "var_0011000001c"
+            ],
+            "children": [
+                "var_001100000",
+                "var_001100000a",
+                "var_001100000b",
+                "var_001100000c"
+            ],
+            "spouse": "var_0011000000"
+        },
+        "family_info": {
+            "direct_lineal": true,
+            "direct_lineal_gender": "F"
+        },
+        "arrows": {
+            "up": "var_00110000011",
+            "down": "var_001100000",
+            "left": "var_0011000001c",
+            "right": "var_0011000000"
+        }
+    },
+    "var_0011000000a": {
+        "name": "David Wood",
+        "birth": "1651",
+        "x": 15355.0,
+        "y": 1575.0,
+        "box_height": 50.0,
+        "generation": 10,
+        "relationships": {
+            "mother": "var_00110000001",
+            "father": "var_00110000000",
+            "siblings": [
+                "var_0011000000",
+                "var_0011000000b",
+                "var_0011000000c",
+                "var_0011000000d"
+            ],
+            "children": [],
+            "spouse": ""
+        },
+        "family_info": {
+            "direct_lineal": true,
+            "direct_lineal_gender": ""
+        },
+        "arrows": {
+            "up": "var_00110000001",
+            "down": "var_001100000",
+            "left": "var_0011000000",
+            "right": "var_0011000000b"
+        }
+    },
+    "var_0011000000b": {
+        "name": "Joseph Atwood",
+        "birth": "1653",
+        "x": 15585.0,
+        "y": 1575.0,
+        "box_height": 50.0,
+        "generation": 10,
+        "relationships": {
+            "mother": "var_00110000001",
+            "father": "var_00110000000",
+            "siblings": [
+                "var_0011000000",
+                "var_0011000000a",
+                "var_0011000000c",
+                "var_0011000000d"
+            ],
+            "children": [],
+            "spouse": ""
+        },
+        "family_info": {
+            "direct_lineal": true,
+            "direct_lineal_gender": ""
+        },
+        "arrows": {
+            "up": "var_00110000001",
+            "down": "var_001100000",
+            "left": "var_0011000000a",
+            "right": "var_0011000000c"
+        }
+    },
+    "var_0011000000c": {
+        "name": "Abiel Wood",
+        "birth": "1658",
+        "x": 15815.0,
+        "y": 1575.0,
+        "box_height": 50.0,
+        "generation": 10,
+        "relationships": {
+            "mother": "var_00110000001",
+            "father": "var_00110000000",
+            "siblings": [
+                "var_0011000000",
+                "var_0011000000a",
+                "var_0011000000b",
+                "var_0011000000d"
+            ],
+            "children": [],
+            "spouse": ""
+        },
+        "family_info": {
+            "direct_lineal": true,
+            "direct_lineal_gender": ""
+        },
+        "arrows": {
+            "up": "var_00110000001",
+            "down": "var_001100000",
+            "left": "var_0011000000b",
+            "right": "var_0011000000d"
+        }
+    },
+    "var_0011000000d": {
+        "name": "James Wood",
+        "birth": "1659",
+        "x": 16045.0,
+        "y": 1575.0,
+        "box_height": 50.0,
+        "generation": 10,
+        "relationships": {
+            "mother": "var_00110000001",
+            "father": "var_00110000000",
+            "siblings": [
+                "var_0011000000",
+                "var_0011000000a",
+                "var_0011000000b",
+                "var_0011000000c"
+            ],
+            "children": [],
+            "spouse": ""
+        },
+        "family_info": {
+            "direct_lineal": true,
+            "direct_lineal_gender": ""
+        },
+        "arrows": {
+            "up": "var_00110000001",
+            "down": "var_001100000",
+            "left": "var_0011000000c",
+            "right": ""
+        }
+    },
+    "var_0011000001a": {
+        "name": "George Morton",
+        "birth": "1645",
+        "x": 14205.0,
+        "y": 1575.0,
+        "box_height": 50.0,
+        "generation": 10,
+        "relationships": {
+            "mother": "var_00110000011",
+            "father": "var_00110000010",
+            "siblings": [
+                "var_0011000001",
+                "var_0011000001b",
+                "var_0011000001c"
+            ],
+            "children": [],
+            "spouse": ""
+        },
+        "family_info": {
+            "direct_lineal": true,
+            "direct_lineal_gender": ""
+        },
+        "arrows": {
+            "up": "var_00110000011",
+            "down": "var_001100000",
+            "left": "var_1110100000",
+            "right": "var_0011000001b"
+        }
+    },
+    "var_0011000001b": {
+        "name": "Ephraim Morton",
+        "birth": "1648",
+        "x": 14435.0,
+        "y": 1575.0,
+        "box_height": 50.0,
+        "generation": 10,
+        "relationships": {
+            "mother": "var_00110000011",
+            "father": "var_00110000010",
+            "siblings": [
+                "var_0011000001",
+                "var_0011000001a",
+                "var_0011000001c"
+            ],
+            "children": [],
+            "spouse": ""
+        },
+        "family_info": {
+            "direct_lineal": true,
+            "direct_lineal_gender": ""
+        },
+        "arrows": {
+            "up": "var_00110000011",
+            "down": "var_001100000",
+            "left": "var_0011000001a",
+            "right": "var_0011000001c"
+        }
+    },
+    "var_0011000001c": {
+        "name": "Patience Morton",
+        "birth": "1669",
+        "x": 14665.0,
+        "y": 1575.0,
+        "box_height": 50.0,
+        "generation": 10,
+        "relationships": {
+            "mother": "var_00110000011",
+            "father": "var_00110000010",
+            "siblings": [
+                "var_0011000001",
+                "var_0011000001a",
+                "var_0011000001b"
+            ],
+            "children": [],
+            "spouse": ""
+        },
+        "family_info": {
+            "direct_lineal": true,
+            "direct_lineal_gender": ""
+        },
+        "arrows": {
+            "up": "var_00110000011",
+            "down": "var_001100000",
+            "left": "var_0011000001b",
+            "right": "var_0011000001"
+        }
+    },
+    "var_00110000000": {
+        "name": "Henry Wood",
+        "birth": "1616",
+        "x": 15700.0,
+        "y": 1725.0,
+        "box_height": 50.0,
+        "generation": 11,
+        "relationships": {
+            "mother": "",
+            "father": "",
+            "siblings": [],
+            "children": [
+                "var_0011000000",
+                "var_0011000000a",
+                "var_0011000000b",
+                "var_0011000000c",
+                "var_0011000000d"
+            ],
+            "spouse": "var_00110000001"
+        },
+        "family_info": {
+            "direct_lineal": true,
+            "direct_lineal_gender": "M"
+        },
+        "arrows": {
+            "up": "",
+            "down": "var_0011000000",
+            "left": "var_00110000001",
+            "right": ""
+        }
+    },
+    "var_00110000001": {
+        "name": "Abigail Jenney",
+        "birth": "1621",
+        "x": 15470.0,
+        "y": 1725.0,
+        "box_height": 50.0,
+        "generation": 11,
+        "relationships": {
+            "mother": "",
+            "father": "",
+            "siblings": [],
+            "children": [
+                "var_0011000000",
+                "var_0011000000a",
+                "var_0011000000b",
+                "var_0011000000c",
+                "var_0011000000d"
+            ],
+            "spouse": "var_00110000000"
+        },
+        "family_info": {
+            "direct_lineal": true,
+            "direct_lineal_gender": "F"
+        },
+        "arrows": {
+            "up": "",
+            "down": "var_0011000000",
+            "left": "var_00110000010",
+            "right": "var_00110000000"
+        }
+    },
+    "var_001101": {
+        "name": "Lucy Burnap",
+        "birth": "1791",
+        "x": 11700.0,
+        "y": 975.0,
+        "box_height": 50.0,
+        "generation": 6,
+        "relationships": {
+            "mother": "",
+            "father": "",
+            "siblings": [],
+            "children": [
+                "var_00110"
+            ],
+            "spouse": "var_001100"
+        },
+        "family_info": {
+            "direct_lineal": true,
+            "direct_lineal_gender": "F"
+        },
+        "arrows": {
+            "up": "",
+            "down": "var_00110",
+            "left": "var_011000d",
+            "right": "var_001100"
+        }
+    },
+    "var_00110010": {
+        "name": "Gershom Palmer",
+        "birth": "1738",
+        "x": 12480.0,
+        "y": 1275.0,
+        "box_height": 50.0,
+        "generation": 8,
+        "relationships": {
+            "mother": "",
+            "father": "",
+            "siblings": [],
+            "children": [
+                "var_0011001",
+                "var_0011001a",
+                "var_0011001b",
+                "var_0011001c",
+                "var_0011001d",
+                "var_0011001e",
+                "var_0011001f",
+                "var_0011001g",
+                "var_0011001h"
+            ],
+            "spouse": "var_00110011"
+        },
+        "family_info": {
+            "direct_lineal": true,
+            "direct_lineal_gender": "M"
+        },
+        "arrows": {
+            "up": "",
+            "down": "var_0011001",
+            "left": "var_00110011",
+            "right": "var_00110001"
+        }
+    },
+    "var_00110011": {
+        "name": "Lucy Field",
+        "birth": "1738",
+        "x": 12250.0,
+        "y": 1275.0,
+        "box_height": 50.0,
+        "generation": 8,
+        "relationships": {
+            "mother": "",
+            "father": "",
+            "siblings": [],
+            "children": [
+                "var_0011001",
+                "var_0011001a",
+                "var_0011001b",
+                "var_0011001c",
+                "var_0011001d",
+                "var_0011001e",
+                "var_0011001f",
+                "var_0011001g",
+                "var_0011001h"
+            ],
+            "spouse": "var_00110010"
+        },
+        "family_info": {
+            "direct_lineal": true,
+            "direct_lineal_gender": "F"
+        },
+        "arrows": {
+            "up": "",
+            "down": "var_0011001",
+            "left": "var_11000100",
+            "right": "var_00110010"
+        }
+    },
+    "var_00110000010": {
+        "name": "Ephraim Morton Sr",
+        "birth": "1623",
+        "x": 14665.0,
+        "y": 1725.0,
+        "box_height": 50.0,
+        "generation": 11,
+        "relationships": {
+            "mother": "",
+            "father": "",
+            "siblings": [],
+            "children": [
+                "var_0011000001",
+                "var_0011000001a",
+                "var_0011000001b",
+                "var_0011000001c"
+            ],
+            "spouse": "var_00110000011"
+        },
+        "family_info": {
+            "direct_lineal": true,
+            "direct_lineal_gender": "M"
+        },
+        "arrows": {
+            "up": "",
+            "down": "var_0011000001",
+            "left": "var_00110000011",
+            "right": "var_00110000001"
+        }
+    },
+    "var_00110000011": {
+        "name": "Ann Cooper",
+        "birth": "1625",
+        "x": 14435.0,
+        "y": 1725.0,
+        "box_height": 50.0,
+        "generation": 11,
+        "relationships": {
+            "mother": "",
+            "father": "",
+            "siblings": [],
+            "children": [
+                "var_0011000001",
+                "var_0011000001a",
+                "var_0011000001b",
+                "var_0011000001c"
+            ],
+            "spouse": "var_00110000010"
+        },
+        "family_info": {
+            "direct_lineal": true,
+            "direct_lineal_gender": "F"
+        },
+        "arrows": {
+            "up": "",
+            "down": "var_0011000001",
+            "left": "var_11101000000",
+            "right": "var_00110000010"
         }
     }
 }

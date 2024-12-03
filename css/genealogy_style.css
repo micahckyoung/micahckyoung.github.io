@@ -111,7 +111,9 @@ body {
 }
 
 .person-box.focused {
-    border: 3px solid #2563eb;
+/*    border: 3px solid #2563eb;*/
+    border: 3px solid #f56038;
+    background-color: #fbd5cb;
     box-shadow: 0 0 15px rgba(37, 99, 235, 0.3);
     z-index: 2;
 }
@@ -151,8 +153,8 @@ svg {
 
 /* Nuclear Family Highlighting */
 .person-box.nuclear-family {
-    background-color: #f0f7ff;
-    border-color: #93c5fd;
+    background-color: #f2e4ec;
+    border-color: #8f3b76;
 }
 
 .person-box.nuclear-family.spouse {
@@ -161,6 +163,11 @@ svg {
 
 .person-box.nuclear-family.child {
     border-style: solid;
+}
+
+.person-box.nuclear-family.parent {
+    background-color: #c3e2e3 !important;
+    border-color: #2e9598 !important;
 }
 
 /* Help Banner */
