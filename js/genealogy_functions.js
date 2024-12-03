@@ -1,9 +1,9 @@
 // Global variables
 const BOX_WIDTH = 180;
-const MIN_SCALE = 0.3;
-const MAX_SCALE = 2;
+const MIN_SCALE = 0.05;
+const MAX_SCALE = 1;
 let currentFocus = 'var_micah';
-let currentScale = 1;
+let currentScale = 0.5;
 let currentSuggestionIndex = -1;
 let suggestions = [];
 const container = document.getElementById('treeContainer');
@@ -70,7 +70,7 @@ function createZoomControls() {
     zoomBar.className = 'zoom-controls';
     zoomBar.innerHTML = `
         <button id="zoomIn" class="zoom-btn">+</button>
-        <input type="range" id="zoomSlider" min="30" max="200" value="100" orient="vertical">
+        <input type="range" id="zoomSlider" min="5" max="100" value="50" orient="vertical">
         <button id="zoomOut" class="zoom-btn">-</button>
     `;
     document.body.appendChild(zoomBar);
