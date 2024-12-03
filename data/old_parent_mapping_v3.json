@@ -23,9 +23,9 @@
             "var_001100000b",
             "var_001100000c"
         ],
-        "parent_center_x": 18430.0,
+        "parent_center_x": 15010.0,
         "parent_center_y": 1575.0,
-        "children_center_x": 18430.0,
+        "children_center_x": 15010.0,
         "children_center_y": 1425.0
     },
     "gen_11_chunk_1": {
@@ -52,9 +52,9 @@
             "var_0011000001b",
             "var_0011000001c"
         ],
-        "parent_center_x": 17970.0,
+        "parent_center_x": 14550.0,
         "parent_center_y": 1725.0,
-        "children_center_x": 17970.0,
+        "children_center_x": 14550.0,
         "children_center_y": 1575.0
     },
     "gen_11_chunk_3": {
@@ -69,9 +69,9 @@
             "var_0011000000c",
             "var_0011000000d"
         ],
-        "parent_center_x": 19005.0,
+        "parent_center_x": 15585.0,
         "parent_center_y": 1725.0,
-        "children_center_x": 19005.0,
+        "children_center_x": 15585.0,
         "children_center_y": 1575.0
     },
     "gen_12_chunk_1": {
@@ -313,7 +313,7 @@
             "var_001c",
             "var_001d"
         ],
-        "parent_center_x": 11745.0,
+        "parent_center_x": 11700.0,
         "parent_center_y": 675.0,
         "children_center_x": 10160.0,
         "children_center_y": 517.5
@@ -327,7 +327,7 @@
             "var_000",
             "var_000a"
         ],
-        "parent_center_x": 14100.0,
+        "parent_center_x": 12340.0,
         "parent_center_y": 667.5,
         "children_center_x": 10965.0,
         "children_center_y": 517.5
@@ -429,9 +429,9 @@
             "var_0011c",
             "var_0011d"
         ],
-        "parent_center_x": 11900.0,
+        "parent_center_x": 11165.0,
         "parent_center_y": 825.0,
-        "children_center_x": 11170.0,
+        "children_center_x": 11125.0,
         "children_center_y": 675.0
     },
     "gen_5_chunk_7": {
@@ -440,34 +440,14 @@
             "var_00101"
         ],
         "children_variable_names": [
-            "var_0010",
-            "var_0010a",
-            "var_0010b",
-            "var_0010c"
+            "var_0010"
         ],
-        "parent_center_x": 12770.0,
+        "parent_center_x": 11815.0,
         "parent_center_y": 817.5,
-        "children_center_x": 12205.0,
+        "children_center_x": 11815.0,
         "children_center_y": 667.5
     },
     "gen_5_chunk_8": {
-        "parent_variable_names": [
-            "var_00010",
-            "var_00011"
-        ],
-        "children_variable_names": [
-            "var_0001",
-            "var_0001a",
-            "var_0001b",
-            "var_0001c",
-            "var_0001d"
-        ],
-        "parent_center_x": 14360.0,
-        "parent_center_y": 825.0,
-        "children_center_x": 13525.0,
-        "children_center_y": 667.5
-    },
-    "gen_5_chunk_9": {
         "parent_variable_names": [
             "var_00000",
             "var_00001"
@@ -479,9 +459,9 @@
             "var_0000c",
             "var_0000d"
         ],
-        "parent_center_x": 16350.0,
+        "parent_center_x": 12915.0,
         "parent_center_y": 825.0,
-        "children_center_x": 14675.0,
+        "children_center_x": 12915.0,
         "children_center_y": 667.5
     },
     "gen_6_chunk_1": {
@@ -506,68 +486,6 @@
         "parent_center_x": 1265.0,
         "parent_center_y": 975.0,
         "children_center_x": 1265.0,
-        "children_center_y": 817.5
-    },
-    "gen_6_chunk_10": {
-        "parent_variable_names": [
-            "var_001000",
-            "var_001001"
-        ],
-        "children_variable_names": [
-            "var_00100",
-            "var_00100a",
-            "var_00100b",
-            "var_00100c",
-            "var_00100d"
-        ],
-        "parent_center_x": 19800.0,
-        "parent_center_y": 975.0,
-        "children_center_x": 13345.0,
-        "children_center_y": 817.5
-    },
-    "gen_6_chunk_11": {
-        "parent_variable_names": [
-            "var_000110",
-            "var_000111"
-        ],
-        "children_variable_names": [
-            "var_00011"
-        ],
-        "parent_center_x": 21100.0,
-        "parent_center_y": 975.0,
-        "children_center_x": 14245.0,
-        "children_center_y": 825.0
-    },
-    "gen_6_chunk_12": {
-        "parent_variable_names": [
-            "var_000100",
-            "var_000101"
-        ],
-        "children_variable_names": [
-            "var_00010",
-            "var_00010a",
-            "var_00010b",
-            "var_00010c",
-            "var_00010d",
-            "var_00010e"
-        ],
-        "parent_center_x": 21620.0,
-        "parent_center_y": 975.0,
-        "children_center_x": 15050.0,
-        "children_center_y": 817.5
-    },
-    "gen_6_chunk_13": {
-        "parent_variable_names": [
-            "var_000010",
-            "var_000011"
-        ],
-        "children_variable_names": [
-            "var_00001",
-            "var_00001a"
-        ],
-        "parent_center_x": 23365.0,
-        "parent_center_y": 982.5,
-        "children_center_x": 16120.0,
         "children_center_y": 817.5
     },
     "gen_6_chunk_2": {
@@ -654,45 +572,29 @@
     },
     "gen_6_chunk_7": {
         "parent_variable_names": [
-            "var_001110",
-            "var_001111"
-        ],
-        "children_variable_names": [
-            "var_00111",
-            "var_00111a",
-            "var_00111b",
-            "var_00111c"
-        ],
-        "parent_center_x": 13315.0,
-        "parent_center_y": 975.0,
-        "children_center_x": 11440.0,
-        "children_center_y": 817.5
-    },
-    "gen_6_chunk_8": {
-        "parent_variable_names": [
             "var_001100",
             "var_001101"
         ],
         "children_variable_names": [
             "var_00110"
         ],
-        "parent_center_x": 15715.0,
+        "parent_center_x": 11815.0,
         "parent_center_y": 975.0,
-        "children_center_x": 12015.0,
+        "children_center_x": 11280.0,
         "children_center_y": 825.0
     },
-    "gen_6_chunk_9": {
+    "gen_6_chunk_8": {
         "parent_variable_names": [
-            "var_001010",
-            "var_001011"
+            "var_000010",
+            "var_000011"
         ],
         "children_variable_names": [
-            "var_00101",
-            "var_00101a"
+            "var_00001",
+            "var_00001a"
         ],
-        "parent_center_x": 17520.0,
-        "parent_center_y": 975.0,
-        "children_center_x": 12540.0,
+        "parent_center_x": 14785.0,
+        "parent_center_y": 982.5,
+        "children_center_x": 12685.0,
         "children_center_y": 817.5
     },
     "gen_7_chunk_1": {
@@ -742,45 +644,6 @@
     },
     "gen_7_chunk_12": {
         "parent_variable_names": [
-            "var_0011110",
-            "var_0011111"
-        ],
-        "children_variable_names": [
-            "var_001111",
-            "var_001111a",
-            "var_001111b",
-            "var_001111c",
-            "var_001111d",
-            "var_001111e",
-            "var_001111f"
-        ],
-        "parent_center_x": 12510.0,
-        "parent_center_y": 1125.0,
-        "children_center_x": 12510.0,
-        "children_center_y": 975.0
-    },
-    "gen_7_chunk_13": {
-        "parent_variable_names": [
-            "var_0011100",
-            "var_0011101"
-        ],
-        "children_variable_names": [
-            "var_001110",
-            "var_001110a",
-            "var_001110b",
-            "var_001110c",
-            "var_001110d",
-            "var_001110e",
-            "var_001110f",
-            "var_001110g"
-        ],
-        "parent_center_x": 14235.0,
-        "parent_center_y": 1125.0,
-        "children_center_x": 14235.0,
-        "children_center_y": 975.0
-    },
-    "gen_7_chunk_14": {
-        "parent_variable_names": [
             "var_0011000",
             "var_0011001"
         ],
@@ -792,61 +655,12 @@
             "var_001100d",
             "var_001100e"
         ],
-        "parent_center_x": 16820.0,
+        "parent_center_x": 13400.0,
         "parent_center_y": 1125.0,
-        "children_center_x": 16405.0,
+        "children_center_x": 12505.0,
         "children_center_y": 975.0
     },
-    "gen_7_chunk_15": {
-        "parent_variable_names": [
-            "var_0010100",
-            "var_0010101"
-        ],
-        "children_variable_names": [
-            "var_001010",
-            "var_001010a",
-            "var_001010b",
-            "var_001010c",
-            "var_001010d"
-        ],
-        "parent_center_x": 19175.0,
-        "parent_center_y": 1125.0,
-        "children_center_x": 18095.0,
-        "children_center_y": 975.0
-    },
-    "gen_7_chunk_16": {
-        "parent_variable_names": [
-            "var_0010011",
-            "var_0010010"
-        ],
-        "children_variable_names": [
-            "var_001001",
-            "var_001001a",
-            "var_001001b",
-            "var_001001c"
-        ],
-        "parent_center_x": 19695.0,
-        "parent_center_y": 1132.5,
-        "children_center_x": 19340.0,
-        "children_center_y": 975.0
-    },
-    "gen_7_chunk_17": {
-        "parent_variable_names": [
-            "var_0010000",
-            "var_0010001"
-        ],
-        "children_variable_names": [
-            "var_001000",
-            "var_001000a",
-            "var_001000b",
-            "var_001000c"
-        ],
-        "parent_center_x": 20995.0,
-        "parent_center_y": 1125.0,
-        "children_center_x": 20260.0,
-        "children_center_y": 967.5
-    },
-    "gen_7_chunk_18": {
+    "gen_7_chunk_13": {
         "parent_variable_names": [
             "var_0000110",
             "var_0000111"
@@ -859,9 +673,9 @@
             "var_000011d",
             "var_000011e"
         ],
-        "parent_center_x": 22675.0,
+        "parent_center_x": 15755.0,
         "parent_center_y": 1132.5,
-        "children_center_x": 22675.0,
+        "children_center_x": 14095.0,
         "children_center_y": 975.0
     },
     "gen_7_chunk_2": {
@@ -981,22 +795,6 @@
         "children_center_x": 805.0,
         "children_center_y": 1125.0
     },
-    "gen_8_chunk_10": {
-        "parent_variable_names": [
-            "var_00100000",
-            "var_00100001"
-        ],
-        "children_variable_names": [
-            "var_0010000",
-            "var_0010000a",
-            "var_0010000b",
-            "var_0010000c"
-        ],
-        "parent_center_x": 21455.0,
-        "parent_center_y": 1275.0,
-        "children_center_x": 21455.0,
-        "children_center_y": 1125.0
-    },
     "gen_8_chunk_2": {
         "parent_variable_names": [
             "var_11101000",
@@ -1078,9 +876,9 @@
             "var_0011001g",
             "var_0011001h"
         ],
-        "parent_center_x": 15785.0,
+        "parent_center_x": 12365.0,
         "parent_center_y": 1275.0,
-        "children_center_x": 15785.0,
+        "children_center_x": 12365.0,
         "children_center_y": 1125.0
     },
     "gen_8_chunk_8": {
@@ -1098,25 +896,9 @@
             "var_0011000f",
             "var_0011000g"
         ],
-        "parent_center_x": 17740.0,
+        "parent_center_x": 14320.0,
         "parent_center_y": 1275.0,
-        "children_center_x": 17740.0,
-        "children_center_y": 1125.0
-    },
-    "gen_8_chunk_9": {
-        "parent_variable_names": [
-            "var_00100010",
-            "var_00100011"
-        ],
-        "children_variable_names": [
-            "var_0010001",
-            "var_0010001a",
-            "var_0010001b",
-            "var_0010001c"
-        ],
-        "parent_center_x": 20535.0,
-        "parent_center_y": 1275.0,
-        "children_center_x": 20535.0,
+        "children_center_x": 14320.0,
         "children_center_y": 1125.0
     },
     "gen_9_chunk_1": {
@@ -1180,9 +962,9 @@
             "var_00110000",
             "var_00110000a"
         ],
-        "parent_center_x": 17970.0,
+        "parent_center_x": 14550.0,
         "parent_center_y": 1425.0,
-        "children_center_x": 17970.0,
+        "children_center_x": 14550.0,
         "children_center_y": 1275.0
     }
 }
