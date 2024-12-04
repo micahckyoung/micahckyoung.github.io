@@ -28,7 +28,9 @@
         "basic_details": {
             "full_date_line": "Born 1999",
             "born_in": "Born in Massachusetts, USA",
-            "died_in": ""
+            "died_in": "",
+            "kue_petition_message": "",
+            "kue_petition_url": ""
         }
     },
     "var_a": {
@@ -60,7 +62,9 @@
         "basic_details": {
             "full_date_line": "Born 2001",
             "born_in": "Born in Massachusetts, USA",
-            "died_in": ""
+            "died_in": "",
+            "kue_petition_message": "",
+            "kue_petition_url": ""
         }
     },
     "var_1": {
@@ -97,7 +101,9 @@
         "basic_details": {
             "full_date_line": "Born 1970",
             "born_in": "Born in Hawaii, USA",
-            "died_in": ""
+            "died_in": "",
+            "kue_petition_message": "",
+            "kue_petition_url": ""
         }
     },
     "var_0": {
@@ -132,7 +138,9 @@
         "basic_details": {
             "full_date_line": "Born 1967",
             "born_in": "Born in Massachusetts, USA",
-            "died_in": ""
+            "died_in": "",
+            "kue_petition_message": "",
+            "kue_petition_url": ""
         }
     },
     "var_01": {
@@ -168,7 +176,9 @@
         "basic_details": {
             "full_date_line": "Born 1940",
             "born_in": "Born in England, UK",
-            "died_in": ""
+            "died_in": "",
+            "kue_petition_message": "",
+            "kue_petition_url": ""
         }
     },
     "var_00": {
@@ -204,7 +214,9 @@
         "basic_details": {
             "full_date_line": "Born 4-9-1938",
             "born_in": "",
-            "died_in": ""
+            "died_in": "",
+            "kue_petition_message": "",
+            "kue_petition_url": ""
         }
     },
     "var_0a": {
@@ -236,7 +248,9 @@
         "basic_details": {
             "full_date_line": "Born 1970",
             "born_in": "Born in Massachusetts, USA",
-            "died_in": ""
+            "died_in": "",
+            "kue_petition_message": "",
+            "kue_petition_url": ""
         }
     },
     "var_11": {
@@ -275,7 +289,9 @@
         "basic_details": {
             "full_date_line": "Born 1945",
             "born_in": "Born in Hawaii, USA",
-            "died_in": ""
+            "died_in": "",
+            "kue_petition_message": "",
+            "kue_petition_url": ""
         }
     },
     "var_10": {
@@ -315,7 +331,9 @@
         "basic_details": {
             "full_date_line": "Born 1943",
             "born_in": "Born in Hawaii, USA",
-            "died_in": ""
+            "died_in": "",
+            "kue_petition_message": "",
+            "kue_petition_url": ""
         }
     },
     "var_1a": {
@@ -349,7 +367,9 @@
         "basic_details": {
             "full_date_line": "Born 1968",
             "born_in": "Born in Hawaii, USA",
-            "died_in": ""
+            "died_in": "",
+            "kue_petition_message": "",
+            "kue_petition_url": ""
         }
     },
     "var_1b": {
@@ -383,7 +403,9 @@
         "basic_details": {
             "full_date_line": "Born 1961",
             "born_in": "Born in Hawaii, USA",
-            "died_in": ""
+            "died_in": "",
+            "kue_petition_message": "",
+            "kue_petition_url": ""
         }
     },
     "var_1c": {
@@ -417,7 +439,9 @@
         "basic_details": {
             "full_date_line": "Born 1963",
             "born_in": "Born in Hawaii, USA",
-            "died_in": ""
+            "died_in": "",
+            "kue_petition_message": "",
+            "kue_petition_url": ""
         }
     },
     "var_111": {
@@ -457,7 +481,9 @@
         "basic_details": {
             "full_date_line": "4-10-1920 to 6-6-2004",
             "born_in": "Born in Paia, Maui HI",
-            "died_in": "Died in Kahului, Maui County, Hawaii, USA"
+            "died_in": "Died in Kahului, Maui County, Hawaii, USA",
+            "kue_petition_message": "",
+            "kue_petition_url": ""
         }
     },
     "var_110": {
@@ -497,7 +523,9 @@
         "basic_details": {
             "full_date_line": "4-18-1911 to 5-8-1982",
             "born_in": "Born in Kamuela, Hawaii, Hawaii, USA",
-            "died_in": "Died in Wailuku, Maui HI"
+            "died_in": "Died in Wailuku, Maui HI",
+            "kue_petition_message": "",
+            "kue_petition_url": ""
         }
     },
     "var_11a": {
@@ -531,7 +559,9 @@
         "basic_details": {
             "full_date_line": "Born 1940",
             "born_in": "Born in Hawaii, USA",
-            "died_in": ""
+            "died_in": "",
+            "kue_petition_message": "",
+            "kue_petition_url": ""
         }
     },
     "var_11b": {
@@ -565,7 +595,9 @@
         "basic_details": {
             "full_date_line": "Born 1942",
             "born_in": "Born in Hawaii, USA",
-            "died_in": ""
+            "died_in": "",
+            "kue_petition_message": "",
+            "kue_petition_url": ""
         }
     },
     "var_11c": {
@@ -599,7 +631,9 @@
         "basic_details": {
             "full_date_line": "Born 1951",
             "born_in": "Born in Hawaii, USA",
-            "died_in": ""
+            "died_in": "",
+            "kue_petition_message": "",
+            "kue_petition_url": ""
         }
     },
     "var_1111": {
@@ -651,7 +685,9 @@
         "basic_details": {
             "full_date_line": "2-14-1889 to 11-9-1977",
             "born_in": "Born in Hilo, Hawaii",
-            "died_in": "Died in Wailuku, Maui HI"
+            "died_in": "Died in Wailuku, Maui HI",
+            "kue_petition_message": "",
+            "kue_petition_url": ""
         }
     },
     "var_1110": {
@@ -687,7 +723,9 @@
         "basic_details": {
             "full_date_line": "12-13-1883 to 8-10-1934",
             "born_in": "Born in Niulii, Kohala HI",
-            "died_in": "Died in Wailuku, Maui HI"
+            "died_in": "Died in Wailuku, Maui HI",
+            "kue_petition_message": "",
+            "kue_petition_url": ""
         }
     },
     "var_111a": {
@@ -722,7 +760,9 @@
         "basic_details": {
             "full_date_line": "1915 to 1971",
             "born_in": "Born in Hawaii, USA",
-            "died_in": ""
+            "died_in": "",
+            "kue_petition_message": "",
+            "kue_petition_url": ""
         }
     },
     "var_111b": {
@@ -757,7 +797,9 @@
         "basic_details": {
             "full_date_line": "Born 1916",
             "born_in": "Born in Hawaii, USA",
-            "died_in": ""
+            "died_in": "",
+            "kue_petition_message": "",
+            "kue_petition_url": ""
         }
     },
     "var_111c": {
@@ -792,7 +834,9 @@
         "basic_details": {
             "full_date_line": "Born 1918",
             "born_in": "Born in Hawaii, USA",
-            "died_in": ""
+            "died_in": "",
+            "kue_petition_message": "",
+            "kue_petition_url": ""
         }
     },
     "var_111d": {
@@ -827,7 +871,9 @@
         "basic_details": {
             "full_date_line": "1919 to 1996",
             "born_in": "Born in Hawaii, USA",
-            "died_in": ""
+            "died_in": "",
+            "kue_petition_message": "",
+            "kue_petition_url": ""
         }
     },
     "var_11101": {
@@ -873,7 +919,9 @@
         "basic_details": {
             "full_date_line": "11-5-1876 to 7-1-1949",
             "born_in": "Born in Niulii, Kohala HI",
-            "died_in": "Died in Honolulu, Oahu HI"
+            "died_in": "Died in Honolulu, Oahu HI",
+            "kue_petition_message": "",
+            "kue_petition_url": ""
         }
     },
     "var_11100": {
@@ -905,7 +953,9 @@
         "basic_details": {
             "full_date_line": "8-10-1856 to 11-15-1940",
             "born_in": "Born in San Francisco, CA",
-            "died_in": "Died in Wailuku, Maui HI"
+            "died_in": "Died in Wailuku, Maui HI",
+            "kue_petition_message": "",
+            "kue_petition_url": ""
         }
     },
     "var_111011": {
@@ -950,7 +1000,9 @@
         "basic_details": {
             "full_date_line": "1836 to 3-31-1916",
             "born_in": "Born in Niulii, Kohala HI",
-            "died_in": "Died in Niulii, Kohala HI"
+            "died_in": "Died in Niulii, Kohala HI",
+            "kue_petition_message": "Link to Kū'e Petition. See line 16",
+            "kue_petition_url": "https://libweb.hawaii.edu/digicoll/annexation/petition/pet038.php"
         }
     },
     "var_111010": {
@@ -995,7 +1047,9 @@
         "basic_details": {
             "full_date_line": "1825 to 5-10-1896",
             "born_in": "Born in Nantucket, MA",
-            "died_in": "Died in Niulii, Kohala HI"
+            "died_in": "Died in Niulii, Kohala HI",
+            "kue_petition_message": "",
+            "kue_petition_url": ""
         }
     },
     "var_11101a": {
@@ -1039,7 +1093,9 @@
         "basic_details": {
             "full_date_line": "1863 to 1915",
             "born_in": "",
-            "died_in": ""
+            "died_in": "",
+            "kue_petition_message": "",
+            "kue_petition_url": ""
         }
     },
     "var_11101b": {
@@ -1083,7 +1139,9 @@
         "basic_details": {
             "full_date_line": "1864 to 1934",
             "born_in": "",
-            "died_in": ""
+            "died_in": "",
+            "kue_petition_message": "",
+            "kue_petition_url": ""
         }
     },
     "var_11101c": {
@@ -1127,7 +1185,9 @@
         "basic_details": {
             "full_date_line": "1866 to 1922",
             "born_in": "",
-            "died_in": ""
+            "died_in": "",
+            "kue_petition_message": "",
+            "kue_petition_url": ""
         }
     },
     "var_11101d": {
@@ -1171,7 +1231,9 @@
         "basic_details": {
             "full_date_line": "1868 to 1934",
             "born_in": "",
-            "died_in": ""
+            "died_in": "",
+            "kue_petition_message": "",
+            "kue_petition_url": ""
         }
     },
     "var_11101e": {
@@ -1215,7 +1277,9 @@
         "basic_details": {
             "full_date_line": "1870 to 1870",
             "born_in": "",
-            "died_in": ""
+            "died_in": "",
+            "kue_petition_message": "",
+            "kue_petition_url": ""
         }
     },
     "var_11101f": {
@@ -1259,7 +1323,9 @@
         "basic_details": {
             "full_date_line": "1871 to 1871",
             "born_in": "",
-            "died_in": ""
+            "died_in": "",
+            "kue_petition_message": "",
+            "kue_petition_url": ""
         }
     },
     "var_11101g": {
@@ -1303,7 +1369,9 @@
         "basic_details": {
             "full_date_line": "1872 to 1923",
             "born_in": "",
-            "died_in": ""
+            "died_in": "",
+            "kue_petition_message": "",
+            "kue_petition_url": ""
         }
     },
     "var_11101h": {
@@ -1347,7 +1415,9 @@
         "basic_details": {
             "full_date_line": "1877 to 1955",
             "born_in": "",
-            "died_in": ""
+            "died_in": "",
+            "kue_petition_message": "",
+            "kue_petition_url": ""
         }
     },
     "var_11101i": {
@@ -1391,7 +1461,9 @@
         "basic_details": {
             "full_date_line": "1878 to 1963",
             "born_in": "",
-            "died_in": ""
+            "died_in": "",
+            "kue_petition_message": "",
+            "kue_petition_url": ""
         }
     },
     "var_11101j": {
@@ -1435,7 +1507,9 @@
         "basic_details": {
             "full_date_line": "1879 to 1925",
             "born_in": "",
-            "died_in": ""
+            "died_in": "",
+            "kue_petition_message": "",
+            "kue_petition_url": ""
         }
     },
     "var_11101k": {
@@ -1479,7 +1553,9 @@
         "basic_details": {
             "full_date_line": "1883 to 1903",
             "born_in": "",
-            "died_in": ""
+            "died_in": "",
+            "kue_petition_message": "",
+            "kue_petition_url": ""
         }
     },
     "var_11101l": {
@@ -1523,7 +1599,9 @@
         "basic_details": {
             "full_date_line": "1885 to 1973",
             "born_in": "",
-            "died_in": ""
+            "died_in": "",
+            "kue_petition_message": "",
+            "kue_petition_url": ""
         }
     },
     "var_11101m": {
@@ -1567,7 +1645,9 @@
         "basic_details": {
             "full_date_line": "1887 to 1955",
             "born_in": "",
-            "died_in": ""
+            "died_in": "",
+            "kue_petition_message": "",
+            "kue_petition_url": ""
         }
     },
     "var_1110101": {
@@ -1599,7 +1679,9 @@
         "basic_details": {
             "full_date_line": "",
             "born_in": "",
-            "died_in": ""
+            "died_in": "",
+            "kue_petition_message": "",
+            "kue_petition_url": ""
         }
     },
     "var_1110100": {
@@ -1631,7 +1713,9 @@
         "basic_details": {
             "full_date_line": "",
             "born_in": "",
-            "died_in": ""
+            "died_in": "",
+            "kue_petition_message": "",
+            "kue_petition_url": ""
         }
     },
     "var_1110111": {
@@ -1663,7 +1747,9 @@
         "basic_details": {
             "full_date_line": "",
             "born_in": "",
-            "died_in": ""
+            "died_in": "",
+            "kue_petition_message": "",
+            "kue_petition_url": ""
         }
     },
     "var_1110110": {
@@ -1695,7 +1781,9 @@
         "basic_details": {
             "full_date_line": "",
             "born_in": "",
-            "died_in": ""
+            "died_in": "",
+            "kue_petition_message": "",
+            "kue_petition_url": ""
         }
     },
     "var_11101000": {
@@ -1727,7 +1815,9 @@
         "basic_details": {
             "full_date_line": "",
             "born_in": "",
-            "died_in": ""
+            "died_in": "",
+            "kue_petition_message": "",
+            "kue_petition_url": ""
         }
     },
     "var_11101001": {
@@ -1759,7 +1849,9 @@
         "basic_details": {
             "full_date_line": "",
             "born_in": "",
-            "died_in": ""
+            "died_in": "",
+            "kue_petition_message": "",
+            "kue_petition_url": ""
         }
     },
     "var_111010000": {
@@ -1791,7 +1883,9 @@
         "basic_details": {
             "full_date_line": "",
             "born_in": "",
-            "died_in": ""
+            "died_in": "",
+            "kue_petition_message": "",
+            "kue_petition_url": ""
         }
     },
     "var_111010001": {
@@ -1823,7 +1917,9 @@
         "basic_details": {
             "full_date_line": "",
             "born_in": "",
-            "died_in": ""
+            "died_in": "",
+            "kue_petition_message": "",
+            "kue_petition_url": ""
         }
     },
     "var_1110100000": {
@@ -1855,7 +1951,9 @@
         "basic_details": {
             "full_date_line": "",
             "born_in": "",
-            "died_in": ""
+            "died_in": "",
+            "kue_petition_message": "",
+            "kue_petition_url": ""
         }
     },
     "var_1110100001": {
@@ -1887,7 +1985,9 @@
         "basic_details": {
             "full_date_line": "",
             "born_in": "",
-            "died_in": ""
+            "died_in": "",
+            "kue_petition_message": "",
+            "kue_petition_url": ""
         }
     },
     "var_11101000000": {
@@ -1919,7 +2019,9 @@
         "basic_details": {
             "full_date_line": "",
             "born_in": "Born in Nantucket, MA",
-            "died_in": ""
+            "died_in": "",
+            "kue_petition_message": "",
+            "kue_petition_url": ""
         }
     },
     "var_11101000001": {
@@ -1951,7 +2053,9 @@
         "basic_details": {
             "full_date_line": "",
             "born_in": "",
-            "died_in": ""
+            "died_in": "",
+            "kue_petition_message": "",
+            "kue_petition_url": ""
         }
     },
     "var_111010000000": {
@@ -1983,7 +2087,9 @@
         "basic_details": {
             "full_date_line": "",
             "born_in": "Born in Lynne, Essex MA",
-            "died_in": ""
+            "died_in": "",
+            "kue_petition_message": "",
+            "kue_petition_url": ""
         }
     },
     "var_111010000001": {
@@ -2015,7 +2121,9 @@
         "basic_details": {
             "full_date_line": "",
             "born_in": "",
-            "died_in": ""
+            "died_in": "",
+            "kue_petition_message": "",
+            "kue_petition_url": ""
         }
     },
     "var_1110100000000": {
@@ -2047,7 +2155,9 @@
         "basic_details": {
             "full_date_line": "",
             "born_in": "",
-            "died_in": ""
+            "died_in": "",
+            "kue_petition_message": "",
+            "kue_petition_url": ""
         }
     },
     "var_1110100000001": {
@@ -2079,7 +2189,9 @@
         "basic_details": {
             "full_date_line": "",
             "born_in": "",
-            "died_in": ""
+            "died_in": "",
+            "kue_petition_message": "",
+            "kue_petition_url": ""
         }
     },
     "var_11101000000000": {
@@ -2111,7 +2223,9 @@
         "basic_details": {
             "full_date_line": "",
             "born_in": "Born in Dorking, Suffolk England",
-            "died_in": ""
+            "died_in": "",
+            "kue_petition_message": "",
+            "kue_petition_url": ""
         }
     },
     "var_11101000000001": {
@@ -2143,7 +2257,9 @@
         "basic_details": {
             "full_date_line": "",
             "born_in": "",
-            "died_in": ""
+            "died_in": "",
+            "kue_petition_message": "",
+            "kue_petition_url": ""
         }
     },
     "var_11111": {
@@ -2202,7 +2318,9 @@
         "basic_details": {
             "full_date_line": "11-23-1866 to 11-25-1945",
             "born_in": "Born in Hilo, Hawaii",
-            "died_in": ""
+            "died_in": "",
+            "kue_petition_message": "",
+            "kue_petition_url": ""
         }
     },
     "var_11110": {
@@ -2249,7 +2367,9 @@
         "basic_details": {
             "full_date_line": "5-20-1855 to 2-13-1924",
             "born_in": "",
-            "died_in": "Died in Hilo, Hawaii"
+            "died_in": "Died in Hilo, Hawaii",
+            "kue_petition_message": "",
+            "kue_petition_url": ""
         }
     },
     "var_1111a": {
@@ -2295,7 +2415,9 @@
         "basic_details": {
             "full_date_line": "1886 to 1910",
             "born_in": "",
-            "died_in": ""
+            "died_in": "",
+            "kue_petition_message": "",
+            "kue_petition_url": ""
         }
     },
     "var_1111b": {
@@ -2341,7 +2463,9 @@
         "basic_details": {
             "full_date_line": "1888 to 1943",
             "born_in": "",
-            "died_in": ""
+            "died_in": "",
+            "kue_petition_message": "",
+            "kue_petition_url": ""
         }
     },
     "var_1111c": {
@@ -2387,7 +2511,9 @@
         "basic_details": {
             "full_date_line": "Born 1891",
             "born_in": "",
-            "died_in": ""
+            "died_in": "",
+            "kue_petition_message": "",
+            "kue_petition_url": ""
         }
     },
     "var_1111d": {
@@ -2433,7 +2559,9 @@
         "basic_details": {
             "full_date_line": "1894 to 1962",
             "born_in": "",
-            "died_in": ""
+            "died_in": "",
+            "kue_petition_message": "",
+            "kue_petition_url": ""
         }
     },
     "var_1111e": {
@@ -2479,7 +2607,9 @@
         "basic_details": {
             "full_date_line": "1895 to 1958",
             "born_in": "",
-            "died_in": ""
+            "died_in": "",
+            "kue_petition_message": "",
+            "kue_petition_url": ""
         }
     },
     "var_1111f": {
@@ -2525,7 +2655,9 @@
         "basic_details": {
             "full_date_line": "1896 to 1980",
             "born_in": "",
-            "died_in": ""
+            "died_in": "",
+            "kue_petition_message": "",
+            "kue_petition_url": ""
         }
     },
     "var_1111g": {
@@ -2571,7 +2703,9 @@
         "basic_details": {
             "full_date_line": "Born 1897",
             "born_in": "",
-            "died_in": ""
+            "died_in": "",
+            "kue_petition_message": "",
+            "kue_petition_url": ""
         }
     },
     "var_1111h": {
@@ -2617,7 +2751,9 @@
         "basic_details": {
             "full_date_line": "Born 1899",
             "born_in": "",
-            "died_in": ""
+            "died_in": "",
+            "kue_petition_message": "",
+            "kue_petition_url": ""
         }
     },
     "var_1111i": {
@@ -2663,7 +2799,9 @@
         "basic_details": {
             "full_date_line": "1900 to 1962",
             "born_in": "",
-            "died_in": ""
+            "died_in": "",
+            "kue_petition_message": "",
+            "kue_petition_url": ""
         }
     },
     "var_1111j": {
@@ -2709,7 +2847,9 @@
         "basic_details": {
             "full_date_line": "Born 1902",
             "born_in": "",
-            "died_in": ""
+            "died_in": "",
+            "kue_petition_message": "",
+            "kue_petition_url": ""
         }
     },
     "var_1111k": {
@@ -2755,7 +2895,9 @@
         "basic_details": {
             "full_date_line": "Born 1903",
             "born_in": "",
-            "died_in": ""
+            "died_in": "",
+            "kue_petition_message": "",
+            "kue_petition_url": ""
         }
     },
     "var_1111l": {
@@ -2801,7 +2943,9 @@
         "basic_details": {
             "full_date_line": "Born 1904",
             "born_in": "",
-            "died_in": ""
+            "died_in": "",
+            "kue_petition_message": "",
+            "kue_petition_url": ""
         }
     },
     "var_1111m": {
@@ -2847,7 +2991,9 @@
         "basic_details": {
             "full_date_line": "Born 1907",
             "born_in": "",
-            "died_in": ""
+            "died_in": "",
+            "kue_petition_message": "",
+            "kue_petition_url": ""
         }
     },
     "var_1111n": {
@@ -2893,7 +3039,9 @@
         "basic_details": {
             "full_date_line": "Born 1908",
             "born_in": "",
-            "died_in": ""
+            "died_in": "",
+            "kue_petition_message": "",
+            "kue_petition_url": ""
         }
     },
     "var_1111o": {
@@ -2939,7 +3087,9 @@
         "basic_details": {
             "full_date_line": "1911 to 1960",
             "born_in": "",
-            "died_in": ""
+            "died_in": "",
+            "kue_petition_message": "",
+            "kue_petition_url": ""
         }
     },
     "var_111111": {
@@ -2985,11 +3135,13 @@
         "basic_details": {
             "full_date_line": "12-21-1836 to 12-28-1910",
             "born_in": "Born in Waimea, Hawaii",
-            "died_in": "Died in Hilo, Hawaii"
+            "died_in": "Died in Hilo, Hawaii",
+            "kue_petition_message": "Link to Kū'e Petition. See line 1",
+            "kue_petition_url": "https://libweb.hawaii.edu/digicoll/annexation/petition/pet056.php"
         }
     },
     "var_111110": {
-        "name": "Wikoli (Kamukai) Victor",
+        "name": "Wikoli Kamukai (Victor)",
         "birth": "1836",
         "x": 1380.0,
         "y": 967.5,
@@ -3028,7 +3180,9 @@
         "basic_details": {
             "full_date_line": "11-20-1836 to 11-18-1903",
             "born_in": "Born in Honolulu, Hawaii",
-            "died_in": "Died in Hilo, Hawaii"
+            "died_in": "Died in Hilo, Hawaii",
+            "kue_petition_message": "Link to Kū'e Petition. See line 18",
+            "kue_petition_url": "https://libweb.hawaii.edu/digicoll/annexation/petition/pet583.php"
         }
     },
     "var_11111a": {
@@ -3070,7 +3224,9 @@
         "basic_details": {
             "full_date_line": "1857 to 1920",
             "born_in": "",
-            "died_in": ""
+            "died_in": "",
+            "kue_petition_message": "",
+            "kue_petition_url": ""
         }
     },
     "var_11111b": {
@@ -3112,7 +3268,9 @@
         "basic_details": {
             "full_date_line": "1862 to 1896",
             "born_in": "",
-            "died_in": ""
+            "died_in": "",
+            "kue_petition_message": "",
+            "kue_petition_url": ""
         }
     },
     "var_11111c": {
@@ -3154,7 +3312,9 @@
         "basic_details": {
             "full_date_line": "1864 to 1939",
             "born_in": "",
-            "died_in": ""
+            "died_in": "",
+            "kue_petition_message": "Link to Kū'e Petition. See line 5",
+            "kue_petition_url": "https://libweb.hawaii.edu/digicoll/annexation/petition/pet581.php"
         }
     },
     "var_11111d": {
@@ -3196,7 +3356,9 @@
         "basic_details": {
             "full_date_line": "Born 1866",
             "born_in": "",
-            "died_in": ""
+            "died_in": "",
+            "kue_petition_message": "",
+            "kue_petition_url": ""
         }
     },
     "var_11111e": {
@@ -3238,7 +3400,9 @@
         "basic_details": {
             "full_date_line": "Born 1868",
             "born_in": "",
-            "died_in": ""
+            "died_in": "",
+            "kue_petition_message": "",
+            "kue_petition_url": ""
         }
     },
     "var_11111f": {
@@ -3280,7 +3444,9 @@
         "basic_details": {
             "full_date_line": "1871 to 1923",
             "born_in": "",
-            "died_in": ""
+            "died_in": "",
+            "kue_petition_message": "",
+            "kue_petition_url": ""
         }
     },
     "var_11111g": {
@@ -3322,7 +3488,9 @@
         "basic_details": {
             "full_date_line": "1875 to 1952",
             "born_in": "",
-            "died_in": ""
+            "died_in": "",
+            "kue_petition_message": "",
+            "kue_petition_url": ""
         }
     },
     "var_11111h": {
@@ -3364,7 +3532,9 @@
         "basic_details": {
             "full_date_line": "1875 to 1943",
             "born_in": "",
-            "died_in": ""
+            "died_in": "",
+            "kue_petition_message": "Link to Kū'e Petition. See line 2",
+            "kue_petition_url": "https://libweb.hawaii.edu/digicoll/annexation/petition/pet056.php"
         }
     },
     "var_11111i": {
@@ -3406,7 +3576,9 @@
         "basic_details": {
             "full_date_line": "1877 to 1957",
             "born_in": "",
-            "died_in": ""
+            "died_in": "",
+            "kue_petition_message": "",
+            "kue_petition_url": ""
         }
     },
     "var_11111j": {
@@ -3448,7 +3620,9 @@
         "basic_details": {
             "full_date_line": "Born 1879",
             "born_in": "",
-            "died_in": ""
+            "died_in": "",
+            "kue_petition_message": "",
+            "kue_petition_url": ""
         }
     },
     "var_11111k": {
@@ -3490,7 +3664,9 @@
         "basic_details": {
             "full_date_line": "1879 to 1950",
             "born_in": "",
-            "died_in": ""
+            "died_in": "",
+            "kue_petition_message": "",
+            "kue_petition_url": ""
         }
     },
     "var_1111110": {
@@ -3524,7 +3700,9 @@
         "basic_details": {
             "full_date_line": "1799 to 1895",
             "born_in": "Born in Guangzhou, Guangdong, China",
-            "died_in": "Died in Hilo, HI"
+            "died_in": "Died in Hilo, HI",
+            "kue_petition_message": "",
+            "kue_petition_url": ""
         }
     },
     "var_1111111": {
@@ -3558,7 +3736,9 @@
         "basic_details": {
             "full_date_line": "1815 to 1860",
             "born_in": "Born in Waimea, HI",
-            "died_in": "Died in Hilo, HI"
+            "died_in": "Died in Hilo, HI",
+            "kue_petition_message": "",
+            "kue_petition_url": ""
         }
     },
     "var_111111a": {
@@ -3591,7 +3771,9 @@
         "basic_details": {
             "full_date_line": "",
             "born_in": "",
-            "died_in": ""
+            "died_in": "",
+            "kue_petition_message": "",
+            "kue_petition_url": ""
         }
     },
     "var_111111b": {
@@ -3624,7 +3806,9 @@
         "basic_details": {
             "full_date_line": "",
             "born_in": "",
-            "died_in": ""
+            "died_in": "",
+            "kue_petition_message": "",
+            "kue_petition_url": ""
         }
     },
     "var_11111110": {
@@ -3656,7 +3840,9 @@
         "basic_details": {
             "full_date_line": "",
             "born_in": "",
-            "died_in": ""
+            "died_in": "",
+            "kue_petition_message": "",
+            "kue_petition_url": ""
         }
     },
     "var_11111111": {
@@ -3688,7 +3874,9 @@
         "basic_details": {
             "full_date_line": "",
             "born_in": "",
-            "died_in": ""
+            "died_in": "",
+            "kue_petition_message": "",
+            "kue_petition_url": ""
         }
     },
     "var_1111100": {
@@ -3720,7 +3908,9 @@
         "basic_details": {
             "full_date_line": "",
             "born_in": "",
-            "died_in": ""
+            "died_in": "",
+            "kue_petition_message": "",
+            "kue_petition_url": ""
         }
     },
     "var_1111101": {
@@ -3752,7 +3942,9 @@
         "basic_details": {
             "full_date_line": "",
             "born_in": "",
-            "died_in": ""
+            "died_in": "",
+            "kue_petition_message": "",
+            "kue_petition_url": ""
         }
     },
     "var_010": {
@@ -3786,7 +3978,9 @@
         "basic_details": {
             "full_date_line": "1905 to 1993",
             "born_in": "Born in Yeadon, Yorkshire England",
-            "died_in": ""
+            "died_in": "",
+            "kue_petition_message": "",
+            "kue_petition_url": ""
         }
     },
     "var_011": {
@@ -3822,7 +4016,9 @@
         "basic_details": {
             "full_date_line": "Born 3-29-1904",
             "born_in": "Born in Zwickau, Germany",
-            "died_in": ""
+            "died_in": "",
+            "kue_petition_message": "",
+            "kue_petition_url": ""
         }
     },
     "var_000": {
@@ -3858,7 +4054,9 @@
         "basic_details": {
             "full_date_line": "1-1-1909 to 5-7-1982",
             "born_in": "Born in Montgomery County, Ohio",
-            "died_in": ""
+            "died_in": "",
+            "kue_petition_message": "",
+            "kue_petition_url": ""
         }
     },
     "var_001": {
@@ -3897,7 +4095,9 @@
         "basic_details": {
             "full_date_line": "5-31-1905 to 2-29-1988",
             "born_in": "Born in Montpelier, Washington County, Vermont, USA",
-            "died_in": ""
+            "died_in": "",
+            "kue_petition_message": "",
+            "kue_petition_url": ""
         }
     },
     "var_0001": {
@@ -3935,7 +4135,9 @@
         "basic_details": {
             "full_date_line": "1882 to 1947",
             "born_in": "Born in Salem, Marion County, Illinois, USA",
-            "died_in": "Died in Fort Myers, Lee County, Florida, USA"
+            "died_in": "Died in Fort Myers, Lee County, Florida, USA",
+            "kue_petition_message": "",
+            "kue_petition_url": ""
         }
     },
     "var_0000": {
@@ -3973,7 +4175,9 @@
         "basic_details": {
             "full_date_line": "1865 to 1947",
             "born_in": "",
-            "died_in": ""
+            "died_in": "",
+            "kue_petition_message": "",
+            "kue_petition_url": ""
         }
     },
     "var_000a": {
@@ -4005,7 +4209,9 @@
         "basic_details": {
             "full_date_line": "1905 to 1949",
             "born_in": "Born in Milwaukee, Milwaukee County, Wisconsin, USA",
-            "died_in": "Died in Saint Petersburg, Pinellas County, Florida, USA"
+            "died_in": "Died in Saint Petersburg, Pinellas County, Florida, USA",
+            "kue_petition_message": "",
+            "kue_petition_url": ""
         }
     },
     "var_0010": {
@@ -4045,7 +4251,9 @@
         "basic_details": {
             "full_date_line": "1857 to 1926",
             "born_in": "Born in West Townshend, Windham County, Vermont, USA",
-            "died_in": "Died in Montpelier, Washington County, Vermont, USA"
+            "died_in": "Died in Montpelier, Washington County, Vermont, USA",
+            "kue_petition_message": "",
+            "kue_petition_url": ""
         }
     },
     "var_0011": {
@@ -4086,7 +4294,9 @@
         "basic_details": {
             "full_date_line": "1867 to 1935",
             "born_in": "Born in Chester, Windsor County, Vermont, USA",
-            "died_in": "Died in Montpelier, Washington County, Vermont, USA"
+            "died_in": "Died in Montpelier, Washington County, Vermont, USA",
+            "kue_petition_message": "",
+            "kue_petition_url": ""
         }
     },
     "var_00100": {
@@ -4126,7 +4336,9 @@
         "basic_details": {
             "full_date_line": "1820 to 1889",
             "born_in": "Born in Brattleboro, Windham County, Vermont, USA",
-            "died_in": "Died in West Townshend, Windham County, Vermont, USA"
+            "died_in": "Died in West Townshend, Windham County, Vermont, USA",
+            "kue_petition_message": "",
+            "kue_petition_url": ""
         }
     },
     "var_00101": {
@@ -4163,7 +4375,9 @@
         "basic_details": {
             "full_date_line": "1830 to 1899",
             "born_in": "",
-            "died_in": ""
+            "died_in": "",
+            "kue_petition_message": "",
+            "kue_petition_url": ""
         }
     },
     "var_00a": {
@@ -4196,7 +4410,9 @@
         "basic_details": {
             "full_date_line": "",
             "born_in": "",
-            "died_in": ""
+            "died_in": "",
+            "kue_petition_message": "",
+            "kue_petition_url": ""
         }
     },
     "var_00b": {
@@ -4229,7 +4445,9 @@
         "basic_details": {
             "full_date_line": "",
             "born_in": "",
-            "died_in": ""
+            "died_in": "",
+            "kue_petition_message": "",
+            "kue_petition_url": ""
         }
     },
     "var_1100": {
@@ -4267,7 +4485,9 @@
         "basic_details": {
             "full_date_line": "4-25-1874 to 6-22-1948",
             "born_in": "Born in Oroville, Butte County, California, United States of America",
-            "died_in": "Died in Hamakuapoko, Maui County, Hawaii, United States of America"
+            "died_in": "Died in Hamakuapoko, Maui County, Hawaii, United States of America",
+            "kue_petition_message": "",
+            "kue_petition_url": ""
         }
     },
     "var_1101": {
@@ -4310,7 +4530,9 @@
         "basic_details": {
             "full_date_line": "5-15-1882 to 5-2-1973",
             "born_in": "Born in Puunene, Maui, Hawaii, USA",
-            "died_in": ""
+            "died_in": "",
+            "kue_petition_message": "",
+            "kue_petition_url": ""
         }
     },
     "var_110a": {
@@ -4345,7 +4567,9 @@
         "basic_details": {
             "full_date_line": "1905 to 1972",
             "born_in": "Born in Hawaii, USA",
-            "died_in": ""
+            "died_in": "",
+            "kue_petition_message": "",
+            "kue_petition_url": ""
         }
     },
     "var_110b": {
@@ -4380,7 +4604,9 @@
         "basic_details": {
             "full_date_line": "1907 to 1996",
             "born_in": "Born in Hawaii, USA",
-            "died_in": ""
+            "died_in": "",
+            "kue_petition_message": "",
+            "kue_petition_url": ""
         }
     },
     "var_110c": {
@@ -4415,7 +4641,9 @@
         "basic_details": {
             "full_date_line": "1909 to 1999",
             "born_in": "Born in Hawaii, USA",
-            "died_in": ""
+            "died_in": "",
+            "kue_petition_message": "",
+            "kue_petition_url": ""
         }
     },
     "var_110d": {
@@ -4450,7 +4678,9 @@
         "basic_details": {
             "full_date_line": "1909 to 1981",
             "born_in": "Born in Hawaii, USA",
-            "died_in": ""
+            "died_in": "",
+            "kue_petition_message": "",
+            "kue_petition_url": ""
         }
     },
     "var_11010": {
@@ -4495,7 +4725,9 @@
         "basic_details": {
             "full_date_line": "12-21-1834 to 3-22-1912",
             "born_in": "Born in Berwick-on-Tweed, Northumberland, England",
-            "died_in": "Died in Wailuku, Maui, Hawaii, United States"
+            "died_in": "Died in Wailuku, Maui, Hawaii, United States",
+            "kue_petition_message": "",
+            "kue_petition_url": ""
         }
     },
     "var_11011": {
@@ -4533,7 +4765,9 @@
         "basic_details": {
             "full_date_line": "11-1-1852 to 11-1-1933",
             "born_in": "Born in White Earth, Becker, Minnesota, United States",
-            "died_in": "Died in Los Angeles, Los Angeles County, California, USA"
+            "died_in": "Died in Los Angeles, Los Angeles County, California, USA",
+            "kue_petition_message": "",
+            "kue_petition_url": ""
         }
     },
     "var_01a": {
@@ -4566,7 +4800,9 @@
         "basic_details": {
             "full_date_line": "Born 1930",
             "born_in": "Born in England, UK",
-            "died_in": ""
+            "died_in": "",
+            "kue_petition_message": "",
+            "kue_petition_url": ""
         }
     },
     "var_01b": {
@@ -4599,7 +4835,9 @@
         "basic_details": {
             "full_date_line": "Born 1933",
             "born_in": "Born in England, UK",
-            "died_in": ""
+            "died_in": "",
+            "kue_petition_message": "",
+            "kue_petition_url": ""
         }
     },
     "var_110111": {
@@ -4631,7 +4869,9 @@
         "basic_details": {
             "full_date_line": "1830 to 1858",
             "born_in": "Born in White Earth, Becker, Minnesota, United States",
-            "died_in": "Died in White Earth, Becker, Minnesota, United States"
+            "died_in": "Died in White Earth, Becker, Minnesota, United States",
+            "kue_petition_message": "",
+            "kue_petition_url": ""
         }
     },
     "var_110110": {
@@ -4663,7 +4903,9 @@
         "basic_details": {
             "full_date_line": "2-9-1828 to 5-31-1902",
             "born_in": "Born in Little Rock, Pulaski, Arkansas, United States",
-            "died_in": "Died in Worthington, Nobles, Minnesota, United States"
+            "died_in": "Died in Worthington, Nobles, Minnesota, United States",
+            "kue_petition_message": "",
+            "kue_petition_url": ""
         }
     },
     "var_100": {
@@ -4703,7 +4945,9 @@
         "basic_details": {
             "full_date_line": "6-11-1910 to 12-28-1963",
             "born_in": "Born in Honolulu, Hawaii, USA",
-            "died_in": ""
+            "died_in": "",
+            "kue_petition_message": "",
+            "kue_petition_url": ""
         }
     },
     "var_101": {
@@ -4744,7 +4988,9 @@
         "basic_details": {
             "full_date_line": "6-17-1920 to 10-13-1992",
             "born_in": "Born in Lahaina, Maui County, Hawaii",
-            "died_in": ""
+            "died_in": "",
+            "kue_petition_message": "",
+            "kue_petition_url": ""
         }
     },
     "var_1000": {
@@ -4779,7 +5025,9 @@
         "basic_details": {
             "full_date_line": "",
             "born_in": "",
-            "died_in": ""
+            "died_in": "",
+            "kue_petition_message": "",
+            "kue_petition_url": ""
         }
     },
     "var_1001": {
@@ -4814,7 +5062,9 @@
         "basic_details": {
             "full_date_line": "Born 1885",
             "born_in": "Born in China",
-            "died_in": "Died in Hawaii, USA"
+            "died_in": "Died in Hawaii, USA",
+            "kue_petition_message": "",
+            "kue_petition_url": ""
         }
     },
     "var_1010": {
@@ -4850,7 +5100,9 @@
         "basic_details": {
             "full_date_line": "8-12-1882 to 9-23-1971",
             "born_in": "Born in Yamaguchi-Ken, Japan",
-            "died_in": "Died in Lahaina, Maui County, Hawaii"
+            "died_in": "Died in Lahaina, Maui County, Hawaii",
+            "kue_petition_message": "",
+            "kue_petition_url": ""
         }
     },
     "var_1011": {
@@ -4886,7 +5138,9 @@
         "basic_details": {
             "full_date_line": "8-12-1895 to 8-14-1962",
             "born_in": "Born in Japan",
-            "died_in": "Died in Wailuku, Maui County, Hawaii"
+            "died_in": "Died in Wailuku, Maui County, Hawaii",
+            "kue_petition_message": "",
+            "kue_petition_url": ""
         }
     },
     "var_11001": {
@@ -4919,7 +5173,9 @@
         "basic_details": {
             "full_date_line": "10-13-1847 to 6-11-1900",
             "born_in": "Born in Fermoy, County Cork, Ireland",
-            "died_in": "Died in Alameda County, California, USA"
+            "died_in": "Died in Alameda County, California, USA",
+            "kue_petition_message": "",
+            "kue_petition_url": ""
         }
     },
     "var_0110": {
@@ -4958,7 +5214,9 @@
         "basic_details": {
             "full_date_line": "1878 to 1943",
             "born_in": "",
-            "died_in": ""
+            "died_in": "",
+            "kue_petition_message": "",
+            "kue_petition_url": ""
         }
     },
     "var_0111": {
@@ -4991,7 +5249,9 @@
         "basic_details": {
             "full_date_line": "1880 to 1948",
             "born_in": "",
-            "died_in": ""
+            "died_in": "",
+            "kue_petition_message": "",
+            "kue_petition_url": ""
         }
     },
     "var_011a": {
@@ -5023,7 +5283,9 @@
         "basic_details": {
             "full_date_line": "1905 to 1974",
             "born_in": "",
-            "died_in": ""
+            "died_in": "",
+            "kue_petition_message": "",
+            "kue_petition_url": ""
         }
     },
     "var_01100": {
@@ -5065,7 +5327,9 @@
         "basic_details": {
             "full_date_line": "1847 to 1928",
             "born_in": "",
-            "died_in": ""
+            "died_in": "",
+            "kue_petition_message": "",
+            "kue_petition_url": ""
         }
     },
     "var_01101": {
@@ -5102,7 +5366,9 @@
         "basic_details": {
             "full_date_line": "1850 to 1925",
             "born_in": "",
-            "died_in": ""
+            "died_in": "",
+            "kue_petition_message": "",
+            "kue_petition_url": ""
         }
     },
     "var_011000": {
@@ -5143,7 +5409,9 @@
         "basic_details": {
             "full_date_line": "1820 to 1895",
             "born_in": "",
-            "died_in": ""
+            "died_in": "",
+            "kue_petition_message": "",
+            "kue_petition_url": ""
         }
     },
     "var_011001": {
@@ -5179,7 +5447,9 @@
         "basic_details": {
             "full_date_line": "1820 to 1899",
             "born_in": "",
-            "died_in": ""
+            "died_in": "",
+            "kue_petition_message": "",
+            "kue_petition_url": ""
         }
     },
     "var_0110000": {
@@ -5215,7 +5485,9 @@
         "basic_details": {
             "full_date_line": "1796 to 1854",
             "born_in": "",
-            "died_in": ""
+            "died_in": "",
+            "kue_petition_message": "",
+            "kue_petition_url": ""
         }
     },
     "var_0110001": {
@@ -5251,7 +5523,9 @@
         "basic_details": {
             "full_date_line": "1796 to 1854",
             "born_in": "",
-            "died_in": ""
+            "died_in": "",
+            "kue_petition_message": "",
+            "kue_petition_url": ""
         }
     },
     "var_011000a": {
@@ -5286,7 +5560,9 @@
         "basic_details": {
             "full_date_line": "Died 1910",
             "born_in": "",
-            "died_in": ""
+            "died_in": "",
+            "kue_petition_message": "",
+            "kue_petition_url": ""
         }
     },
     "var_011000b": {
@@ -5321,7 +5597,9 @@
         "basic_details": {
             "full_date_line": "",
             "born_in": "",
-            "died_in": ""
+            "died_in": "",
+            "kue_petition_message": "",
+            "kue_petition_url": ""
         }
     },
     "var_011000c": {
@@ -5356,7 +5634,9 @@
         "basic_details": {
             "full_date_line": "",
             "born_in": "",
-            "died_in": ""
+            "died_in": "",
+            "kue_petition_message": "",
+            "kue_petition_url": ""
         }
     },
     "var_011000d": {
@@ -5391,7 +5671,9 @@
         "basic_details": {
             "full_date_line": "",
             "born_in": "",
-            "died_in": ""
+            "died_in": "",
+            "kue_petition_message": "",
+            "kue_petition_url": ""
         }
     },
     "var_01100a": {
@@ -5426,7 +5708,9 @@
         "basic_details": {
             "full_date_line": "1858 to 1935",
             "born_in": "",
-            "died_in": ""
+            "died_in": "",
+            "kue_petition_message": "",
+            "kue_petition_url": ""
         }
     },
     "var_01100b": {
@@ -5461,7 +5745,9 @@
         "basic_details": {
             "full_date_line": "",
             "born_in": "",
-            "died_in": ""
+            "died_in": "",
+            "kue_petition_message": "",
+            "kue_petition_url": ""
         }
     },
     "var_01100c": {
@@ -5496,7 +5782,9 @@
         "basic_details": {
             "full_date_line": "",
             "born_in": "",
-            "died_in": ""
+            "died_in": "",
+            "kue_petition_message": "",
+            "kue_petition_url": ""
         }
     },
     "var_01100d": {
@@ -5531,7 +5819,9 @@
         "basic_details": {
             "full_date_line": "",
             "born_in": "",
-            "died_in": ""
+            "died_in": "",
+            "kue_petition_message": "",
+            "kue_petition_url": ""
         }
     },
     "var_0110a": {
@@ -5567,7 +5857,9 @@
         "basic_details": {
             "full_date_line": "Born 1882",
             "born_in": "",
-            "died_in": ""
+            "died_in": "",
+            "kue_petition_message": "",
+            "kue_petition_url": ""
         }
     },
     "var_0110b": {
@@ -5603,7 +5895,9 @@
         "basic_details": {
             "full_date_line": "1879 to 1946",
             "born_in": "",
-            "died_in": ""
+            "died_in": "",
+            "kue_petition_message": "",
+            "kue_petition_url": ""
         }
     },
     "var_0110c": {
@@ -5639,7 +5933,9 @@
         "basic_details": {
             "full_date_line": "1876 to 1960",
             "born_in": "",
-            "died_in": ""
+            "died_in": "",
+            "kue_petition_message": "",
+            "kue_petition_url": ""
         }
     },
     "var_0110d": {
@@ -5675,7 +5971,9 @@
         "basic_details": {
             "full_date_line": "1875 to 1955",
             "born_in": "",
-            "died_in": ""
+            "died_in": "",
+            "kue_petition_message": "",
+            "kue_petition_url": ""
         }
     },
     "var_0110e": {
@@ -5711,7 +6009,9 @@
         "basic_details": {
             "full_date_line": "Died 1877",
             "born_in": "",
-            "died_in": ""
+            "died_in": "",
+            "kue_petition_message": "",
+            "kue_petition_url": ""
         }
     },
     "var_11000": {
@@ -5744,7 +6044,9 @@
         "basic_details": {
             "full_date_line": "1842 to 1874",
             "born_in": "Born in Göteborg, Västergötland, Sweden ",
-            "died_in": "Died in Oroville, Butte County, California"
+            "died_in": "Died in Oroville, Butte County, California",
+            "kue_petition_message": "",
+            "kue_petition_url": ""
         }
     },
     "var_110000": {
@@ -5776,7 +6078,9 @@
         "basic_details": {
             "full_date_line": "5-9-1806 to 5-20-1887",
             "born_in": "Born in Goteborgs, Amiralitet, Sweden",
-            "died_in": "Died in Sheboygan, Sheboygan, Wisconsin, USA"
+            "died_in": "Died in Sheboygan, Sheboygan, Wisconsin, USA",
+            "kue_petition_message": "",
+            "kue_petition_url": ""
         }
     },
     "var_1100000": {
@@ -5808,7 +6112,9 @@
         "basic_details": {
             "full_date_line": "1-29-1773 to 11-10-1815",
             "born_in": "Born in Stockholm, Sweden",
-            "died_in": "Died in Sweden"
+            "died_in": "Died in Sweden",
+            "kue_petition_message": "",
+            "kue_petition_url": ""
         }
     },
     "var_1100001": {
@@ -5840,7 +6146,9 @@
         "basic_details": {
             "full_date_line": "Born 2-2-1789",
             "born_in": "",
-            "died_in": ""
+            "died_in": "",
+            "kue_petition_message": "",
+            "kue_petition_url": ""
         }
     },
     "var_110001": {
@@ -5872,7 +6180,9 @@
         "basic_details": {
             "full_date_line": "6-21-1819 to 3-17-1886",
             "born_in": "Born in Skottorp, Dalarnas, Sweden",
-            "died_in": "Died in Waukesha, Waukesha, Wisconsin, USA"
+            "died_in": "Died in Waukesha, Waukesha, Wisconsin, USA",
+            "kue_petition_message": "",
+            "kue_petition_url": ""
         }
     },
     "var_1100010": {
@@ -5904,7 +6214,9 @@
         "basic_details": {
             "full_date_line": "4-4-1779 to 8-8-1832",
             "born_in": "Born in Skottorp, Dalarnas, Sweden",
-            "died_in": "Died in Köpenhamn, Danmark"
+            "died_in": "Died in Köpenhamn, Danmark",
+            "kue_petition_message": "",
+            "kue_petition_url": ""
         }
     },
     "var_1100011": {
@@ -5936,7 +6248,9 @@
         "basic_details": {
             "full_date_line": "11-25-1798 to 5-2-1870",
             "born_in": "Born in Slättåkra",
-            "died_in": "Died in Skottorp, Dalarnas, Sweden"
+            "died_in": "Died in Skottorp, Dalarnas, Sweden",
+            "kue_petition_message": "",
+            "kue_petition_url": ""
         }
     },
     "var_11000100": {
@@ -5968,7 +6282,9 @@
         "basic_details": {
             "full_date_line": "7-10-1742 to 12-9-1801",
             "born_in": "Born in Skottorp, Dalarnas, Sweden",
-            "died_in": "Died in Laholm, Halland County, Sweden"
+            "died_in": "Died in Laholm, Halland County, Sweden",
+            "kue_petition_message": "",
+            "kue_petition_url": ""
         }
     },
     "var_11000101": {
@@ -6000,7 +6316,9 @@
         "basic_details": {
             "full_date_line": "1749 to 1827",
             "born_in": "Born in Stralsund, Tyskland",
-            "died_in": "Died in Laholm, Halland County, Sweden"
+            "died_in": "Died in Laholm, Halland County, Sweden",
+            "kue_petition_message": "",
+            "kue_petition_url": ""
         }
     },
     "var_110001000": {
@@ -6032,7 +6350,9 @@
         "basic_details": {
             "full_date_line": "1689 to 8-16-1752",
             "born_in": "Born in Hålland, Jamtland, Sweden",
-            "died_in": "Died in Hasslov, Hasslov Parish"
+            "died_in": "Died in Hasslov, Hasslov Parish",
+            "kue_petition_message": "",
+            "kue_petition_url": ""
         }
     },
     "var_110001001": {
@@ -6064,7 +6384,9 @@
         "basic_details": {
             "full_date_line": "9-11-1711 to 1-11-1791",
             "born_in": "Born in Halmstad, Halland, Sweden",
-            "died_in": "Died in Skottorp Skummeslov Parish"
+            "died_in": "Died in Skottorp Skummeslov Parish",
+            "kue_petition_message": "",
+            "kue_petition_url": ""
         }
     },
     "var_110100": {
@@ -6102,7 +6424,9 @@
         "basic_details": {
             "full_date_line": "4-1-1800 to 2-16-1878",
             "born_in": "Born in Berwick-upon-Tweed, Northumberland, England",
-            "died_in": "Died in Honolulu, Honolulu County, Hawaii, USA"
+            "died_in": "Died in Honolulu, Honolulu County, Hawaii, USA",
+            "kue_petition_message": "",
+            "kue_petition_url": ""
         }
     },
     "var_1101000": {
@@ -6134,7 +6458,9 @@
         "basic_details": {
             "full_date_line": "1769 to 2-19-1837",
             "born_in": "Born in Tweedmonth, Scotland",
-            "died_in": "Died in Berwick-upon-Tweed, Northumberland, England"
+            "died_in": "Died in Berwick-upon-Tweed, Northumberland, England",
+            "kue_petition_message": "",
+            "kue_petition_url": ""
         }
     },
     "var_1101001": {
@@ -6166,7 +6492,9 @@
         "basic_details": {
             "full_date_line": "1-3-1768 to 3-27-1848",
             "born_in": "Born in Paisley, Renfrewshire, Scotland",
-            "died_in": "Died in Pennsylvania, USA"
+            "died_in": "Died in Pennsylvania, USA",
+            "kue_petition_message": "",
+            "kue_petition_url": ""
         }
     },
     "var_11010000": {
@@ -6198,7 +6526,9 @@
         "basic_details": {
             "full_date_line": "7-21-1734 to 6-1-1782",
             "born_in": "Born in Berwick-upon-Tweed, Northumberland, England",
-            "died_in": "Died in Berwick-upon-Tweed, Northumberland, England"
+            "died_in": "Died in Berwick-upon-Tweed, Northumberland, England",
+            "kue_petition_message": "",
+            "kue_petition_url": ""
         }
     },
     "var_11010001": {
@@ -6230,7 +6560,9 @@
         "basic_details": {
             "full_date_line": "1734 to 6-30-1818",
             "born_in": "Born in Scotland",
-            "died_in": "Died in Berwick-upon-Tweed, Northumberland, England"
+            "died_in": "Died in Berwick-upon-Tweed, Northumberland, England",
+            "kue_petition_message": "",
+            "kue_petition_url": ""
         }
     },
     "var_11010010": {
@@ -6262,7 +6594,9 @@
         "basic_details": {
             "full_date_line": "",
             "born_in": "",
-            "died_in": ""
+            "died_in": "",
+            "kue_petition_message": "",
+            "kue_petition_url": ""
         }
     },
     "var_11010011": {
@@ -6294,7 +6628,9 @@
         "basic_details": {
             "full_date_line": "",
             "born_in": "",
-            "died_in": ""
+            "died_in": "",
+            "kue_petition_message": "",
+            "kue_petition_url": ""
         }
     },
     "var_110101": {
@@ -6332,7 +6668,9 @@
         "basic_details": {
             "full_date_line": "1-30-1814 to 12-13-1886",
             "born_in": "Born in Surrey, England",
-            "died_in": "Died in Honolulu, Oahu, Kingdom of Hawaii"
+            "died_in": "Died in Honolulu, Oahu, Kingdom of Hawaii",
+            "kue_petition_message": "",
+            "kue_petition_url": ""
         }
     },
     "var_1101010": {
@@ -6364,7 +6702,9 @@
         "basic_details": {
             "full_date_line": "11-12-1788 to 10-11-1825",
             "born_in": "Born in Liverpool, Lancashire, England",
-            "died_in": ""
+            "died_in": "",
+            "kue_petition_message": "",
+            "kue_petition_url": ""
         }
     },
     "var_1101011": {
@@ -6396,7 +6736,9 @@
         "basic_details": {
             "full_date_line": "1783 to 4-29-1857",
             "born_in": "Born in England, UK",
-            "died_in": "Died in Deptford, Greater London, UK"
+            "died_in": "Died in Deptford, Greater London, UK",
+            "kue_petition_message": "",
+            "kue_petition_url": ""
         }
     },
     "var_1101100": {
@@ -6428,7 +6770,9 @@
         "basic_details": {
             "full_date_line": "5-12-1805 to 7-7-1884",
             "born_in": "Born in Pittsylvania, Virginia, USA",
-            "died_in": "Died in Burlington, Des Moines, Iowa, USA"
+            "died_in": "Died in Burlington, Des Moines, Iowa, USA",
+            "kue_petition_message": "",
+            "kue_petition_url": ""
         }
     },
     "var_1101101": {
@@ -6460,7 +6804,9 @@
         "basic_details": {
             "full_date_line": "1806 to 1-6-1838",
             "born_in": "Born in Sandersville, Washington, Georgia, USA",
-            "died_in": "Died in Burlington, Des Moines, Iowa, United States"
+            "died_in": "Died in Burlington, Des Moines, Iowa, United States",
+            "kue_petition_message": "",
+            "kue_petition_url": ""
         }
     },
     "var_11011000": {
@@ -6492,7 +6838,9 @@
         "basic_details": {
             "full_date_line": "7-9-1765 to 1830",
             "born_in": "Born in Lebanon, Lebanon, Pennsylvania, United States",
-            "died_in": "Died in Pullens, Pittsylvania County, Virginia, USA"
+            "died_in": "Died in Pullens, Pittsylvania County, Virginia, USA",
+            "kue_petition_message": "",
+            "kue_petition_url": ""
         }
     },
     "var_11011001": {
@@ -6524,7 +6872,9 @@
         "basic_details": {
             "full_date_line": "1-20-1770 to 4-28-1861",
             "born_in": "Born in Lancaster County, Pennsylvania, USA",
-            "died_in": "Died in Harpen Creek, Pittsylvania, Virginia, USA"
+            "died_in": "Died in Harpen Creek, Pittsylvania, Virginia, USA",
+            "kue_petition_message": "",
+            "kue_petition_url": ""
         }
     },
     "var_110110000": {
@@ -6556,7 +6906,9 @@
         "basic_details": {
             "full_date_line": "1735 to 10-10-1805",
             "born_in": "Born in Lancaster County, Pennsylvania, USA",
-            "died_in": "Died in Pennsylvania, USA"
+            "died_in": "Died in Pennsylvania, USA",
+            "kue_petition_message": "",
+            "kue_petition_url": ""
         }
     },
     "var_110110001": {
@@ -6588,7 +6940,9 @@
         "basic_details": {
             "full_date_line": "1735 to 9-26-1806",
             "born_in": "Born in Lancaster County, Pennsylvania, United States of America",
-            "died_in": "Died in Pullens, Pittsylvania County, Virginia, United States of America"
+            "died_in": "Died in Pullens, Pittsylvania County, Virginia, United States of America",
+            "kue_petition_message": "",
+            "kue_petition_url": ""
         }
     },
     "var_110110010": {
@@ -6620,7 +6974,9 @@
         "basic_details": {
             "full_date_line": "1-20-1728 to 5-10-1810",
             "born_in": "Born in Lancaster County, Pennsylvania, United States of America",
-            "died_in": "Died in Danville, Pittsylvania, Virginia, USA"
+            "died_in": "Died in Danville, Pittsylvania, Virginia, USA",
+            "kue_petition_message": "",
+            "kue_petition_url": ""
         }
     },
     "var_110110011": {
@@ -6652,7 +7008,9 @@
         "basic_details": {
             "full_date_line": "1732 to 5-10-1814",
             "born_in": "Born in Pennsylvania, Somerset, Pennsylvania, United States",
-            "died_in": "Died in Pittsylvania County, Virginia, USA"
+            "died_in": "Died in Pittsylvania County, Virginia, USA",
+            "kue_petition_message": "",
+            "kue_petition_url": ""
         }
     },
     "var_1101110": {
@@ -6684,7 +7042,9 @@
         "basic_details": {
             "full_date_line": "1810 to 1830",
             "born_in": "Born in Minnesota, USA",
-            "died_in": "Died in Minnesota, USA"
+            "died_in": "Died in Minnesota, USA",
+            "kue_petition_message": "",
+            "kue_petition_url": ""
         }
     },
     "var_1101111": {
@@ -6716,7 +7076,9 @@
         "basic_details": {
             "full_date_line": "",
             "born_in": "Born in Minnesota, USA",
-            "died_in": "Died in Minnesota, USA"
+            "died_in": "Died in Minnesota, USA",
+            "kue_petition_message": "",
+            "kue_petition_url": ""
         }
     },
     "var_10a": {
@@ -6751,7 +7113,9 @@
         "basic_details": {
             "full_date_line": "Born 12-13-1942",
             "born_in": "Born in Hawaii, USA",
-            "died_in": ""
+            "died_in": "",
+            "kue_petition_message": "",
+            "kue_petition_url": ""
         }
     },
     "var_10b": {
@@ -6786,7 +7150,9 @@
         "basic_details": {
             "full_date_line": "Born 1-14-1945",
             "born_in": "Born in Hawaii, USA",
-            "died_in": ""
+            "died_in": "",
+            "kue_petition_message": "",
+            "kue_petition_url": ""
         }
     },
     "var_10c": {
@@ -6821,7 +7187,9 @@
         "basic_details": {
             "full_date_line": "Born 1947",
             "born_in": "Born in Hawaii, USA",
-            "died_in": ""
+            "died_in": "",
+            "kue_petition_message": "",
+            "kue_petition_url": ""
         }
     },
     "var_10d": {
@@ -6856,7 +7224,9 @@
         "basic_details": {
             "full_date_line": "Born 7-7-1948",
             "born_in": "Born in Hawaii, USA",
-            "died_in": ""
+            "died_in": "",
+            "kue_petition_message": "",
+            "kue_petition_url": ""
         }
     },
     "var_100a": {
@@ -6890,7 +7260,9 @@
         "basic_details": {
             "full_date_line": "Born 1905",
             "born_in": "Born in Hawaii, USA",
-            "died_in": ""
+            "died_in": "",
+            "kue_petition_message": "",
+            "kue_petition_url": ""
         }
     },
     "var_100b": {
@@ -6924,7 +7296,9 @@
         "basic_details": {
             "full_date_line": "Born 12-26-1906",
             "born_in": "Born in Hawaii, USA",
-            "died_in": ""
+            "died_in": "",
+            "kue_petition_message": "",
+            "kue_petition_url": ""
         }
     },
     "var_100c": {
@@ -6958,7 +7332,9 @@
         "basic_details": {
             "full_date_line": "Born 3-20-1908",
             "born_in": "Born in Hawaii, USA",
-            "died_in": ""
+            "died_in": "",
+            "kue_petition_message": "",
+            "kue_petition_url": ""
         }
     },
     "var_101a": {
@@ -6993,7 +7369,9 @@
         "basic_details": {
             "full_date_line": "Born 12-27-1918",
             "born_in": "Born in Lahaina, Maui County, Hawaii",
-            "died_in": "Died in Scapoli, Italy"
+            "died_in": "Died in Scapoli, Italy",
+            "kue_petition_message": "",
+            "kue_petition_url": ""
         }
     },
     "var_101b": {
@@ -7028,7 +7406,9 @@
         "basic_details": {
             "full_date_line": "Born 6-7-1922",
             "born_in": "Born in Lahaina, Maui County, Hawaii",
-            "died_in": ""
+            "died_in": "",
+            "kue_petition_message": "",
+            "kue_petition_url": ""
         }
     },
     "var_101c": {
@@ -7063,7 +7443,9 @@
         "basic_details": {
             "full_date_line": "Born 12-7-1925",
             "born_in": "Born in Hawaii, USA",
-            "died_in": ""
+            "died_in": "",
+            "kue_petition_message": "",
+            "kue_petition_url": ""
         }
     },
     "var_101d": {
@@ -7098,7 +7480,9 @@
         "basic_details": {
             "full_date_line": "Born 1927",
             "born_in": "Born in Hawaii, USA",
-            "died_in": ""
+            "died_in": "",
+            "kue_petition_message": "",
+            "kue_petition_url": ""
         }
     },
     "var_00000": {
@@ -7134,7 +7518,9 @@
         "basic_details": {
             "full_date_line": "7-13-1830 to 8-24-1870",
             "born_in": "Born in Madison County, Illinois, USA",
-            "died_in": "Died in Carbondale, Jackson County, Illinois, USA"
+            "died_in": "Died in Carbondale, Jackson County, Illinois, USA",
+            "kue_petition_message": "",
+            "kue_petition_url": ""
         }
     },
     "var_00001": {
@@ -7172,7 +7558,9 @@
         "basic_details": {
             "full_date_line": "5-6-1836 to 6-22-1917",
             "born_in": "Born in Kentucky, USA",
-            "died_in": "Died in Carbondale, Jackson County, Illinois, USA"
+            "died_in": "Died in Carbondale, Jackson County, Illinois, USA",
+            "kue_petition_message": "",
+            "kue_petition_url": ""
         }
     },
     "var_0000a": {
@@ -7207,7 +7595,9 @@
         "basic_details": {
             "full_date_line": "1852 to 1932",
             "born_in": "",
-            "died_in": ""
+            "died_in": "",
+            "kue_petition_message": "",
+            "kue_petition_url": ""
         }
     },
     "var_0000b": {
@@ -7242,7 +7632,9 @@
         "basic_details": {
             "full_date_line": "1855 to 1930",
             "born_in": "",
-            "died_in": ""
+            "died_in": "",
+            "kue_petition_message": "",
+            "kue_petition_url": ""
         }
     },
     "var_0000c": {
@@ -7277,7 +7669,9 @@
         "basic_details": {
             "full_date_line": "1857 to 1932",
             "born_in": "",
-            "died_in": ""
+            "died_in": "",
+            "kue_petition_message": "",
+            "kue_petition_url": ""
         }
     },
     "var_0000d": {
@@ -7312,7 +7706,9 @@
         "basic_details": {
             "full_date_line": "1863 to 1894",
             "born_in": "",
-            "died_in": ""
+            "died_in": "",
+            "kue_petition_message": "",
+            "kue_petition_url": ""
         }
     },
     "var_000010": {
@@ -7345,7 +7741,9 @@
         "basic_details": {
             "full_date_line": "",
             "born_in": "",
-            "died_in": ""
+            "died_in": "",
+            "kue_petition_message": "",
+            "kue_petition_url": ""
         }
     },
     "var_00001a": {
@@ -7377,7 +7775,9 @@
         "basic_details": {
             "full_date_line": "",
             "born_in": "",
-            "died_in": ""
+            "died_in": "",
+            "kue_petition_message": "",
+            "kue_petition_url": ""
         }
     },
     "var_000011": {
@@ -7416,7 +7816,9 @@
         "basic_details": {
             "full_date_line": "10-2-1798 to 6-4-1886",
             "born_in": "Born in Jefferson County, Kentucky, United States ",
-            "died_in": "Died in Makanda, Jackson County, IL, United States"
+            "died_in": "Died in Makanda, Jackson County, IL, United States",
+            "kue_petition_message": "",
+            "kue_petition_url": ""
         }
     },
     "var_000011a": {
@@ -7452,7 +7854,9 @@
         "basic_details": {
             "full_date_line": "",
             "born_in": "",
-            "died_in": ""
+            "died_in": "",
+            "kue_petition_message": "",
+            "kue_petition_url": ""
         }
     },
     "var_000011b": {
@@ -7488,7 +7892,9 @@
         "basic_details": {
             "full_date_line": "",
             "born_in": "",
-            "died_in": ""
+            "died_in": "",
+            "kue_petition_message": "",
+            "kue_petition_url": ""
         }
     },
     "var_000011c": {
@@ -7524,7 +7930,9 @@
         "basic_details": {
             "full_date_line": "",
             "born_in": "",
-            "died_in": ""
+            "died_in": "",
+            "kue_petition_message": "",
+            "kue_petition_url": ""
         }
     },
     "var_000011d": {
@@ -7560,7 +7968,9 @@
         "basic_details": {
             "full_date_line": "",
             "born_in": "",
-            "died_in": ""
+            "died_in": "",
+            "kue_petition_message": "",
+            "kue_petition_url": ""
         }
     },
     "var_000011e": {
@@ -7596,7 +8006,9 @@
         "basic_details": {
             "full_date_line": "",
             "born_in": "",
-            "died_in": ""
+            "died_in": "",
+            "kue_petition_message": "",
+            "kue_petition_url": ""
         }
     },
     "var_0000110": {
@@ -7633,7 +8045,9 @@
         "basic_details": {
             "full_date_line": "",
             "born_in": "",
-            "died_in": ""
+            "died_in": "",
+            "kue_petition_message": "",
+            "kue_petition_url": ""
         }
     },
     "var_0000111": {
@@ -7670,7 +8084,9 @@
         "basic_details": {
             "full_date_line": "",
             "born_in": "",
-            "died_in": ""
+            "died_in": "",
+            "kue_petition_message": "",
+            "kue_petition_url": ""
         }
     },
     "var_001a": {
@@ -7705,7 +8121,9 @@
         "basic_details": {
             "full_date_line": "10-10-1893 to 5-6-1982",
             "born_in": "Born in West Townshend, Windham County, Vermont, USA",
-            "died_in": "Died in Lexington, Middlesex County, Massachusetts, USA"
+            "died_in": "Died in Lexington, Middlesex County, Massachusetts, USA",
+            "kue_petition_message": "",
+            "kue_petition_url": ""
         }
     },
     "var_001b": {
@@ -7740,7 +8158,9 @@
         "basic_details": {
             "full_date_line": "7-27-1896 to 12-26-1989",
             "born_in": "Born in West Townshend, Windham County, Vermont, USA",
-            "died_in": "Died in Concord, Middlesex County, Massachusetts, USA"
+            "died_in": "Died in Concord, Middlesex County, Massachusetts, USA",
+            "kue_petition_message": "",
+            "kue_petition_url": ""
         }
     },
     "var_001c": {
@@ -7775,7 +8195,9 @@
         "basic_details": {
             "full_date_line": "11-14-1901 to 11-11-1959",
             "born_in": "Born in West Townshend, Windham County, Vermont, USA",
-            "died_in": "Died in Washington, District of Columbia, District of Columbia, USA"
+            "died_in": "Died in Washington, District of Columbia, District of Columbia, USA",
+            "kue_petition_message": "",
+            "kue_petition_url": ""
         }
     },
     "var_001d": {
@@ -7810,7 +8232,9 @@
         "basic_details": {
             "full_date_line": "8-31-1909 to 12-8-1993",
             "born_in": "Born in Montpelier, Washington County, Vermont, USA",
-            "died_in": "Died in Barre, Washington County, Vermont, USA"
+            "died_in": "Died in Barre, Washington County, Vermont, USA",
+            "kue_petition_message": "",
+            "kue_petition_url": ""
         }
     },
     "var_00110": {
@@ -7846,7 +8270,9 @@
         "basic_details": {
             "full_date_line": "1-27-1830 to 7-25-1901",
             "born_in": "Born in Windham, Windham County, Vermont, USA",
-            "died_in": "Died in Townshend, Windham County, Vermont, USA"
+            "died_in": "Died in Townshend, Windham County, Vermont, USA",
+            "kue_petition_message": "",
+            "kue_petition_url": ""
         }
     },
     "var_00111": {
@@ -7886,7 +8312,9 @@
         "basic_details": {
             "full_date_line": "1826 to 1902",
             "born_in": "",
-            "died_in": ""
+            "died_in": "",
+            "kue_petition_message": "",
+            "kue_petition_url": ""
         }
     },
     "var_0011a": {
@@ -7921,7 +8349,9 @@
         "basic_details": {
             "full_date_line": "1860 to 1940",
             "born_in": "",
-            "died_in": ""
+            "died_in": "",
+            "kue_petition_message": "",
+            "kue_petition_url": ""
         }
     },
     "var_0011b": {
@@ -7956,7 +8386,9 @@
         "basic_details": {
             "full_date_line": "1863 to 1864",
             "born_in": "",
-            "died_in": ""
+            "died_in": "",
+            "kue_petition_message": "",
+            "kue_petition_url": ""
         }
     },
     "var_0011c": {
@@ -7991,7 +8423,9 @@
         "basic_details": {
             "full_date_line": "1865 to 1865",
             "born_in": "",
-            "died_in": ""
+            "died_in": "",
+            "kue_petition_message": "",
+            "kue_petition_url": ""
         }
     },
     "var_0011d": {
@@ -8026,7 +8460,9 @@
         "basic_details": {
             "full_date_line": "1871 to 1952",
             "born_in": "",
-            "died_in": ""
+            "died_in": "",
+            "kue_petition_message": "",
+            "kue_petition_url": ""
         }
     },
     "var_001100": {
@@ -8064,7 +8500,9 @@
         "basic_details": {
             "full_date_line": "11-19-1790 to 12-1-1873",
             "born_in": "Born in Woodstock, Windsor County, Vermont, USA",
-            "died_in": "Died in Reading, Windsor County, Vermont, USA"
+            "died_in": "Died in Reading, Windsor County, Vermont, USA",
+            "kue_petition_message": "",
+            "kue_petition_url": ""
         }
     },
     "var_001100a": {
@@ -8100,7 +8538,9 @@
         "basic_details": {
             "full_date_line": "1793 to 1882",
             "born_in": "",
-            "died_in": ""
+            "died_in": "",
+            "kue_petition_message": "",
+            "kue_petition_url": ""
         }
     },
     "var_001100b": {
@@ -8136,7 +8576,9 @@
         "basic_details": {
             "full_date_line": "1797 to 1870",
             "born_in": "",
-            "died_in": ""
+            "died_in": "",
+            "kue_petition_message": "",
+            "kue_petition_url": ""
         }
     },
     "var_001100c": {
@@ -8172,7 +8614,9 @@
         "basic_details": {
             "full_date_line": "1799 to 1875",
             "born_in": "",
-            "died_in": ""
+            "died_in": "",
+            "kue_petition_message": "",
+            "kue_petition_url": ""
         }
     },
     "var_001100d": {
@@ -8208,7 +8652,9 @@
         "basic_details": {
             "full_date_line": "1802 to 1882",
             "born_in": "",
-            "died_in": ""
+            "died_in": "",
+            "kue_petition_message": "",
+            "kue_petition_url": ""
         }
     },
     "var_001100e": {
@@ -8244,7 +8690,9 @@
         "basic_details": {
             "full_date_line": "1805 to 1862",
             "born_in": "",
-            "died_in": ""
+            "died_in": "",
+            "kue_petition_message": "",
+            "kue_petition_url": ""
         }
     },
     "var_0011000": {
@@ -8289,7 +8737,9 @@
         "basic_details": {
             "full_date_line": "2-25-1761 to 4-17-1826",
             "born_in": "Born in Middleborough, Plymouth County, Massachusetts, USA",
-            "died_in": "Died in Woodstock, Windsor County, Vermont, USA"
+            "died_in": "Died in Woodstock, Windsor County, Vermont, USA",
+            "kue_petition_message": "",
+            "kue_petition_url": ""
         }
     },
     "var_0011001": {
@@ -8335,7 +8785,9 @@
         "basic_details": {
             "full_date_line": "4-10-1766 to 1-11-1848",
             "born_in": "Born in Woodstock, Windsor County, Vermont, USA",
-            "died_in": "Died in Woodstock, Windsor County, Vermont, USA"
+            "died_in": "Died in Woodstock, Windsor County, Vermont, USA",
+            "kue_petition_message": "",
+            "kue_petition_url": ""
         }
     },
     "var_0011000a": {
@@ -8373,7 +8825,9 @@
         "basic_details": {
             "full_date_line": "1744 to 1829",
             "born_in": "",
-            "died_in": ""
+            "died_in": "",
+            "kue_petition_message": "",
+            "kue_petition_url": ""
         }
     },
     "var_0011000b": {
@@ -8411,7 +8865,9 @@
         "basic_details": {
             "full_date_line": "1749 to 1821",
             "born_in": "",
-            "died_in": ""
+            "died_in": "",
+            "kue_petition_message": "",
+            "kue_petition_url": ""
         }
     },
     "var_0011000c": {
@@ -8449,7 +8905,9 @@
         "basic_details": {
             "full_date_line": "1751 to 1825",
             "born_in": "",
-            "died_in": ""
+            "died_in": "",
+            "kue_petition_message": "",
+            "kue_petition_url": ""
         }
     },
     "var_0011000d": {
@@ -8487,7 +8945,9 @@
         "basic_details": {
             "full_date_line": "1753 to 1808",
             "born_in": "",
-            "died_in": ""
+            "died_in": "",
+            "kue_petition_message": "",
+            "kue_petition_url": ""
         }
     },
     "var_0011000e": {
@@ -8525,7 +8985,9 @@
         "basic_details": {
             "full_date_line": "1755 to 1774",
             "born_in": "",
-            "died_in": ""
+            "died_in": "",
+            "kue_petition_message": "",
+            "kue_petition_url": ""
         }
     },
     "var_0011000f": {
@@ -8563,7 +9025,9 @@
         "basic_details": {
             "full_date_line": "1756 to 1824",
             "born_in": "",
-            "died_in": ""
+            "died_in": "",
+            "kue_petition_message": "",
+            "kue_petition_url": ""
         }
     },
     "var_0011000g": {
@@ -8601,7 +9065,9 @@
         "basic_details": {
             "full_date_line": "1758 to 1841",
             "born_in": "",
-            "died_in": ""
+            "died_in": "",
+            "kue_petition_message": "",
+            "kue_petition_url": ""
         }
     },
     "var_0011001a": {
@@ -8640,7 +9106,9 @@
         "basic_details": {
             "full_date_line": "1749 to 1813",
             "born_in": "",
-            "died_in": ""
+            "died_in": "",
+            "kue_petition_message": "",
+            "kue_petition_url": ""
         }
     },
     "var_0011001b": {
@@ -8679,7 +9147,9 @@
         "basic_details": {
             "full_date_line": "1761 to 1837",
             "born_in": "",
-            "died_in": ""
+            "died_in": "",
+            "kue_petition_message": "",
+            "kue_petition_url": ""
         }
     },
     "var_0011001c": {
@@ -8718,7 +9188,9 @@
         "basic_details": {
             "full_date_line": "1763 to 1847",
             "born_in": "",
-            "died_in": ""
+            "died_in": "",
+            "kue_petition_message": "",
+            "kue_petition_url": ""
         }
     },
     "var_0011001d": {
@@ -8757,7 +9229,9 @@
         "basic_details": {
             "full_date_line": "1769 to 1837",
             "born_in": "",
-            "died_in": ""
+            "died_in": "",
+            "kue_petition_message": "",
+            "kue_petition_url": ""
         }
     },
     "var_0011001e": {
@@ -8796,7 +9270,9 @@
         "basic_details": {
             "full_date_line": "1771 to 1826",
             "born_in": "",
-            "died_in": ""
+            "died_in": "",
+            "kue_petition_message": "",
+            "kue_petition_url": ""
         }
     },
     "var_0011001f": {
@@ -8835,7 +9311,9 @@
         "basic_details": {
             "full_date_line": "1776 to 1848",
             "born_in": "",
-            "died_in": ""
+            "died_in": "",
+            "kue_petition_message": "",
+            "kue_petition_url": ""
         }
     },
     "var_0011001g": {
@@ -8874,7 +9352,9 @@
         "basic_details": {
             "full_date_line": "1781 to 1860",
             "born_in": "",
-            "died_in": ""
+            "died_in": "",
+            "kue_petition_message": "",
+            "kue_petition_url": ""
         }
     },
     "var_0011001h": {
@@ -8913,7 +9393,9 @@
         "basic_details": {
             "full_date_line": "1785 to 1839",
             "born_in": "",
-            "died_in": ""
+            "died_in": "",
+            "kue_petition_message": "",
+            "kue_petition_url": ""
         }
     },
     "var_00110000": {
@@ -8954,7 +9436,9 @@
         "basic_details": {
             "full_date_line": "7-13-1719 to 8-8-1787",
             "born_in": "Born in Middleborough, Plymouth County, Massachusetts, USA",
-            "died_in": "Died in Middleborough, Plymouth County, Massachusetts, USA"
+            "died_in": "Died in Middleborough, Plymouth County, Massachusetts, USA",
+            "kue_petition_message": "",
+            "kue_petition_url": ""
         }
     },
     "var_00110001": {
@@ -8993,7 +9477,9 @@
         "basic_details": {
             "full_date_line": "6-4-1722 to 1-4-1776",
             "born_in": "Born in Middleborough, Plymouth County, Massachusetts, USA",
-            "died_in": "Died in Middleborough, Plymouth County, Massachusetts, USA"
+            "died_in": "Died in Middleborough, Plymouth County, Massachusetts, USA",
+            "kue_petition_message": "",
+            "kue_petition_url": ""
         }
     },
     "var_00110000a": {
@@ -9025,7 +9511,9 @@
         "basic_details": {
             "full_date_line": "1725 to 1803",
             "born_in": "",
-            "died_in": ""
+            "died_in": "",
+            "kue_petition_message": "",
+            "kue_petition_url": ""
         }
     },
     "var_001100000": {
@@ -9062,7 +9550,9 @@
         "basic_details": {
             "full_date_line": "9-19-1684 to 7-13-1747",
             "born_in": "Born in Middleborough, Plymouth County, Massachusetts, USA",
-            "died_in": "Died in Middleborough, Plymouth County, Massachusetts, USA"
+            "died_in": "Died in Middleborough, Plymouth County, Massachusetts, USA",
+            "kue_petition_message": "",
+            "kue_petition_url": ""
         }
     },
     "var_001100001": {
@@ -9095,7 +9585,9 @@
         "basic_details": {
             "full_date_line": "12-8-1691 to 1725",
             "born_in": "Born in Middleborough, Plymouth County, Massachusetts, USA",
-            "died_in": "Died in Middleborough, Plymouth County, Massachusetts, USA"
+            "died_in": "Died in Middleborough, Plymouth County, Massachusetts, USA",
+            "kue_petition_message": "",
+            "kue_petition_url": ""
         }
     },
     "var_001100000a": {
@@ -9129,7 +9621,9 @@
         "basic_details": {
             "full_date_line": "1677 to 1751",
             "born_in": "",
-            "died_in": ""
+            "died_in": "",
+            "kue_petition_message": "",
+            "kue_petition_url": ""
         }
     },
     "var_001100000b": {
@@ -9163,7 +9657,9 @@
         "basic_details": {
             "full_date_line": "1679 to 1744",
             "born_in": "",
-            "died_in": ""
+            "died_in": "",
+            "kue_petition_message": "",
+            "kue_petition_url": ""
         }
     },
     "var_001100000c": {
@@ -9197,7 +9693,9 @@
         "basic_details": {
             "full_date_line": "1691 to 1768",
             "born_in": "",
-            "died_in": ""
+            "died_in": "",
+            "kue_petition_message": "",
+            "kue_petition_url": ""
         }
     },
     "var_0011000000": {
@@ -9237,7 +9735,9 @@
         "basic_details": {
             "full_date_line": "5-21-1647 to 2-2-1718",
             "born_in": "Born in Yarmouth, Barnstable County, Massachusetts, USA",
-            "died_in": "Died in Middleborough, Plymouth County, Massachusetts, USA"
+            "died_in": "Died in Middleborough, Plymouth County, Massachusetts, USA",
+            "kue_petition_message": "",
+            "kue_petition_url": ""
         }
     },
     "var_0011000001": {
@@ -9276,7 +9776,9 @@
         "basic_details": {
             "full_date_line": "1651 to 2-10-1718",
             "born_in": "",
-            "died_in": ""
+            "died_in": "",
+            "kue_petition_message": "",
+            "kue_petition_url": ""
         }
     },
     "var_0011000000a": {
@@ -9311,7 +9813,9 @@
         "basic_details": {
             "full_date_line": "1651 to 1717",
             "born_in": "",
-            "died_in": ""
+            "died_in": "",
+            "kue_petition_message": "",
+            "kue_petition_url": ""
         }
     },
     "var_0011000000b": {
@@ -9346,7 +9850,9 @@
         "basic_details": {
             "full_date_line": "1653 to 1697",
             "born_in": "",
-            "died_in": ""
+            "died_in": "",
+            "kue_petition_message": "",
+            "kue_petition_url": ""
         }
     },
     "var_0011000000c": {
@@ -9381,7 +9887,9 @@
         "basic_details": {
             "full_date_line": "1658 to 1719",
             "born_in": "",
-            "died_in": ""
+            "died_in": "",
+            "kue_petition_message": "",
+            "kue_petition_url": ""
         }
     },
     "var_0011000000d": {
@@ -9416,7 +9924,9 @@
         "basic_details": {
             "full_date_line": "1659 to 1727",
             "born_in": "",
-            "died_in": ""
+            "died_in": "",
+            "kue_petition_message": "",
+            "kue_petition_url": ""
         }
     },
     "var_0011000001a": {
@@ -9450,7 +9960,9 @@
         "basic_details": {
             "full_date_line": "1645 to 1727",
             "born_in": "",
-            "died_in": ""
+            "died_in": "",
+            "kue_petition_message": "",
+            "kue_petition_url": ""
         }
     },
     "var_0011000001b": {
@@ -9484,7 +9996,9 @@
         "basic_details": {
             "full_date_line": "1648 to 1731",
             "born_in": "",
-            "died_in": ""
+            "died_in": "",
+            "kue_petition_message": "",
+            "kue_petition_url": ""
         }
     },
     "var_0011000001c": {
@@ -9518,7 +10032,9 @@
         "basic_details": {
             "full_date_line": "1669 to 1715",
             "born_in": "",
-            "died_in": ""
+            "died_in": "",
+            "kue_petition_message": "",
+            "kue_petition_url": ""
         }
     },
     "var_00110000000": {
@@ -9554,7 +10070,9 @@
         "basic_details": {
             "full_date_line": "1616 to 11-30-1670",
             "born_in": "Born in Surrey, England",
-            "died_in": "Died in Middleborough, Plymouth County, Massachusetts, USA"
+            "died_in": "Died in Middleborough, Plymouth County, Massachusetts, USA",
+            "kue_petition_message": "",
+            "kue_petition_url": ""
         }
     },
     "var_00110000001": {
@@ -9590,7 +10108,9 @@
         "basic_details": {
             "full_date_line": "1621 to 1690",
             "born_in": "Born in Netherlands",
-            "died_in": "Died in Middleborough, Plymouth County, Massachusetts, USA"
+            "died_in": "Died in Middleborough, Plymouth County, Massachusetts, USA",
+            "kue_petition_message": "",
+            "kue_petition_url": ""
         }
     },
     "var_001101": {
@@ -9622,7 +10142,9 @@
         "basic_details": {
             "full_date_line": "4-17-1791 to 3-23-1888",
             "born_in": "Born in Jamaica, Windham County, Vermont, USA",
-            "died_in": "Died in Townshend, Windham County, Vermont, USA"
+            "died_in": "Died in Townshend, Windham County, Vermont, USA",
+            "kue_petition_message": "",
+            "kue_petition_url": ""
         }
     },
     "var_00110010": {
@@ -9662,7 +10184,9 @@
         "basic_details": {
             "full_date_line": "12-5-1738 to 2-9-1815",
             "born_in": "Born in Coventry, Tolland County, Connecticut, USA",
-            "died_in": "Died in Woodstock, Windsor County, Vermont, USA"
+            "died_in": "Died in Woodstock, Windsor County, Vermont, USA",
+            "kue_petition_message": "",
+            "kue_petition_url": ""
         }
     },
     "var_00110011": {
@@ -9702,7 +10226,9 @@
         "basic_details": {
             "full_date_line": "2-11-1738 to 11-11-1815",
             "born_in": "Born in Coventry, Tolland County, Connecticut, USA",
-            "died_in": "Died in Woodstock, Windsor County, Vermont, USA"
+            "died_in": "Died in Woodstock, Windsor County, Vermont, USA",
+            "kue_petition_message": "",
+            "kue_petition_url": ""
         }
     },
     "var_00110000010": {
@@ -9737,7 +10263,9 @@
         "basic_details": {
             "full_date_line": "1623 to 1693",
             "born_in": "",
-            "died_in": "Died in Plymouth, Plymouth County, Massachusetts, USA"
+            "died_in": "Died in Plymouth, Plymouth County, Massachusetts, USA",
+            "kue_petition_message": "",
+            "kue_petition_url": ""
         }
     },
     "var_00110000011": {
@@ -9772,7 +10300,9 @@
         "basic_details": {
             "full_date_line": "1625 to 11-1-1691",
             "born_in": "",
-            "died_in": "Died in Plymouth, Plymouth County, Massachusetts, USA"
+            "died_in": "Died in Plymouth, Plymouth County, Massachusetts, USA",
+            "kue_petition_message": "",
+            "kue_petition_url": ""
         }
     },
     "var_0001a": {
@@ -9807,7 +10337,9 @@
         "basic_details": {
             "full_date_line": "1868 to 1871",
             "born_in": "",
-            "died_in": ""
+            "died_in": "",
+            "kue_petition_message": "",
+            "kue_petition_url": ""
         }
     },
     "var_0001b": {
@@ -9842,7 +10374,9 @@
         "basic_details": {
             "full_date_line": "1869 to 1917",
             "born_in": "",
-            "died_in": ""
+            "died_in": "",
+            "kue_petition_message": "",
+            "kue_petition_url": ""
         }
     },
     "var_0001c": {
@@ -9877,7 +10411,9 @@
         "basic_details": {
             "full_date_line": "1877 to 1962",
             "born_in": "",
-            "died_in": ""
+            "died_in": "",
+            "kue_petition_message": "",
+            "kue_petition_url": ""
         }
     },
     "var_0001d": {
@@ -9912,7 +10448,9 @@
         "basic_details": {
             "full_date_line": "1882 to 1955",
             "born_in": "",
-            "died_in": ""
+            "died_in": "",
+            "kue_petition_message": "",
+            "kue_petition_url": ""
         }
     },
     "var_00010": {
@@ -9954,7 +10492,9 @@
         "basic_details": {
             "full_date_line": "3-9-1842 to 3-19-1896",
             "born_in": "Born in Talbot County, Maryland, USA",
-            "died_in": "Died in Salem, Marion County, Illinois, USA"
+            "died_in": "Died in Salem, Marion County, Illinois, USA",
+            "kue_petition_message": "",
+            "kue_petition_url": ""
         }
     },
     "var_00011": {
@@ -9990,7 +10530,9 @@
         "basic_details": {
             "full_date_line": "1849 to 1946",
             "born_in": "Born in Kentucky, USA",
-            "died_in": "Died in California, USA"
+            "died_in": "Died in California, USA",
+            "kue_petition_message": "",
+            "kue_petition_url": ""
         }
     },
     "var_00010a": {
@@ -10026,7 +10568,9 @@
         "basic_details": {
             "full_date_line": "1831 to 1895",
             "born_in": "",
-            "died_in": ""
+            "died_in": "",
+            "kue_petition_message": "",
+            "kue_petition_url": ""
         }
     },
     "var_00010b": {
@@ -10062,7 +10606,9 @@
         "basic_details": {
             "full_date_line": "1832 to 1863",
             "born_in": "",
-            "died_in": ""
+            "died_in": "",
+            "kue_petition_message": "",
+            "kue_petition_url": ""
         }
     },
     "var_00010c": {
@@ -10098,7 +10644,9 @@
         "basic_details": {
             "full_date_line": "1836 to 1896",
             "born_in": "",
-            "died_in": ""
+            "died_in": "",
+            "kue_petition_message": "",
+            "kue_petition_url": ""
         }
     },
     "var_00010d": {
@@ -10134,7 +10682,9 @@
         "basic_details": {
             "full_date_line": "1839 to 1913",
             "born_in": "",
-            "died_in": ""
+            "died_in": "",
+            "kue_petition_message": "",
+            "kue_petition_url": ""
         }
     },
     "var_00010e": {
@@ -10170,7 +10720,9 @@
         "basic_details": {
             "full_date_line": "1844 to 1920",
             "born_in": "",
-            "died_in": ""
+            "died_in": "",
+            "kue_petition_message": "",
+            "kue_petition_url": ""
         }
     },
     "var_000100": {
@@ -10207,7 +10759,9 @@
         "basic_details": {
             "full_date_line": "3-3-1800 to 12-17-1873",
             "born_in": "Born in Delaware, USA",
-            "died_in": "Died in Illinois, USA"
+            "died_in": "Died in Illinois, USA",
+            "kue_petition_message": "",
+            "kue_petition_url": ""
         }
     },
     "var_000101": {
@@ -10244,7 +10798,9 @@
         "basic_details": {
             "full_date_line": "12-21-1801 to 6-27-1871",
             "born_in": "Born in Pennsylvania, USA",
-            "died_in": "Died in Illinois, USA"
+            "died_in": "Died in Illinois, USA",
+            "kue_petition_message": "",
+            "kue_petition_url": ""
         }
     },
     "var_000110": {
@@ -10276,7 +10832,9 @@
         "basic_details": {
             "full_date_line": "1825 to 2-16-1871",
             "born_in": "",
-            "died_in": ""
+            "died_in": "",
+            "kue_petition_message": "",
+            "kue_petition_url": ""
         }
     },
     "var_000111": {
@@ -10308,7 +10866,9 @@
         "basic_details": {
             "full_date_line": "Born 3-10-1827",
             "born_in": "",
-            "died_in": ""
+            "died_in": "",
+            "kue_petition_message": "",
+            "kue_petition_url": ""
         }
     },
     "var_0010a": {
@@ -10342,7 +10902,9 @@
         "basic_details": {
             "full_date_line": "1853 to 1879",
             "born_in": "",
-            "died_in": ""
+            "died_in": "",
+            "kue_petition_message": "",
+            "kue_petition_url": ""
         }
     },
     "var_0010b": {
@@ -10376,7 +10938,9 @@
         "basic_details": {
             "full_date_line": "1861 to 1934",
             "born_in": "",
-            "died_in": ""
+            "died_in": "",
+            "kue_petition_message": "",
+            "kue_petition_url": ""
         }
     },
     "var_0010c": {
@@ -10410,7 +10974,9 @@
         "basic_details": {
             "full_date_line": "1866 to 1897",
             "born_in": "",
-            "died_in": ""
+            "died_in": "",
+            "kue_petition_message": "",
+            "kue_petition_url": ""
         }
     },
     "var_00100a": {
@@ -10445,7 +11011,9 @@
         "basic_details": {
             "full_date_line": "1822 to 1893",
             "born_in": "",
-            "died_in": ""
+            "died_in": "",
+            "kue_petition_message": "",
+            "kue_petition_url": ""
         }
     },
     "var_00100b": {
@@ -10480,7 +11048,9 @@
         "basic_details": {
             "full_date_line": "1824 to 1824",
             "born_in": "",
-            "died_in": ""
+            "died_in": "",
+            "kue_petition_message": "",
+            "kue_petition_url": ""
         }
     },
     "var_00100c": {
@@ -10515,7 +11085,9 @@
         "basic_details": {
             "full_date_line": "1825 to 1903",
             "born_in": "",
-            "died_in": ""
+            "died_in": "",
+            "kue_petition_message": "",
+            "kue_petition_url": ""
         }
     },
     "var_00100d": {
@@ -10550,7 +11122,9 @@
         "basic_details": {
             "full_date_line": "1833 to 1835",
             "born_in": "",
-            "died_in": ""
+            "died_in": "",
+            "kue_petition_message": "",
+            "kue_petition_url": ""
         }
     },
     "var_00101a": {
@@ -10582,7 +11156,9 @@
         "basic_details": {
             "full_date_line": "Died 1854",
             "born_in": "",
-            "died_in": ""
+            "died_in": "",
+            "kue_petition_message": "",
+            "kue_petition_url": ""
         }
     },
     "var_001000": {
@@ -10622,7 +11198,9 @@
         "basic_details": {
             "full_date_line": "12-22-1795 to 2-19-1873",
             "born_in": "Born in Brattleboro, Windham County, Vermont, USA",
-            "died_in": "Died in Brattleboro, Windham County, Vermont, USA"
+            "died_in": "Died in Brattleboro, Windham County, Vermont, USA",
+            "kue_petition_message": "",
+            "kue_petition_url": ""
         }
     },
     "var_001000a": {
@@ -10656,7 +11234,9 @@
         "basic_details": {
             "full_date_line": "1794 to 1795",
             "born_in": "",
-            "died_in": ""
+            "died_in": "",
+            "kue_petition_message": "",
+            "kue_petition_url": ""
         }
     },
     "var_001000b": {
@@ -10690,7 +11270,9 @@
         "basic_details": {
             "full_date_line": "1798 to 1827",
             "born_in": "",
-            "died_in": ""
+            "died_in": "",
+            "kue_petition_message": "",
+            "kue_petition_url": ""
         }
     },
     "var_001000c": {
@@ -10724,7 +11306,9 @@
         "basic_details": {
             "full_date_line": "1806 to 1807",
             "born_in": "",
-            "died_in": ""
+            "died_in": "",
+            "kue_petition_message": "",
+            "kue_petition_url": ""
         }
     },
     "var_001001": {
@@ -10764,7 +11348,9 @@
         "basic_details": {
             "full_date_line": "7-20-1800 to 6-6-1885",
             "born_in": "Born in Richmond, Cheshire County, New Hampshire, USA",
-            "died_in": "Died in Charlestown, Suffolk County, Massachusetts, USA"
+            "died_in": "Died in Charlestown, Suffolk County, Massachusetts, USA",
+            "kue_petition_message": "",
+            "kue_petition_url": ""
         }
     },
     "var_0010011": {
@@ -10799,7 +11385,9 @@
         "basic_details": {
             "full_date_line": "",
             "born_in": "",
-            "died_in": ""
+            "died_in": "",
+            "kue_petition_message": "",
+            "kue_petition_url": ""
         }
     },
     "var_0010010": {
@@ -10834,7 +11422,9 @@
         "basic_details": {
             "full_date_line": "10-1-1772 to 12-19-1812",
             "born_in": "Born in Providence County, Rhode Island, USA",
-            "died_in": "Died in Brattleboro, Windham County, Vermont, USA"
+            "died_in": "Died in Brattleboro, Windham County, Vermont, USA",
+            "kue_petition_message": "",
+            "kue_petition_url": ""
         }
     },
     "var_001001a": {
@@ -10868,7 +11458,9 @@
         "basic_details": {
             "full_date_line": "1794 to 1824",
             "born_in": "",
-            "died_in": ""
+            "died_in": "",
+            "kue_petition_message": "",
+            "kue_petition_url": ""
         }
     },
     "var_001001b": {
@@ -10902,7 +11494,9 @@
         "basic_details": {
             "full_date_line": "1805 to 1865",
             "born_in": "",
-            "died_in": ""
+            "died_in": "",
+            "kue_petition_message": "",
+            "kue_petition_url": ""
         }
     },
     "var_001001c": {
@@ -10936,7 +11530,9 @@
         "basic_details": {
             "full_date_line": "1807 to 1865",
             "born_in": "",
-            "died_in": ""
+            "died_in": "",
+            "kue_petition_message": "",
+            "kue_petition_url": ""
         }
     },
     "var_001010": {
@@ -10974,7 +11570,9 @@
         "basic_details": {
             "full_date_line": "1-5-1794 to 1857",
             "born_in": "Born in Townshend, Windham County, Vermont, USA",
-            "died_in": ""
+            "died_in": "",
+            "kue_petition_message": "",
+            "kue_petition_url": ""
         }
     },
     "var_001011": {
@@ -11007,7 +11605,9 @@
         "basic_details": {
             "full_date_line": "1788 to 10-24-1837",
             "born_in": "Born in White Creek, Washington County, New York, USA",
-            "died_in": "Died in Fort Edward, Washington County, New York, USA"
+            "died_in": "Died in Fort Edward, Washington County, New York, USA",
+            "kue_petition_message": "",
+            "kue_petition_url": ""
         }
     },
     "var_001010a": {
@@ -11042,7 +11642,9 @@
         "basic_details": {
             "full_date_line": "1793 to 1885",
             "born_in": "",
-            "died_in": ""
+            "died_in": "",
+            "kue_petition_message": "",
+            "kue_petition_url": ""
         }
     },
     "var_001010b": {
@@ -11077,7 +11679,9 @@
         "basic_details": {
             "full_date_line": "1801 to 1862",
             "born_in": "",
-            "died_in": ""
+            "died_in": "",
+            "kue_petition_message": "",
+            "kue_petition_url": ""
         }
     },
     "var_001010c": {
@@ -11112,7 +11716,9 @@
         "basic_details": {
             "full_date_line": "1804 to 1887",
             "born_in": "",
-            "died_in": ""
+            "died_in": "",
+            "kue_petition_message": "",
+            "kue_petition_url": ""
         }
     },
     "var_001010d": {
@@ -11147,7 +11753,9 @@
         "basic_details": {
             "full_date_line": "1811 to 1867",
             "born_in": "",
-            "died_in": ""
+            "died_in": "",
+            "kue_petition_message": "",
+            "kue_petition_url": ""
         }
     },
     "var_0010100": {
@@ -11183,7 +11791,9 @@
         "basic_details": {
             "full_date_line": "9-8-1764 to 12-31-1864",
             "born_in": "",
-            "died_in": ""
+            "died_in": "",
+            "kue_petition_message": "",
+            "kue_petition_url": ""
         }
     },
     "var_0010101": {
@@ -11219,7 +11829,9 @@
         "basic_details": {
             "full_date_line": "3-11-1773 to 11-14-1850",
             "born_in": "Born in Massachusetts, USA",
-            "died_in": "Died in Northfield, Washington County, Vermont, USA"
+            "died_in": "Died in Northfield, Washington County, Vermont, USA",
+            "kue_petition_message": "",
+            "kue_petition_url": ""
         }
     },
     "var_00111a": {
@@ -11253,7 +11865,9 @@
         "basic_details": {
             "full_date_line": "1821 to 1901",
             "born_in": "",
-            "died_in": ""
+            "died_in": "",
+            "kue_petition_message": "",
+            "kue_petition_url": ""
         }
     },
     "var_00111b": {
@@ -11287,7 +11901,9 @@
         "basic_details": {
             "full_date_line": "1823 to 1849",
             "born_in": "",
-            "died_in": ""
+            "died_in": "",
+            "kue_petition_message": "",
+            "kue_petition_url": ""
         }
     },
     "var_00111c": {
@@ -11321,7 +11937,9 @@
         "basic_details": {
             "full_date_line": "1833 to 1877",
             "born_in": "",
-            "died_in": ""
+            "died_in": "",
+            "kue_petition_message": "",
+            "kue_petition_url": ""
         }
     },
     "var_001110": {
@@ -11364,7 +11982,9 @@
         "basic_details": {
             "full_date_line": "11-8-1798 to 11-18-1874",
             "born_in": "Born in Andover, Essex County, Massachusetts, USA",
-            "died_in": "Died in Brunswick, Cumberland County, Maine, USA"
+            "died_in": "Died in Brunswick, Cumberland County, Maine, USA",
+            "kue_petition_message": "",
+            "kue_petition_url": ""
         }
     },
     "var_001111": {
@@ -11406,7 +12026,9 @@
         "basic_details": {
             "full_date_line": "5-14-1794 to 1-15-1876",
             "born_in": "Born in Brunswick, Cumberland County, Maine, USA",
-            "died_in": "Died in Brunswick, Cumberland County, Maine, USA"
+            "died_in": "Died in Brunswick, Cumberland County, Maine, USA",
+            "kue_petition_message": "",
+            "kue_petition_url": ""
         }
     },
     "var_001110a": {
@@ -11444,7 +12066,9 @@
         "basic_details": {
             "full_date_line": "1795 to 1841",
             "born_in": "",
-            "died_in": ""
+            "died_in": "",
+            "kue_petition_message": "",
+            "kue_petition_url": ""
         }
     },
     "var_001110b": {
@@ -11482,7 +12106,9 @@
         "basic_details": {
             "full_date_line": "1797 to 1823",
             "born_in": "",
-            "died_in": ""
+            "died_in": "",
+            "kue_petition_message": "",
+            "kue_petition_url": ""
         }
     },
     "var_001110c": {
@@ -11520,7 +12146,9 @@
         "basic_details": {
             "full_date_line": "1800 to 1837",
             "born_in": "",
-            "died_in": ""
+            "died_in": "",
+            "kue_petition_message": "",
+            "kue_petition_url": ""
         }
     },
     "var_001110d": {
@@ -11558,7 +12186,9 @@
         "basic_details": {
             "full_date_line": "1802 to 1830",
             "born_in": "",
-            "died_in": ""
+            "died_in": "",
+            "kue_petition_message": "",
+            "kue_petition_url": ""
         }
     },
     "var_001110e": {
@@ -11596,7 +12226,9 @@
         "basic_details": {
             "full_date_line": "1805 to 1880",
             "born_in": "",
-            "died_in": ""
+            "died_in": "",
+            "kue_petition_message": "",
+            "kue_petition_url": ""
         }
     },
     "var_001110f": {
@@ -11634,7 +12266,9 @@
         "basic_details": {
             "full_date_line": "1809 to 1851",
             "born_in": "",
-            "died_in": ""
+            "died_in": "",
+            "kue_petition_message": "",
+            "kue_petition_url": ""
         }
     },
     "var_001110g": {
@@ -11672,7 +12306,9 @@
         "basic_details": {
             "full_date_line": "1810 to 1889",
             "born_in": "",
-            "died_in": ""
+            "died_in": "",
+            "kue_petition_message": "",
+            "kue_petition_url": ""
         }
     },
     "var_001111a": {
@@ -11709,7 +12345,9 @@
         "basic_details": {
             "full_date_line": "1784 to 1856",
             "born_in": "",
-            "died_in": ""
+            "died_in": "",
+            "kue_petition_message": "",
+            "kue_petition_url": ""
         }
     },
     "var_001111b": {
@@ -11746,7 +12384,9 @@
         "basic_details": {
             "full_date_line": "1785 to 1862",
             "born_in": "",
-            "died_in": ""
+            "died_in": "",
+            "kue_petition_message": "",
+            "kue_petition_url": ""
         }
     },
     "var_001111c": {
@@ -11783,7 +12423,9 @@
         "basic_details": {
             "full_date_line": "1787 to 1865",
             "born_in": "",
-            "died_in": ""
+            "died_in": "",
+            "kue_petition_message": "",
+            "kue_petition_url": ""
         }
     },
     "var_001111d": {
@@ -11820,7 +12462,9 @@
         "basic_details": {
             "full_date_line": "1789 to 1869",
             "born_in": "",
-            "died_in": ""
+            "died_in": "",
+            "kue_petition_message": "",
+            "kue_petition_url": ""
         }
     },
     "var_001111e": {
@@ -11857,7 +12501,9 @@
         "basic_details": {
             "full_date_line": "1792 to 1867",
             "born_in": "",
-            "died_in": ""
+            "died_in": "",
+            "kue_petition_message": "",
+            "kue_petition_url": ""
         }
     },
     "var_001111f": {
@@ -11894,7 +12540,9 @@
         "basic_details": {
             "full_date_line": "1796 to 1841",
             "born_in": "",
-            "died_in": ""
+            "died_in": "",
+            "kue_petition_message": "",
+            "kue_petition_url": ""
         }
     },
     "var_0011100": {
@@ -11933,7 +12581,9 @@
         "basic_details": {
             "full_date_line": "6-23-1774 to 7-13-1813",
             "born_in": "Born in Andover, Essex County, Massachusetts, USA",
-            "died_in": "Died in Andover, Essex County, Massachusetts, USA"
+            "died_in": "Died in Andover, Essex County, Massachusetts, USA",
+            "kue_petition_message": "",
+            "kue_petition_url": ""
         }
     },
     "var_0011101": {
@@ -11972,7 +12622,9 @@
         "basic_details": {
             "full_date_line": "1774 to 11-1-1845",
             "born_in": "",
-            "died_in": "Died in Andover, Essex County, Massachusetts, USA"
+            "died_in": "Died in Andover, Essex County, Massachusetts, USA",
+            "kue_petition_message": "",
+            "kue_petition_url": ""
         }
     },
     "var_0011110": {
@@ -12010,7 +12662,9 @@
         "basic_details": {
             "full_date_line": "2-18-1756 to 5-28-1849",
             "born_in": "Born in Falmouth, Cumberland County, Maine, USA",
-            "died_in": "Died in Brunswick, Cumberland County, Maine, USA"
+            "died_in": "Died in Brunswick, Cumberland County, Maine, USA",
+            "kue_petition_message": "",
+            "kue_petition_url": ""
         }
     },
     "var_0011111": {
@@ -12048,7 +12702,9 @@
         "basic_details": {
             "full_date_line": "7-27-1754 to 2-18-1824",
             "born_in": "",
-            "died_in": ""
+            "died_in": "",
+            "kue_petition_message": "",
+            "kue_petition_url": ""
         }
     },
     "var_0010000": {
@@ -12087,7 +12743,9 @@
         "basic_details": {
             "full_date_line": "1776 to 3-2-1826",
             "born_in": "",
-            "died_in": ""
+            "died_in": "",
+            "kue_petition_message": "",
+            "kue_petition_url": ""
         }
     },
     "var_0010001": {
@@ -12126,7 +12784,9 @@
         "basic_details": {
             "full_date_line": "1769 to 12-5-1816",
             "born_in": "",
-            "died_in": "Died in Brattleboro, Windham County, Vermont, USA"
+            "died_in": "Died in Brattleboro, Windham County, Vermont, USA",
+            "kue_petition_message": "",
+            "kue_petition_url": ""
         }
     },
     "var_0010000a": {
@@ -12160,7 +12820,9 @@
         "basic_details": {
             "full_date_line": "1750 to 1816",
             "born_in": "",
-            "died_in": ""
+            "died_in": "",
+            "kue_petition_message": "",
+            "kue_petition_url": ""
         }
     },
     "var_0010000b": {
@@ -12194,7 +12856,9 @@
         "basic_details": {
             "full_date_line": "1762 to 1847",
             "born_in": "",
-            "died_in": ""
+            "died_in": "",
+            "kue_petition_message": "",
+            "kue_petition_url": ""
         }
     },
     "var_0010000c": {
@@ -12228,7 +12892,9 @@
         "basic_details": {
             "full_date_line": "1767 to 1865",
             "born_in": "",
-            "died_in": ""
+            "died_in": "",
+            "kue_petition_message": "",
+            "kue_petition_url": ""
         }
     },
     "var_0010001a": {
@@ -12262,7 +12928,9 @@
         "basic_details": {
             "full_date_line": "1771 to 1812",
             "born_in": "",
-            "died_in": ""
+            "died_in": "",
+            "kue_petition_message": "",
+            "kue_petition_url": ""
         }
     },
     "var_0010001b": {
@@ -12296,7 +12964,9 @@
         "basic_details": {
             "full_date_line": "1781 to 1853",
             "born_in": "",
-            "died_in": ""
+            "died_in": "",
+            "kue_petition_message": "",
+            "kue_petition_url": ""
         }
     },
     "var_0010001c": {
@@ -12330,7 +13000,9 @@
         "basic_details": {
             "full_date_line": "1788 to 1872",
             "born_in": "",
-            "died_in": ""
+            "died_in": "",
+            "kue_petition_message": "",
+            "kue_petition_url": ""
         }
     },
     "var_00100000": {
@@ -12365,7 +13037,9 @@
         "basic_details": {
             "full_date_line": "1726 to 12-30-1802",
             "born_in": "",
-            "died_in": ""
+            "died_in": "",
+            "kue_petition_message": "",
+            "kue_petition_url": ""
         }
     },
     "var_00100001": {
@@ -12400,7 +13074,9 @@
         "basic_details": {
             "full_date_line": "1728 to 8-3-1804",
             "born_in": "Born in Edgartown, Dukes County, Massachusetts, USA",
-            "died_in": "Died in Windsor, Hartford County, Connecticut, USA"
+            "died_in": "Died in Windsor, Hartford County, Connecticut, USA",
+            "kue_petition_message": "",
+            "kue_petition_url": ""
         }
     },
     "var_00100010": {
@@ -12435,7 +13111,9 @@
         "basic_details": {
             "full_date_line": "5-31-1741 to 12-7-1820",
             "born_in": "Born in East Windsor, Hartford County, Connecticut, USA",
-            "died_in": "Died in East Windsor, Hartford County, Connecticut, USA"
+            "died_in": "Died in East Windsor, Hartford County, Connecticut, USA",
+            "kue_petition_message": "",
+            "kue_petition_url": ""
         }
     },
     "var_00100011": {
@@ -12470,7 +13148,9 @@
         "basic_details": {
             "full_date_line": "1-20-1742 to 12-30-1821",
             "born_in": "Born in South Windsor, Hartford County, Connecticut, USA",
-            "died_in": "Died in East Windsor, Hartford County, Connecticut, USA"
+            "died_in": "Died in East Windsor, Hartford County, Connecticut, USA",
+            "kue_petition_message": "",
+            "kue_petition_url": ""
         }
     },
     "var_1101a": {
@@ -12507,7 +13187,9 @@
         "basic_details": {
             "full_date_line": "1871 to 1946",
             "born_in": "",
-            "died_in": ""
+            "died_in": "",
+            "kue_petition_message": "",
+            "kue_petition_url": ""
         }
     },
     "var_1101b": {
@@ -12544,7 +13226,9 @@
         "basic_details": {
             "full_date_line": "1876 to 1944",
             "born_in": "",
-            "died_in": ""
+            "died_in": "",
+            "kue_petition_message": "",
+            "kue_petition_url": ""
         }
     },
     "var_1101c": {
@@ -12581,7 +13265,9 @@
         "basic_details": {
             "full_date_line": "1877 to 1929",
             "born_in": "",
-            "died_in": ""
+            "died_in": "",
+            "kue_petition_message": "",
+            "kue_petition_url": ""
         }
     },
     "var_1101d": {
@@ -12618,7 +13304,9 @@
         "basic_details": {
             "full_date_line": "1879 to 1964",
             "born_in": "",
-            "died_in": ""
+            "died_in": "",
+            "kue_petition_message": "",
+            "kue_petition_url": ""
         }
     },
     "var_1101e": {
@@ -12655,7 +13343,9 @@
         "basic_details": {
             "full_date_line": "1887 to 1941",
             "born_in": "",
-            "died_in": ""
+            "died_in": "",
+            "kue_petition_message": "",
+            "kue_petition_url": ""
         }
     },
     "var_1101f": {
@@ -12692,7 +13382,9 @@
         "basic_details": {
             "full_date_line": "1889 to 1975",
             "born_in": "",
-            "died_in": ""
+            "died_in": "",
+            "kue_petition_message": "",
+            "kue_petition_url": ""
         }
     },
     "var_11010a": {
@@ -12729,7 +13421,9 @@
         "basic_details": {
             "full_date_line": "1832 to 1894",
             "born_in": "",
-            "died_in": ""
+            "died_in": "",
+            "kue_petition_message": "",
+            "kue_petition_url": ""
         }
     },
     "var_11010b": {
@@ -12766,7 +13460,9 @@
         "basic_details": {
             "full_date_line": "1834 to 1929",
             "born_in": "",
-            "died_in": ""
+            "died_in": "",
+            "kue_petition_message": "",
+            "kue_petition_url": ""
         }
     },
     "var_11010c": {
@@ -12803,7 +13499,9 @@
         "basic_details": {
             "full_date_line": "1840 to 1926",
             "born_in": "",
-            "died_in": ""
+            "died_in": "",
+            "kue_petition_message": "",
+            "kue_petition_url": ""
         }
     },
     "var_11010d": {
@@ -12840,7 +13538,9 @@
         "basic_details": {
             "full_date_line": "1846 to 1892",
             "born_in": "",
-            "died_in": ""
+            "died_in": "",
+            "kue_petition_message": "",
+            "kue_petition_url": ""
         }
     },
     "var_11010e": {
@@ -12877,7 +13577,9 @@
         "basic_details": {
             "full_date_line": "1847 to 1853",
             "born_in": "",
-            "died_in": ""
+            "died_in": "",
+            "kue_petition_message": "",
+            "kue_petition_url": ""
         }
     },
     "var_11010f": {
@@ -12914,7 +13616,9 @@
         "basic_details": {
             "full_date_line": "1849 to 1912",
             "born_in": "",
-            "died_in": ""
+            "died_in": "",
+            "kue_petition_message": "",
+            "kue_petition_url": ""
         }
     },
     "var_1100a": {
@@ -12946,7 +13650,9 @@
         "basic_details": {
             "full_date_line": "3-9-1869 to 2-5-1949",
             "born_in": "Born in Sheboygan, Sheboygan County, Wisconsin, USA",
-            "died_in": "Died in Alameda County, California, USA"
+            "died_in": "Died in Alameda County, California, USA",
+            "kue_petition_message": "",
+            "kue_petition_url": ""
         }
     }
 }

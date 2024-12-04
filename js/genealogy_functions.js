@@ -436,6 +436,18 @@ function updateBasicDetails(memberId) {
     if (details.died_in) {
         detailsHTML += `<p class="detail-line">${details.died_in}</p>`;
     }
+
+    // Add Ku'e petition information if available
+    if (details.kue_petition_message && details.kue_petition_url) {
+        detailsHTML += `
+            <p class="detail-line">
+                <a href="${details.kue_petition_url}" 
+                   target="_blank" 
+                   style="color: #f56038; text-decoration: underline;">
+                    ${details.kue_petition_message}
+                </a>
+            </p>`;
+    }
     
     basicDetailsText.innerHTML = detailsHTML || '<p>No additional details available</p>';
 }
