@@ -24,6 +24,11 @@
             "down": "",
             "left": "",
             "right": "var_a"
+        },
+        "basic_details": {
+            "full_date_line": "Born 1999",
+            "born_in": "Born in Massachusetts, USA",
+            "died_in": ""
         }
     },
     "var_a": {
@@ -51,6 +56,11 @@
             "down": "",
             "left": "var_micah",
             "right": ""
+        },
+        "basic_details": {
+            "full_date_line": "Born 2001",
+            "born_in": "Born in Massachusetts, USA",
+            "died_in": ""
         }
     },
     "var_1": {
@@ -83,6 +93,11 @@
             "down": "var_micah",
             "left": "var_1c",
             "right": "var_0"
+        },
+        "basic_details": {
+            "full_date_line": "Born 1970",
+            "born_in": "Born in Hawaii, USA",
+            "died_in": ""
         }
     },
     "var_0": {
@@ -113,6 +128,11 @@
             "down": "var_micah",
             "left": "var_1",
             "right": "var_0a"
+        },
+        "basic_details": {
+            "full_date_line": "Born 1967",
+            "born_in": "Born in Massachusetts, USA",
+            "died_in": ""
         }
     },
     "var_01": {
@@ -144,6 +164,11 @@
             "down": "var_0",
             "left": "var_01b",
             "right": "var_00"
+        },
+        "basic_details": {
+            "full_date_line": "Born 1940",
+            "born_in": "Born in England, UK",
+            "died_in": ""
         }
     },
     "var_00": {
@@ -175,6 +200,11 @@
             "down": "var_0",
             "left": "var_01",
             "right": "var_00a"
+        },
+        "basic_details": {
+            "full_date_line": "Born 4-9-1938",
+            "born_in": "",
+            "died_in": ""
         }
     },
     "var_0a": {
@@ -202,6 +232,11 @@
             "down": "var_micah",
             "left": "var_0",
             "right": ""
+        },
+        "basic_details": {
+            "full_date_line": "Born 1970",
+            "born_in": "Born in Massachusetts, USA",
+            "died_in": ""
         }
     },
     "var_11": {
@@ -236,6 +271,11 @@
             "down": "var_1",
             "left": "var_11c",
             "right": "var_10"
+        },
+        "basic_details": {
+            "full_date_line": "Born 1945",
+            "born_in": "Born in Hawaii, USA",
+            "died_in": ""
         }
     },
     "var_10": {
@@ -271,6 +311,11 @@
             "down": "var_1",
             "left": "var_11",
             "right": "var_10a"
+        },
+        "basic_details": {
+            "full_date_line": "Born 1943",
+            "born_in": "Born in Hawaii, USA",
+            "died_in": ""
         }
     },
     "var_1a": {
@@ -300,6 +345,11 @@
             "down": "var_micah",
             "left": "",
             "right": "var_1b"
+        },
+        "basic_details": {
+            "full_date_line": "Born 1968",
+            "born_in": "Born in Hawaii, USA",
+            "died_in": ""
         }
     },
     "var_1b": {
@@ -329,6 +379,11 @@
             "down": "var_micah",
             "left": "var_1a",
             "right": "var_1c"
+        },
+        "basic_details": {
+            "full_date_line": "Born 1961",
+            "born_in": "Born in Hawaii, USA",
+            "died_in": ""
         }
     },
     "var_1c": {
@@ -358,6 +413,11 @@
             "down": "var_micah",
             "left": "var_1b",
             "right": "var_1"
+        },
+        "basic_details": {
+            "full_date_line": "Born 1963",
+            "born_in": "Born in Hawaii, USA",
+            "died_in": ""
         }
     },
     "var_111": {
@@ -393,6 +453,11 @@
             "down": "var_11",
             "left": "var_111d",
             "right": "var_110"
+        },
+        "basic_details": {
+            "full_date_line": "4-10-1920 to 6-6-2004",
+            "born_in": "Born in Paia, Maui HI",
+            "died_in": "Died in Kahului, Maui County, Hawaii, USA"
         }
     },
     "var_110": {
@@ -428,6 +493,11 @@
             "down": "var_11",
             "left": "var_111",
             "right": "var_110a"
+        },
+        "basic_details": {
+            "full_date_line": "4-18-1911 to 5-8-1982",
+            "born_in": "Born in Kamuela, Hawaii, Hawaii, USA",
+            "died_in": "Died in Wailuku, Maui HI"
         }
     },
     "var_11a": {
@@ -457,6 +527,11 @@
             "down": "var_1",
             "left": "",
             "right": "var_11b"
+        },
+        "basic_details": {
+            "full_date_line": "Born 1940",
+            "born_in": "Born in Hawaii, USA",
+            "died_in": ""
         }
     },
     "var_11b": {
@@ -486,6 +561,11 @@
             "down": "var_1",
             "left": "var_11a",
             "right": "var_11c"
+        },
+        "basic_details": {
+            "full_date_line": "Born 1942",
+            "born_in": "Born in Hawaii, USA",
+            "died_in": ""
         }
     },
     "var_11c": {
@@ -515,6 +595,11 @@
             "down": "var_1",
             "left": "var_11b",
             "right": "var_11"
+        },
+        "basic_details": {
+            "full_date_line": "Born 1951",
+            "born_in": "Born in Hawaii, USA",
+            "died_in": ""
         }
     },
     "var_1111": {
@@ -562,6 +647,11 @@
             "down": "var_111",
             "left": "var_1111o",
             "right": "var_1110"
+        },
+        "basic_details": {
+            "full_date_line": "2-14-1889 to 11-9-1977",
+            "born_in": "Born in Hilo, Hawaii",
+            "died_in": "Died in Wailuku, Maui HI"
         }
     },
     "var_1110": {
@@ -593,6 +683,11 @@
             "down": "var_111",
             "left": "var_1111",
             "right": "var_1101a"
+        },
+        "basic_details": {
+            "full_date_line": "12-13-1883 to 8-10-1934",
+            "born_in": "Born in Niulii, Kohala HI",
+            "died_in": "Died in Wailuku, Maui HI"
         }
     },
     "var_111a": {
@@ -623,6 +718,11 @@
             "down": "var_11",
             "left": "",
             "right": "var_111b"
+        },
+        "basic_details": {
+            "full_date_line": "1915 to 1971",
+            "born_in": "Born in Hawaii, USA",
+            "died_in": ""
         }
     },
     "var_111b": {
@@ -653,6 +753,11 @@
             "down": "var_11",
             "left": "var_111a",
             "right": "var_111c"
+        },
+        "basic_details": {
+            "full_date_line": "Born 1916",
+            "born_in": "Born in Hawaii, USA",
+            "died_in": ""
         }
     },
     "var_111c": {
@@ -683,6 +788,11 @@
             "down": "var_11",
             "left": "var_111b",
             "right": "var_111d"
+        },
+        "basic_details": {
+            "full_date_line": "Born 1918",
+            "born_in": "Born in Hawaii, USA",
+            "died_in": ""
         }
     },
     "var_111d": {
@@ -713,6 +823,11 @@
             "down": "var_11",
             "left": "var_111c",
             "right": "var_111"
+        },
+        "basic_details": {
+            "full_date_line": "1919 to 1996",
+            "born_in": "Born in Hawaii, USA",
+            "died_in": ""
         }
     },
     "var_11101": {
@@ -754,6 +869,11 @@
             "down": "var_1110",
             "left": "var_11101m",
             "right": "var_11100"
+        },
+        "basic_details": {
+            "full_date_line": "11-5-1876 to 7-1-1949",
+            "born_in": "Born in Niulii, Kohala HI",
+            "died_in": "Died in Honolulu, Oahu HI"
         }
     },
     "var_11100": {
@@ -781,6 +901,11 @@
             "down": "var_1110",
             "left": "var_11101",
             "right": "var_11011"
+        },
+        "basic_details": {
+            "full_date_line": "8-10-1856 to 11-15-1940",
+            "born_in": "Born in San Francisco, CA",
+            "died_in": "Died in Wailuku, Maui HI"
         }
     },
     "var_111011": {
@@ -821,6 +946,11 @@
             "down": "var_11101",
             "left": "var_111110",
             "right": "var_111010"
+        },
+        "basic_details": {
+            "full_date_line": "1836 to 3-31-1916",
+            "born_in": "Born in Niulii, Kohala HI",
+            "died_in": "Died in Niulii, Kohala HI"
         }
     },
     "var_111010": {
@@ -861,6 +991,11 @@
             "down": "var_11101",
             "left": "var_111011",
             "right": "var_110111"
+        },
+        "basic_details": {
+            "full_date_line": "1825 to 5-10-1896",
+            "born_in": "Born in Nantucket, MA",
+            "died_in": "Died in Niulii, Kohala HI"
         }
     },
     "var_11101a": {
@@ -900,6 +1035,11 @@
             "down": "var_1110",
             "left": "var_11110",
             "right": "var_11101b"
+        },
+        "basic_details": {
+            "full_date_line": "1863 to 1915",
+            "born_in": "",
+            "died_in": ""
         }
     },
     "var_11101b": {
@@ -939,6 +1079,11 @@
             "down": "var_1110",
             "left": "var_11101a",
             "right": "var_11101c"
+        },
+        "basic_details": {
+            "full_date_line": "1864 to 1934",
+            "born_in": "",
+            "died_in": ""
         }
     },
     "var_11101c": {
@@ -978,6 +1123,11 @@
             "down": "var_1110",
             "left": "var_11101b",
             "right": "var_11101d"
+        },
+        "basic_details": {
+            "full_date_line": "1866 to 1922",
+            "born_in": "",
+            "died_in": ""
         }
     },
     "var_11101d": {
@@ -1017,6 +1167,11 @@
             "down": "var_1110",
             "left": "var_11101c",
             "right": "var_11101e"
+        },
+        "basic_details": {
+            "full_date_line": "1868 to 1934",
+            "born_in": "",
+            "died_in": ""
         }
     },
     "var_11101e": {
@@ -1056,6 +1211,11 @@
             "down": "var_1110",
             "left": "var_11101d",
             "right": "var_11101f"
+        },
+        "basic_details": {
+            "full_date_line": "1870 to 1870",
+            "born_in": "",
+            "died_in": ""
         }
     },
     "var_11101f": {
@@ -1095,6 +1255,11 @@
             "down": "var_1110",
             "left": "var_11101e",
             "right": "var_11101g"
+        },
+        "basic_details": {
+            "full_date_line": "1871 to 1871",
+            "born_in": "",
+            "died_in": ""
         }
     },
     "var_11101g": {
@@ -1134,6 +1299,11 @@
             "down": "var_1110",
             "left": "var_11101f",
             "right": "var_11101h"
+        },
+        "basic_details": {
+            "full_date_line": "1872 to 1923",
+            "born_in": "",
+            "died_in": ""
         }
     },
     "var_11101h": {
@@ -1173,6 +1343,11 @@
             "down": "var_1110",
             "left": "var_11101g",
             "right": "var_11101i"
+        },
+        "basic_details": {
+            "full_date_line": "1877 to 1955",
+            "born_in": "",
+            "died_in": ""
         }
     },
     "var_11101i": {
@@ -1212,6 +1387,11 @@
             "down": "var_1110",
             "left": "var_11101h",
             "right": "var_11101j"
+        },
+        "basic_details": {
+            "full_date_line": "1878 to 1963",
+            "born_in": "",
+            "died_in": ""
         }
     },
     "var_11101j": {
@@ -1251,6 +1431,11 @@
             "down": "var_1110",
             "left": "var_11101i",
             "right": "var_11101k"
+        },
+        "basic_details": {
+            "full_date_line": "1879 to 1925",
+            "born_in": "",
+            "died_in": ""
         }
     },
     "var_11101k": {
@@ -1290,6 +1475,11 @@
             "down": "var_1110",
             "left": "var_11101j",
             "right": "var_11101l"
+        },
+        "basic_details": {
+            "full_date_line": "1883 to 1903",
+            "born_in": "",
+            "died_in": ""
         }
     },
     "var_11101l": {
@@ -1329,6 +1519,11 @@
             "down": "var_1110",
             "left": "var_11101k",
             "right": "var_11101m"
+        },
+        "basic_details": {
+            "full_date_line": "1885 to 1973",
+            "born_in": "",
+            "died_in": ""
         }
     },
     "var_11101m": {
@@ -1368,6 +1563,11 @@
             "down": "var_1110",
             "left": "var_11101l",
             "right": "var_11101"
+        },
+        "basic_details": {
+            "full_date_line": "1887 to 1955",
+            "born_in": "",
+            "died_in": ""
         }
     },
     "var_1110101": {
@@ -1395,6 +1595,11 @@
             "down": "var_111010",
             "left": "var_1110110",
             "right": "var_1110100"
+        },
+        "basic_details": {
+            "full_date_line": "",
+            "born_in": "",
+            "died_in": ""
         }
     },
     "var_1110100": {
@@ -1422,6 +1627,11 @@
             "down": "var_111010",
             "left": "var_1110101",
             "right": "var_1101111"
+        },
+        "basic_details": {
+            "full_date_line": "",
+            "born_in": "",
+            "died_in": ""
         }
     },
     "var_1110111": {
@@ -1449,6 +1659,11 @@
             "down": "var_111011",
             "left": "var_1111100",
             "right": "var_1110110"
+        },
+        "basic_details": {
+            "full_date_line": "",
+            "born_in": "",
+            "died_in": ""
         }
     },
     "var_1110110": {
@@ -1476,6 +1691,11 @@
             "down": "var_111011",
             "left": "var_1110111",
             "right": "var_1110101"
+        },
+        "basic_details": {
+            "full_date_line": "",
+            "born_in": "",
+            "died_in": ""
         }
     },
     "var_11101000": {
@@ -1503,6 +1723,11 @@
             "down": "var_1110100",
             "left": "var_11101001",
             "right": "var_11011001"
+        },
+        "basic_details": {
+            "full_date_line": "",
+            "born_in": "",
+            "died_in": ""
         }
     },
     "var_11101001": {
@@ -1530,6 +1755,11 @@
             "down": "var_1110100",
             "left": "var_11111110",
             "right": "var_11101000"
+        },
+        "basic_details": {
+            "full_date_line": "",
+            "born_in": "",
+            "died_in": ""
         }
     },
     "var_111010000": {
@@ -1557,6 +1787,11 @@
             "down": "var_11101000",
             "left": "var_111010001",
             "right": "var_110110011"
+        },
+        "basic_details": {
+            "full_date_line": "",
+            "born_in": "",
+            "died_in": ""
         }
     },
     "var_111010001": {
@@ -1584,6 +1819,11 @@
             "down": "var_11101000",
             "left": "",
             "right": "var_111010000"
+        },
+        "basic_details": {
+            "full_date_line": "",
+            "born_in": "",
+            "died_in": ""
         }
     },
     "var_1110100000": {
@@ -1611,6 +1851,11 @@
             "down": "var_111010000",
             "left": "var_1110100001",
             "right": "var_0011000001a"
+        },
+        "basic_details": {
+            "full_date_line": "",
+            "born_in": "",
+            "died_in": ""
         }
     },
     "var_1110100001": {
@@ -1638,6 +1883,11 @@
             "down": "var_111010000",
             "left": "",
             "right": "var_1110100000"
+        },
+        "basic_details": {
+            "full_date_line": "",
+            "born_in": "",
+            "died_in": ""
         }
     },
     "var_11101000000": {
@@ -1665,6 +1915,11 @@
             "down": "var_1110100000",
             "left": "var_11101000001",
             "right": "var_00110000011"
+        },
+        "basic_details": {
+            "full_date_line": "",
+            "born_in": "Born in Nantucket, MA",
+            "died_in": ""
         }
     },
     "var_11101000001": {
@@ -1692,6 +1947,11 @@
             "down": "var_1110100000",
             "left": "",
             "right": "var_11101000000"
+        },
+        "basic_details": {
+            "full_date_line": "",
+            "born_in": "",
+            "died_in": ""
         }
     },
     "var_111010000000": {
@@ -1719,6 +1979,11 @@
             "down": "var_11101000000",
             "left": "var_111010000001",
             "right": ""
+        },
+        "basic_details": {
+            "full_date_line": "",
+            "born_in": "Born in Lynne, Essex MA",
+            "died_in": ""
         }
     },
     "var_111010000001": {
@@ -1746,6 +2011,11 @@
             "down": "var_11101000000",
             "left": "",
             "right": "var_111010000000"
+        },
+        "basic_details": {
+            "full_date_line": "",
+            "born_in": "",
+            "died_in": ""
         }
     },
     "var_1110100000000": {
@@ -1773,6 +2043,11 @@
             "down": "var_111010000000",
             "left": "var_1110100000001",
             "right": ""
+        },
+        "basic_details": {
+            "full_date_line": "",
+            "born_in": "",
+            "died_in": ""
         }
     },
     "var_1110100000001": {
@@ -1800,6 +2075,11 @@
             "down": "var_111010000000",
             "left": "",
             "right": "var_1110100000000"
+        },
+        "basic_details": {
+            "full_date_line": "",
+            "born_in": "",
+            "died_in": ""
         }
     },
     "var_11101000000000": {
@@ -1827,6 +2107,11 @@
             "down": "var_1110100000000",
             "left": "var_11101000000001",
             "right": ""
+        },
+        "basic_details": {
+            "full_date_line": "",
+            "born_in": "Born in Dorking, Suffolk England",
+            "died_in": ""
         }
     },
     "var_11101000000001": {
@@ -1854,6 +2139,11 @@
             "down": "var_1110100000000",
             "left": "",
             "right": "var_11101000000000"
+        },
+        "basic_details": {
+            "full_date_line": "",
+            "born_in": "",
+            "died_in": ""
         }
     },
     "var_11111": {
@@ -1908,6 +2198,11 @@
             "down": "var_1111",
             "left": "var_11111k",
             "right": "var_11110"
+        },
+        "basic_details": {
+            "full_date_line": "11-23-1866 to 11-25-1945",
+            "born_in": "Born in Hilo, Hawaii",
+            "died_in": ""
         }
     },
     "var_11110": {
@@ -1950,6 +2245,11 @@
             "down": "var_1111",
             "left": "var_11111",
             "right": "var_11101a"
+        },
+        "basic_details": {
+            "full_date_line": "5-20-1855 to 2-13-1924",
+            "born_in": "",
+            "died_in": "Died in Hilo, Hawaii"
         }
     },
     "var_1111a": {
@@ -1991,6 +2291,11 @@
             "down": "var_111",
             "left": "",
             "right": "var_1111b"
+        },
+        "basic_details": {
+            "full_date_line": "1886 to 1910",
+            "born_in": "",
+            "died_in": ""
         }
     },
     "var_1111b": {
@@ -2032,6 +2337,11 @@
             "down": "var_111",
             "left": "var_1111a",
             "right": "var_1111c"
+        },
+        "basic_details": {
+            "full_date_line": "1888 to 1943",
+            "born_in": "",
+            "died_in": ""
         }
     },
     "var_1111c": {
@@ -2073,6 +2383,11 @@
             "down": "var_111",
             "left": "var_1111b",
             "right": "var_1111d"
+        },
+        "basic_details": {
+            "full_date_line": "Born 1891",
+            "born_in": "",
+            "died_in": ""
         }
     },
     "var_1111d": {
@@ -2114,6 +2429,11 @@
             "down": "var_111",
             "left": "var_1111c",
             "right": "var_1111e"
+        },
+        "basic_details": {
+            "full_date_line": "1894 to 1962",
+            "born_in": "",
+            "died_in": ""
         }
     },
     "var_1111e": {
@@ -2155,6 +2475,11 @@
             "down": "var_111",
             "left": "var_1111d",
             "right": "var_1111f"
+        },
+        "basic_details": {
+            "full_date_line": "1895 to 1958",
+            "born_in": "",
+            "died_in": ""
         }
     },
     "var_1111f": {
@@ -2196,6 +2521,11 @@
             "down": "var_111",
             "left": "var_1111e",
             "right": "var_1111g"
+        },
+        "basic_details": {
+            "full_date_line": "1896 to 1980",
+            "born_in": "",
+            "died_in": ""
         }
     },
     "var_1111g": {
@@ -2237,6 +2567,11 @@
             "down": "var_111",
             "left": "var_1111f",
             "right": "var_1111h"
+        },
+        "basic_details": {
+            "full_date_line": "Born 1897",
+            "born_in": "",
+            "died_in": ""
         }
     },
     "var_1111h": {
@@ -2278,6 +2613,11 @@
             "down": "var_111",
             "left": "var_1111g",
             "right": "var_1111i"
+        },
+        "basic_details": {
+            "full_date_line": "Born 1899",
+            "born_in": "",
+            "died_in": ""
         }
     },
     "var_1111i": {
@@ -2319,6 +2659,11 @@
             "down": "var_111",
             "left": "var_1111h",
             "right": "var_1111j"
+        },
+        "basic_details": {
+            "full_date_line": "1900 to 1962",
+            "born_in": "",
+            "died_in": ""
         }
     },
     "var_1111j": {
@@ -2360,6 +2705,11 @@
             "down": "var_111",
             "left": "var_1111i",
             "right": "var_1111k"
+        },
+        "basic_details": {
+            "full_date_line": "Born 1902",
+            "born_in": "",
+            "died_in": ""
         }
     },
     "var_1111k": {
@@ -2401,6 +2751,11 @@
             "down": "var_111",
             "left": "var_1111j",
             "right": "var_1111l"
+        },
+        "basic_details": {
+            "full_date_line": "Born 1903",
+            "born_in": "",
+            "died_in": ""
         }
     },
     "var_1111l": {
@@ -2442,6 +2797,11 @@
             "down": "var_111",
             "left": "var_1111k",
             "right": "var_1111m"
+        },
+        "basic_details": {
+            "full_date_line": "Born 1904",
+            "born_in": "",
+            "died_in": ""
         }
     },
     "var_1111m": {
@@ -2483,6 +2843,11 @@
             "down": "var_111",
             "left": "var_1111l",
             "right": "var_1111n"
+        },
+        "basic_details": {
+            "full_date_line": "Born 1907",
+            "born_in": "",
+            "died_in": ""
         }
     },
     "var_1111n": {
@@ -2524,6 +2889,11 @@
             "down": "var_111",
             "left": "var_1111m",
             "right": "var_1111o"
+        },
+        "basic_details": {
+            "full_date_line": "Born 1908",
+            "born_in": "",
+            "died_in": ""
         }
     },
     "var_1111o": {
@@ -2565,6 +2935,11 @@
             "down": "var_111",
             "left": "var_1111n",
             "right": "var_1111"
+        },
+        "basic_details": {
+            "full_date_line": "1911 to 1960",
+            "born_in": "",
+            "died_in": ""
         }
     },
     "var_111111": {
@@ -2606,6 +2981,11 @@
             "down": "var_11111",
             "left": "var_111111b",
             "right": "var_111110"
+        },
+        "basic_details": {
+            "full_date_line": "12-21-1836 to 12-28-1910",
+            "born_in": "Born in Waimea, Hawaii",
+            "died_in": "Died in Hilo, Hawaii"
         }
     },
     "var_111110": {
@@ -2644,6 +3024,11 @@
             "down": "var_11111",
             "left": "var_111111",
             "right": "var_111011"
+        },
+        "basic_details": {
+            "full_date_line": "11-20-1836 to 11-18-1903",
+            "born_in": "Born in Honolulu, Hawaii",
+            "died_in": "Died in Hilo, Hawaii"
         }
     },
     "var_11111a": {
@@ -2681,6 +3066,11 @@
             "down": "var_1111",
             "left": "",
             "right": "var_11111b"
+        },
+        "basic_details": {
+            "full_date_line": "1857 to 1920",
+            "born_in": "",
+            "died_in": ""
         }
     },
     "var_11111b": {
@@ -2718,6 +3108,11 @@
             "down": "var_1111",
             "left": "var_11111a",
             "right": "var_11111c"
+        },
+        "basic_details": {
+            "full_date_line": "1862 to 1896",
+            "born_in": "",
+            "died_in": ""
         }
     },
     "var_11111c": {
@@ -2755,6 +3150,11 @@
             "down": "var_1111",
             "left": "var_11111b",
             "right": "var_11111d"
+        },
+        "basic_details": {
+            "full_date_line": "1864 to 1939",
+            "born_in": "",
+            "died_in": ""
         }
     },
     "var_11111d": {
@@ -2792,6 +3192,11 @@
             "down": "var_1111",
             "left": "var_11111c",
             "right": "var_11111e"
+        },
+        "basic_details": {
+            "full_date_line": "Born 1866",
+            "born_in": "",
+            "died_in": ""
         }
     },
     "var_11111e": {
@@ -2829,6 +3234,11 @@
             "down": "var_1111",
             "left": "var_11111d",
             "right": "var_11111f"
+        },
+        "basic_details": {
+            "full_date_line": "Born 1868",
+            "born_in": "",
+            "died_in": ""
         }
     },
     "var_11111f": {
@@ -2866,6 +3276,11 @@
             "down": "var_1111",
             "left": "var_11111e",
             "right": "var_11111g"
+        },
+        "basic_details": {
+            "full_date_line": "1871 to 1923",
+            "born_in": "",
+            "died_in": ""
         }
     },
     "var_11111g": {
@@ -2903,6 +3318,11 @@
             "down": "var_1111",
             "left": "var_11111f",
             "right": "var_11111h"
+        },
+        "basic_details": {
+            "full_date_line": "1875 to 1952",
+            "born_in": "",
+            "died_in": ""
         }
     },
     "var_11111h": {
@@ -2940,6 +3360,11 @@
             "down": "var_1111",
             "left": "var_11111g",
             "right": "var_11111i"
+        },
+        "basic_details": {
+            "full_date_line": "1875 to 1943",
+            "born_in": "",
+            "died_in": ""
         }
     },
     "var_11111i": {
@@ -2977,6 +3402,11 @@
             "down": "var_1111",
             "left": "var_11111h",
             "right": "var_11111j"
+        },
+        "basic_details": {
+            "full_date_line": "1877 to 1957",
+            "born_in": "",
+            "died_in": ""
         }
     },
     "var_11111j": {
@@ -3014,6 +3444,11 @@
             "down": "var_1111",
             "left": "var_11111i",
             "right": "var_11111k"
+        },
+        "basic_details": {
+            "full_date_line": "Born 1879",
+            "born_in": "",
+            "died_in": ""
         }
     },
     "var_11111k": {
@@ -3051,6 +3486,11 @@
             "down": "var_1111",
             "left": "var_11111j",
             "right": "var_11111"
+        },
+        "basic_details": {
+            "full_date_line": "1879 to 1950",
+            "born_in": "",
+            "died_in": ""
         }
     },
     "var_1111110": {
@@ -3080,6 +3520,11 @@
             "down": "var_111111",
             "left": "var_1111111",
             "right": "var_1111101"
+        },
+        "basic_details": {
+            "full_date_line": "1799 to 1895",
+            "born_in": "Born in Guangzhou, Guangdong, China",
+            "died_in": "Died in Hilo, HI"
         }
     },
     "var_1111111": {
@@ -3109,6 +3554,11 @@
             "down": "var_111111",
             "left": "",
             "right": "var_1111110"
+        },
+        "basic_details": {
+            "full_date_line": "1815 to 1860",
+            "born_in": "Born in Waimea, HI",
+            "died_in": "Died in Hilo, HI"
         }
     },
     "var_111111a": {
@@ -3137,6 +3587,11 @@
             "down": "var_11111",
             "left": "",
             "right": "var_111111b"
+        },
+        "basic_details": {
+            "full_date_line": "",
+            "born_in": "",
+            "died_in": ""
         }
     },
     "var_111111b": {
@@ -3165,6 +3620,11 @@
             "down": "var_11111",
             "left": "var_111111a",
             "right": "var_111111"
+        },
+        "basic_details": {
+            "full_date_line": "",
+            "born_in": "",
+            "died_in": ""
         }
     },
     "var_11111110": {
@@ -3192,6 +3652,11 @@
             "down": "var_1111111",
             "left": "var_11111111",
             "right": "var_11101001"
+        },
+        "basic_details": {
+            "full_date_line": "",
+            "born_in": "",
+            "died_in": ""
         }
     },
     "var_11111111": {
@@ -3219,6 +3684,11 @@
             "down": "var_1111111",
             "left": "",
             "right": "var_11111110"
+        },
+        "basic_details": {
+            "full_date_line": "",
+            "born_in": "",
+            "died_in": ""
         }
     },
     "var_1111100": {
@@ -3246,6 +3716,11 @@
             "down": "var_111110",
             "left": "var_1111101",
             "right": "var_1110111"
+        },
+        "basic_details": {
+            "full_date_line": "",
+            "born_in": "",
+            "died_in": ""
         }
     },
     "var_1111101": {
@@ -3273,6 +3748,11 @@
             "down": "var_111110",
             "left": "var_1111110",
             "right": "var_1111100"
+        },
+        "basic_details": {
+            "full_date_line": "",
+            "born_in": "",
+            "died_in": ""
         }
     },
     "var_010": {
@@ -3302,6 +3782,11 @@
             "down": "var_01",
             "left": "var_011",
             "right": "var_001a"
+        },
+        "basic_details": {
+            "full_date_line": "1905 to 1993",
+            "born_in": "Born in Yeadon, Yorkshire England",
+            "died_in": ""
         }
     },
     "var_011": {
@@ -3333,6 +3818,11 @@
             "down": "var_01",
             "left": "var_011a",
             "right": "var_010"
+        },
+        "basic_details": {
+            "full_date_line": "Born 3-29-1904",
+            "born_in": "Born in Zwickau, Germany",
+            "died_in": ""
         }
     },
     "var_000": {
@@ -3364,6 +3854,11 @@
             "down": "var_00",
             "left": "var_001",
             "right": "var_000a"
+        },
+        "basic_details": {
+            "full_date_line": "1-1-1909 to 5-7-1982",
+            "born_in": "Born in Montgomery County, Ohio",
+            "died_in": ""
         }
     },
     "var_001": {
@@ -3398,6 +3893,11 @@
             "down": "var_00",
             "left": "var_001d",
             "right": "var_000"
+        },
+        "basic_details": {
+            "full_date_line": "5-31-1905 to 2-29-1988",
+            "born_in": "Born in Montpelier, Washington County, Vermont, USA",
+            "died_in": ""
         }
     },
     "var_0001": {
@@ -3431,6 +3931,11 @@
             "down": "var_000",
             "left": "var_0001d",
             "right": "var_0000"
+        },
+        "basic_details": {
+            "full_date_line": "1882 to 1947",
+            "born_in": "Born in Salem, Marion County, Illinois, USA",
+            "died_in": "Died in Fort Myers, Lee County, Florida, USA"
         }
     },
     "var_0000": {
@@ -3464,6 +3969,11 @@
             "down": "var_000",
             "left": "var_0001",
             "right": "var_0000a"
+        },
+        "basic_details": {
+            "full_date_line": "1865 to 1947",
+            "born_in": "",
+            "died_in": ""
         }
     },
     "var_000a": {
@@ -3491,6 +4001,11 @@
             "down": "var_00",
             "left": "var_000",
             "right": ""
+        },
+        "basic_details": {
+            "full_date_line": "1905 to 1949",
+            "born_in": "Born in Milwaukee, Milwaukee County, Wisconsin, USA",
+            "died_in": "Died in Saint Petersburg, Pinellas County, Florida, USA"
         }
     },
     "var_0010": {
@@ -3526,6 +4041,11 @@
             "down": "var_001",
             "left": "var_0011",
             "right": "var_0010a"
+        },
+        "basic_details": {
+            "full_date_line": "1857 to 1926",
+            "born_in": "Born in West Townshend, Windham County, Vermont, USA",
+            "died_in": "Died in Montpelier, Washington County, Vermont, USA"
         }
     },
     "var_0011": {
@@ -3562,6 +4082,11 @@
             "down": "var_001",
             "left": "var_0011d",
             "right": "var_0010"
+        },
+        "basic_details": {
+            "full_date_line": "1867 to 1935",
+            "born_in": "Born in Chester, Windsor County, Vermont, USA",
+            "died_in": "Died in Montpelier, Washington County, Vermont, USA"
         }
     },
     "var_00100": {
@@ -3597,6 +4122,11 @@
             "down": "var_0010",
             "left": "var_00101",
             "right": "var_00100a"
+        },
+        "basic_details": {
+            "full_date_line": "1820 to 1889",
+            "born_in": "Born in Brattleboro, Windham County, Vermont, USA",
+            "died_in": "Died in West Townshend, Windham County, Vermont, USA"
         }
     },
     "var_00101": {
@@ -3629,6 +4159,11 @@
             "down": "var_0010",
             "left": "var_00101a",
             "right": "var_00100"
+        },
+        "basic_details": {
+            "full_date_line": "1830 to 1899",
+            "born_in": "",
+            "died_in": ""
         }
     },
     "var_00a": {
@@ -3657,6 +4192,11 @@
             "down": "var_0",
             "left": "var_00",
             "right": "var_00b"
+        },
+        "basic_details": {
+            "full_date_line": "",
+            "born_in": "",
+            "died_in": ""
         }
     },
     "var_00b": {
@@ -3685,6 +4225,11 @@
             "down": "var_0",
             "left": "var_00a",
             "right": ""
+        },
+        "basic_details": {
+            "full_date_line": "",
+            "born_in": "",
+            "died_in": ""
         }
     },
     "var_1100": {
@@ -3718,6 +4263,11 @@
             "down": "var_110",
             "left": "var_1101",
             "right": "var_1100a"
+        },
+        "basic_details": {
+            "full_date_line": "4-25-1874 to 6-22-1948",
+            "born_in": "Born in Oroville, Butte County, California, United States of America",
+            "died_in": "Died in Hamakuapoko, Maui County, Hawaii, United States of America"
         }
     },
     "var_1101": {
@@ -3756,6 +4306,11 @@
             "down": "var_110",
             "left": "var_1101f",
             "right": "var_1100"
+        },
+        "basic_details": {
+            "full_date_line": "5-15-1882 to 5-2-1973",
+            "born_in": "Born in Puunene, Maui, Hawaii, USA",
+            "died_in": ""
         }
     },
     "var_110a": {
@@ -3786,6 +4341,11 @@
             "down": "var_11",
             "left": "var_110",
             "right": "var_110b"
+        },
+        "basic_details": {
+            "full_date_line": "1905 to 1972",
+            "born_in": "Born in Hawaii, USA",
+            "died_in": ""
         }
     },
     "var_110b": {
@@ -3816,6 +4376,11 @@
             "down": "var_11",
             "left": "var_110a",
             "right": "var_110c"
+        },
+        "basic_details": {
+            "full_date_line": "1907 to 1996",
+            "born_in": "Born in Hawaii, USA",
+            "died_in": ""
         }
     },
     "var_110c": {
@@ -3846,6 +4411,11 @@
             "down": "var_11",
             "left": "var_110b",
             "right": "var_110d"
+        },
+        "basic_details": {
+            "full_date_line": "1909 to 1999",
+            "born_in": "Born in Hawaii, USA",
+            "died_in": ""
         }
     },
     "var_110d": {
@@ -3876,6 +4446,11 @@
             "down": "var_11",
             "left": "var_110c",
             "right": "var_101a"
+        },
+        "basic_details": {
+            "full_date_line": "1909 to 1981",
+            "born_in": "Born in Hawaii, USA",
+            "died_in": ""
         }
     },
     "var_11010": {
@@ -3916,6 +4491,11 @@
             "down": "var_1101",
             "left": "var_11011",
             "right": "var_11010a"
+        },
+        "basic_details": {
+            "full_date_line": "12-21-1834 to 3-22-1912",
+            "born_in": "Born in Berwick-on-Tweed, Northumberland, England",
+            "died_in": "Died in Wailuku, Maui, Hawaii, United States"
         }
     },
     "var_11011": {
@@ -3949,6 +4529,11 @@
             "down": "var_1101",
             "left": "var_11100",
             "right": "var_11010"
+        },
+        "basic_details": {
+            "full_date_line": "11-1-1852 to 11-1-1933",
+            "born_in": "Born in White Earth, Becker, Minnesota, United States",
+            "died_in": "Died in Los Angeles, Los Angeles County, California, USA"
         }
     },
     "var_01a": {
@@ -3977,6 +4562,11 @@
             "down": "var_0",
             "left": "var_10d",
             "right": "var_01b"
+        },
+        "basic_details": {
+            "full_date_line": "Born 1930",
+            "born_in": "Born in England, UK",
+            "died_in": ""
         }
     },
     "var_01b": {
@@ -4005,6 +4595,11 @@
             "down": "var_0",
             "left": "var_01a",
             "right": "var_01"
+        },
+        "basic_details": {
+            "full_date_line": "Born 1933",
+            "born_in": "Born in England, UK",
+            "died_in": ""
         }
     },
     "var_110111": {
@@ -4032,6 +4627,11 @@
             "down": "var_11011",
             "left": "var_111010",
             "right": "var_110110"
+        },
+        "basic_details": {
+            "full_date_line": "1830 to 1858",
+            "born_in": "Born in White Earth, Becker, Minnesota, United States",
+            "died_in": "Died in White Earth, Becker, Minnesota, United States"
         }
     },
     "var_110110": {
@@ -4059,6 +4659,11 @@
             "down": "var_11011",
             "left": "var_110111",
             "right": "var_110101"
+        },
+        "basic_details": {
+            "full_date_line": "2-9-1828 to 5-31-1902",
+            "born_in": "Born in Little Rock, Pulaski, Arkansas, United States",
+            "died_in": "Died in Worthington, Nobles, Minnesota, United States"
         }
     },
     "var_100": {
@@ -4094,6 +4699,11 @@
             "down": "var_10",
             "left": "var_101",
             "right": "var_100a"
+        },
+        "basic_details": {
+            "full_date_line": "6-11-1910 to 12-28-1963",
+            "born_in": "Born in Honolulu, Hawaii, USA",
+            "died_in": ""
         }
     },
     "var_101": {
@@ -4130,6 +4740,11 @@
             "down": "var_10",
             "left": "var_101d",
             "right": "var_100"
+        },
+        "basic_details": {
+            "full_date_line": "6-17-1920 to 10-13-1992",
+            "born_in": "Born in Lahaina, Maui County, Hawaii",
+            "died_in": ""
         }
     },
     "var_1000": {
@@ -4160,6 +4775,11 @@
             "down": "var_100",
             "left": "var_1001",
             "right": "var_0111"
+        },
+        "basic_details": {
+            "full_date_line": "",
+            "born_in": "",
+            "died_in": ""
         }
     },
     "var_1001": {
@@ -4190,6 +4810,11 @@
             "down": "var_100",
             "left": "var_1010",
             "right": "var_1000"
+        },
+        "basic_details": {
+            "full_date_line": "Born 1885",
+            "born_in": "Born in China",
+            "died_in": "Died in Hawaii, USA"
         }
     },
     "var_1010": {
@@ -4221,6 +4846,11 @@
             "down": "var_101",
             "left": "var_1011",
             "right": "var_1001"
+        },
+        "basic_details": {
+            "full_date_line": "8-12-1882 to 9-23-1971",
+            "born_in": "Born in Yamaguchi-Ken, Japan",
+            "died_in": "Died in Lahaina, Maui County, Hawaii"
         }
     },
     "var_1011": {
@@ -4252,6 +4882,11 @@
             "down": "var_101",
             "left": "var_1100a",
             "right": "var_1010"
+        },
+        "basic_details": {
+            "full_date_line": "8-12-1895 to 8-14-1962",
+            "born_in": "Born in Japan",
+            "died_in": "Died in Wailuku, Maui County, Hawaii"
         }
     },
     "var_11001": {
@@ -4280,6 +4915,11 @@
             "down": "var_1100",
             "left": "var_11010f",
             "right": "var_11000"
+        },
+        "basic_details": {
+            "full_date_line": "10-13-1847 to 6-11-1900",
+            "born_in": "Born in Fermoy, County Cork, Ireland",
+            "died_in": "Died in Alameda County, California, USA"
         }
     },
     "var_0110": {
@@ -4314,6 +4954,11 @@
             "down": "var_011",
             "left": "var_0111",
             "right": "var_0110a"
+        },
+        "basic_details": {
+            "full_date_line": "1878 to 1943",
+            "born_in": "",
+            "died_in": ""
         }
     },
     "var_0111": {
@@ -4342,6 +4987,11 @@
             "down": "var_011",
             "left": "var_1000",
             "right": "var_0110"
+        },
+        "basic_details": {
+            "full_date_line": "1880 to 1948",
+            "born_in": "",
+            "died_in": ""
         }
     },
     "var_011a": {
@@ -4369,6 +5019,11 @@
             "down": "var_01",
             "left": "var_100c",
             "right": "var_011"
+        },
+        "basic_details": {
+            "full_date_line": "1905 to 1974",
+            "born_in": "",
+            "died_in": ""
         }
     },
     "var_01100": {
@@ -4406,6 +5061,11 @@
             "down": "var_0110",
             "left": "var_01101",
             "right": "var_01100a"
+        },
+        "basic_details": {
+            "full_date_line": "1847 to 1928",
+            "born_in": "",
+            "died_in": ""
         }
     },
     "var_01101": {
@@ -4438,6 +5098,11 @@
             "down": "var_0110",
             "left": "var_11000",
             "right": "var_01100"
+        },
+        "basic_details": {
+            "full_date_line": "1850 to 1925",
+            "born_in": "",
+            "died_in": ""
         }
     },
     "var_011000": {
@@ -4474,6 +5139,11 @@
             "down": "var_01100",
             "left": "var_011001",
             "right": "var_011000a"
+        },
+        "basic_details": {
+            "full_date_line": "1820 to 1895",
+            "born_in": "",
+            "died_in": ""
         }
     },
     "var_011001": {
@@ -4505,6 +5175,11 @@
             "down": "var_01100",
             "left": "var_110000",
             "right": "var_011000"
+        },
+        "basic_details": {
+            "full_date_line": "1820 to 1899",
+            "born_in": "",
+            "died_in": ""
         }
     },
     "var_0110000": {
@@ -4536,6 +5211,11 @@
             "down": "var_011000",
             "left": "var_0110001",
             "right": "var_0011111"
+        },
+        "basic_details": {
+            "full_date_line": "1796 to 1854",
+            "born_in": "",
+            "died_in": ""
         }
     },
     "var_0110001": {
@@ -4567,6 +5247,11 @@
             "down": "var_011000",
             "left": "var_1100000",
             "right": "var_0110000"
+        },
+        "basic_details": {
+            "full_date_line": "1796 to 1854",
+            "born_in": "",
+            "died_in": ""
         }
     },
     "var_011000a": {
@@ -4597,6 +5282,11 @@
             "down": "var_01100",
             "left": "var_011000",
             "right": "var_011000b"
+        },
+        "basic_details": {
+            "full_date_line": "Died 1910",
+            "born_in": "",
+            "died_in": ""
         }
     },
     "var_011000b": {
@@ -4627,6 +5317,11 @@
             "down": "var_01100",
             "left": "var_011000a",
             "right": "var_011000c"
+        },
+        "basic_details": {
+            "full_date_line": "",
+            "born_in": "",
+            "died_in": ""
         }
     },
     "var_011000c": {
@@ -4657,6 +5352,11 @@
             "down": "var_01100",
             "left": "var_011000b",
             "right": "var_011000d"
+        },
+        "basic_details": {
+            "full_date_line": "",
+            "born_in": "",
+            "died_in": ""
         }
     },
     "var_011000d": {
@@ -4687,6 +5387,11 @@
             "down": "var_01100",
             "left": "var_011000c",
             "right": "var_001111a"
+        },
+        "basic_details": {
+            "full_date_line": "",
+            "born_in": "",
+            "died_in": ""
         }
     },
     "var_01100a": {
@@ -4717,6 +5422,11 @@
             "down": "var_0110",
             "left": "var_01100",
             "right": "var_01100b"
+        },
+        "basic_details": {
+            "full_date_line": "1858 to 1935",
+            "born_in": "",
+            "died_in": ""
         }
     },
     "var_01100b": {
@@ -4747,6 +5457,11 @@
             "down": "var_0110",
             "left": "var_01100a",
             "right": "var_01100c"
+        },
+        "basic_details": {
+            "full_date_line": "",
+            "born_in": "",
+            "died_in": ""
         }
     },
     "var_01100c": {
@@ -4777,6 +5492,11 @@
             "down": "var_0110",
             "left": "var_01100b",
             "right": "var_01100d"
+        },
+        "basic_details": {
+            "full_date_line": "",
+            "born_in": "",
+            "died_in": ""
         }
     },
     "var_01100d": {
@@ -4807,6 +5527,11 @@
             "down": "var_0110",
             "left": "var_01100c",
             "right": "var_00111a"
+        },
+        "basic_details": {
+            "full_date_line": "",
+            "born_in": "",
+            "died_in": ""
         }
     },
     "var_0110a": {
@@ -4838,6 +5563,11 @@
             "down": "var_011",
             "left": "var_0110",
             "right": "var_0110b"
+        },
+        "basic_details": {
+            "full_date_line": "Born 1882",
+            "born_in": "",
+            "died_in": ""
         }
     },
     "var_0110b": {
@@ -4869,6 +5599,11 @@
             "down": "var_011",
             "left": "var_0110a",
             "right": "var_0110c"
+        },
+        "basic_details": {
+            "full_date_line": "1879 to 1946",
+            "born_in": "",
+            "died_in": ""
         }
     },
     "var_0110c": {
@@ -4900,6 +5635,11 @@
             "down": "var_011",
             "left": "var_0110b",
             "right": "var_0110d"
+        },
+        "basic_details": {
+            "full_date_line": "1876 to 1960",
+            "born_in": "",
+            "died_in": ""
         }
     },
     "var_0110d": {
@@ -4931,6 +5671,11 @@
             "down": "var_011",
             "left": "var_0110c",
             "right": "var_0110e"
+        },
+        "basic_details": {
+            "full_date_line": "1875 to 1955",
+            "born_in": "",
+            "died_in": ""
         }
     },
     "var_0110e": {
@@ -4962,6 +5707,11 @@
             "down": "var_011",
             "left": "var_0110d",
             "right": "var_0011a"
+        },
+        "basic_details": {
+            "full_date_line": "Died 1877",
+            "born_in": "",
+            "died_in": ""
         }
     },
     "var_11000": {
@@ -4990,6 +5740,11 @@
             "down": "var_1100",
             "left": "var_11001",
             "right": "var_01101"
+        },
+        "basic_details": {
+            "full_date_line": "1842 to 1874",
+            "born_in": "Born in Göteborg, Västergötland, Sweden ",
+            "died_in": "Died in Oroville, Butte County, California"
         }
     },
     "var_110000": {
@@ -5017,6 +5772,11 @@
             "down": "var_11000",
             "left": "var_110001",
             "right": "var_011001"
+        },
+        "basic_details": {
+            "full_date_line": "5-9-1806 to 5-20-1887",
+            "born_in": "Born in Goteborgs, Amiralitet, Sweden",
+            "died_in": "Died in Sheboygan, Sheboygan, Wisconsin, USA"
         }
     },
     "var_1100000": {
@@ -5044,6 +5804,11 @@
             "down": "var_110000",
             "left": "var_1100001",
             "right": "var_0110001"
+        },
+        "basic_details": {
+            "full_date_line": "1-29-1773 to 11-10-1815",
+            "born_in": "Born in Stockholm, Sweden",
+            "died_in": "Died in Sweden"
         }
     },
     "var_1100001": {
@@ -5071,6 +5836,11 @@
             "down": "var_110000",
             "left": "var_1100010",
             "right": "var_1100000"
+        },
+        "basic_details": {
+            "full_date_line": "Born 2-2-1789",
+            "born_in": "",
+            "died_in": ""
         }
     },
     "var_110001": {
@@ -5098,6 +5868,11 @@
             "down": "var_11000",
             "left": "var_110100",
             "right": "var_110000"
+        },
+        "basic_details": {
+            "full_date_line": "6-21-1819 to 3-17-1886",
+            "born_in": "Born in Skottorp, Dalarnas, Sweden",
+            "died_in": "Died in Waukesha, Waukesha, Wisconsin, USA"
         }
     },
     "var_1100010": {
@@ -5125,6 +5900,11 @@
             "down": "var_110001",
             "left": "var_1100011",
             "right": "var_1100001"
+        },
+        "basic_details": {
+            "full_date_line": "4-4-1779 to 8-8-1832",
+            "born_in": "Born in Skottorp, Dalarnas, Sweden",
+            "died_in": "Died in Köpenhamn, Danmark"
         }
     },
     "var_1100011": {
@@ -5152,6 +5932,11 @@
             "down": "var_110001",
             "left": "var_1101000",
             "right": "var_1100010"
+        },
+        "basic_details": {
+            "full_date_line": "11-25-1798 to 5-2-1870",
+            "born_in": "Born in Slättåkra",
+            "died_in": "Died in Skottorp, Dalarnas, Sweden"
         }
     },
     "var_11000100": {
@@ -5179,6 +5964,11 @@
             "down": "var_1100010",
             "left": "var_11000101",
             "right": "var_00110011"
+        },
+        "basic_details": {
+            "full_date_line": "7-10-1742 to 12-9-1801",
+            "born_in": "Born in Skottorp, Dalarnas, Sweden",
+            "died_in": "Died in Laholm, Halland County, Sweden"
         }
     },
     "var_11000101": {
@@ -5206,6 +5996,11 @@
             "down": "var_1100010",
             "left": "var_11010000",
             "right": "var_11000100"
+        },
+        "basic_details": {
+            "full_date_line": "1749 to 1827",
+            "born_in": "Born in Stralsund, Tyskland",
+            "died_in": "Died in Laholm, Halland County, Sweden"
         }
     },
     "var_110001000": {
@@ -5233,6 +6028,11 @@
             "down": "var_11000100",
             "left": "var_110001001",
             "right": "var_001100001"
+        },
+        "basic_details": {
+            "full_date_line": "1689 to 8-16-1752",
+            "born_in": "Born in Hålland, Jamtland, Sweden",
+            "died_in": "Died in Hasslov, Hasslov Parish"
         }
     },
     "var_110001001": {
@@ -5260,6 +6060,11 @@
             "down": "var_11000100",
             "left": "var_110110000",
             "right": "var_110001000"
+        },
+        "basic_details": {
+            "full_date_line": "9-11-1711 to 1-11-1791",
+            "born_in": "Born in Halmstad, Halland, Sweden",
+            "died_in": "Died in Skottorp Skummeslov Parish"
         }
     },
     "var_110100": {
@@ -5293,6 +6098,11 @@
             "down": "var_11010",
             "left": "var_110101",
             "right": "var_110001"
+        },
+        "basic_details": {
+            "full_date_line": "4-1-1800 to 2-16-1878",
+            "born_in": "Born in Berwick-upon-Tweed, Northumberland, England",
+            "died_in": "Died in Honolulu, Honolulu County, Hawaii, USA"
         }
     },
     "var_1101000": {
@@ -5320,6 +6130,11 @@
             "down": "var_110100",
             "left": "var_1101001",
             "right": "var_1100011"
+        },
+        "basic_details": {
+            "full_date_line": "1769 to 2-19-1837",
+            "born_in": "Born in Tweedmonth, Scotland",
+            "died_in": "Died in Berwick-upon-Tweed, Northumberland, England"
         }
     },
     "var_1101001": {
@@ -5347,6 +6162,11 @@
             "down": "var_110100",
             "left": "var_1101010",
             "right": "var_1101000"
+        },
+        "basic_details": {
+            "full_date_line": "1-3-1768 to 3-27-1848",
+            "born_in": "Born in Paisley, Renfrewshire, Scotland",
+            "died_in": "Died in Pennsylvania, USA"
         }
     },
     "var_11010000": {
@@ -5374,6 +6194,11 @@
             "down": "var_1101000",
             "left": "var_11010001",
             "right": "var_11000101"
+        },
+        "basic_details": {
+            "full_date_line": "7-21-1734 to 6-1-1782",
+            "born_in": "Born in Berwick-upon-Tweed, Northumberland, England",
+            "died_in": "Died in Berwick-upon-Tweed, Northumberland, England"
         }
     },
     "var_11010001": {
@@ -5401,6 +6226,11 @@
             "down": "var_1101000",
             "left": "var_11010010",
             "right": "var_11010000"
+        },
+        "basic_details": {
+            "full_date_line": "1734 to 6-30-1818",
+            "born_in": "Born in Scotland",
+            "died_in": "Died in Berwick-upon-Tweed, Northumberland, England"
         }
     },
     "var_11010010": {
@@ -5428,6 +6258,11 @@
             "down": "var_1101001",
             "left": "var_11010011",
             "right": "var_11010001"
+        },
+        "basic_details": {
+            "full_date_line": "",
+            "born_in": "",
+            "died_in": ""
         }
     },
     "var_11010011": {
@@ -5455,6 +6290,11 @@
             "down": "var_1101001",
             "left": "var_11011000",
             "right": "var_11010010"
+        },
+        "basic_details": {
+            "full_date_line": "",
+            "born_in": "",
+            "died_in": ""
         }
     },
     "var_110101": {
@@ -5488,6 +6328,11 @@
             "down": "var_11010",
             "left": "var_110110",
             "right": "var_110100"
+        },
+        "basic_details": {
+            "full_date_line": "1-30-1814 to 12-13-1886",
+            "born_in": "Born in Surrey, England",
+            "died_in": "Died in Honolulu, Oahu, Kingdom of Hawaii"
         }
     },
     "var_1101010": {
@@ -5515,6 +6360,11 @@
             "down": "var_110101",
             "left": "var_1101011",
             "right": "var_1101001"
+        },
+        "basic_details": {
+            "full_date_line": "11-12-1788 to 10-11-1825",
+            "born_in": "Born in Liverpool, Lancashire, England",
+            "died_in": ""
         }
     },
     "var_1101011": {
@@ -5542,6 +6392,11 @@
             "down": "var_110101",
             "left": "var_1101100",
             "right": "var_1101010"
+        },
+        "basic_details": {
+            "full_date_line": "1783 to 4-29-1857",
+            "born_in": "Born in England, UK",
+            "died_in": "Died in Deptford, Greater London, UK"
         }
     },
     "var_1101100": {
@@ -5569,6 +6424,11 @@
             "down": "var_110110",
             "left": "var_1101101",
             "right": "var_1101011"
+        },
+        "basic_details": {
+            "full_date_line": "5-12-1805 to 7-7-1884",
+            "born_in": "Born in Pittsylvania, Virginia, USA",
+            "died_in": "Died in Burlington, Des Moines, Iowa, USA"
         }
     },
     "var_1101101": {
@@ -5596,6 +6456,11 @@
             "down": "var_110110",
             "left": "var_1101110",
             "right": "var_1101100"
+        },
+        "basic_details": {
+            "full_date_line": "1806 to 1-6-1838",
+            "born_in": "Born in Sandersville, Washington, Georgia, USA",
+            "died_in": "Died in Burlington, Des Moines, Iowa, United States"
         }
     },
     "var_11011000": {
@@ -5623,6 +6488,11 @@
             "down": "var_1101100",
             "left": "var_11011001",
             "right": "var_11010011"
+        },
+        "basic_details": {
+            "full_date_line": "7-9-1765 to 1830",
+            "born_in": "Born in Lebanon, Lebanon, Pennsylvania, United States",
+            "died_in": "Died in Pullens, Pittsylvania County, Virginia, USA"
         }
     },
     "var_11011001": {
@@ -5650,6 +6520,11 @@
             "down": "var_1101100",
             "left": "var_11101000",
             "right": "var_11011000"
+        },
+        "basic_details": {
+            "full_date_line": "1-20-1770 to 4-28-1861",
+            "born_in": "Born in Lancaster County, Pennsylvania, USA",
+            "died_in": "Died in Harpen Creek, Pittsylvania, Virginia, USA"
         }
     },
     "var_110110000": {
@@ -5677,6 +6552,11 @@
             "down": "var_11011000",
             "left": "var_110110001",
             "right": "var_110001001"
+        },
+        "basic_details": {
+            "full_date_line": "1735 to 10-10-1805",
+            "born_in": "Born in Lancaster County, Pennsylvania, USA",
+            "died_in": "Died in Pennsylvania, USA"
         }
     },
     "var_110110001": {
@@ -5704,6 +6584,11 @@
             "down": "var_11011000",
             "left": "var_110110010",
             "right": "var_110110000"
+        },
+        "basic_details": {
+            "full_date_line": "1735 to 9-26-1806",
+            "born_in": "Born in Lancaster County, Pennsylvania, United States of America",
+            "died_in": "Died in Pullens, Pittsylvania County, Virginia, United States of America"
         }
     },
     "var_110110010": {
@@ -5731,6 +6616,11 @@
             "down": "var_11011001",
             "left": "var_110110011",
             "right": "var_110110001"
+        },
+        "basic_details": {
+            "full_date_line": "1-20-1728 to 5-10-1810",
+            "born_in": "Born in Lancaster County, Pennsylvania, United States of America",
+            "died_in": "Died in Danville, Pittsylvania, Virginia, USA"
         }
     },
     "var_110110011": {
@@ -5758,6 +6648,11 @@
             "down": "var_11011001",
             "left": "var_111010000",
             "right": "var_110110010"
+        },
+        "basic_details": {
+            "full_date_line": "1732 to 5-10-1814",
+            "born_in": "Born in Pennsylvania, Somerset, Pennsylvania, United States",
+            "died_in": "Died in Pittsylvania County, Virginia, USA"
         }
     },
     "var_1101110": {
@@ -5785,6 +6680,11 @@
             "down": "var_110111",
             "left": "var_1101111",
             "right": "var_1101101"
+        },
+        "basic_details": {
+            "full_date_line": "1810 to 1830",
+            "born_in": "Born in Minnesota, USA",
+            "died_in": "Died in Minnesota, USA"
         }
     },
     "var_1101111": {
@@ -5812,6 +6712,11 @@
             "down": "var_110111",
             "left": "var_1110100",
             "right": "var_1101110"
+        },
+        "basic_details": {
+            "full_date_line": "",
+            "born_in": "Born in Minnesota, USA",
+            "died_in": "Died in Minnesota, USA"
         }
     },
     "var_10a": {
@@ -5842,6 +6747,11 @@
             "down": "var_1",
             "left": "var_10",
             "right": "var_10b"
+        },
+        "basic_details": {
+            "full_date_line": "Born 12-13-1942",
+            "born_in": "Born in Hawaii, USA",
+            "died_in": ""
         }
     },
     "var_10b": {
@@ -5872,6 +6782,11 @@
             "down": "var_1",
             "left": "var_10a",
             "right": "var_10c"
+        },
+        "basic_details": {
+            "full_date_line": "Born 1-14-1945",
+            "born_in": "Born in Hawaii, USA",
+            "died_in": ""
         }
     },
     "var_10c": {
@@ -5902,6 +6817,11 @@
             "down": "var_1",
             "left": "var_10b",
             "right": "var_10d"
+        },
+        "basic_details": {
+            "full_date_line": "Born 1947",
+            "born_in": "Born in Hawaii, USA",
+            "died_in": ""
         }
     },
     "var_10d": {
@@ -5932,6 +6852,11 @@
             "down": "var_1",
             "left": "var_10c",
             "right": "var_01a"
+        },
+        "basic_details": {
+            "full_date_line": "Born 7-7-1948",
+            "born_in": "Born in Hawaii, USA",
+            "died_in": ""
         }
     },
     "var_100a": {
@@ -5961,6 +6886,11 @@
             "down": "var_10",
             "left": "var_100",
             "right": "var_100b"
+        },
+        "basic_details": {
+            "full_date_line": "Born 1905",
+            "born_in": "Born in Hawaii, USA",
+            "died_in": ""
         }
     },
     "var_100b": {
@@ -5990,6 +6920,11 @@
             "down": "var_10",
             "left": "var_100a",
             "right": "var_100c"
+        },
+        "basic_details": {
+            "full_date_line": "Born 12-26-1906",
+            "born_in": "Born in Hawaii, USA",
+            "died_in": ""
         }
     },
     "var_100c": {
@@ -6019,6 +6954,11 @@
             "down": "var_10",
             "left": "var_100b",
             "right": "var_011a"
+        },
+        "basic_details": {
+            "full_date_line": "Born 3-20-1908",
+            "born_in": "Born in Hawaii, USA",
+            "died_in": ""
         }
     },
     "var_101a": {
@@ -6049,6 +6989,11 @@
             "down": "var_10",
             "left": "var_110d",
             "right": "var_101b"
+        },
+        "basic_details": {
+            "full_date_line": "Born 12-27-1918",
+            "born_in": "Born in Lahaina, Maui County, Hawaii",
+            "died_in": "Died in Scapoli, Italy"
         }
     },
     "var_101b": {
@@ -6079,6 +7024,11 @@
             "down": "var_10",
             "left": "var_101a",
             "right": "var_101c"
+        },
+        "basic_details": {
+            "full_date_line": "Born 6-7-1922",
+            "born_in": "Born in Lahaina, Maui County, Hawaii",
+            "died_in": ""
         }
     },
     "var_101c": {
@@ -6109,6 +7059,11 @@
             "down": "var_10",
             "left": "var_101b",
             "right": "var_101d"
+        },
+        "basic_details": {
+            "full_date_line": "Born 12-7-1925",
+            "born_in": "Born in Hawaii, USA",
+            "died_in": ""
         }
     },
     "var_101d": {
@@ -6139,6 +7094,11 @@
             "down": "var_10",
             "left": "var_101c",
             "right": "var_101"
+        },
+        "basic_details": {
+            "full_date_line": "Born 1927",
+            "born_in": "Born in Hawaii, USA",
+            "died_in": ""
         }
     },
     "var_00000": {
@@ -6170,6 +7130,11 @@
             "down": "var_0000",
             "left": "var_00001",
             "right": ""
+        },
+        "basic_details": {
+            "full_date_line": "7-13-1830 to 8-24-1870",
+            "born_in": "Born in Madison County, Illinois, USA",
+            "died_in": "Died in Carbondale, Jackson County, Illinois, USA"
         }
     },
     "var_00001": {
@@ -6203,6 +7168,11 @@
             "down": "var_0000",
             "left": "var_00001a",
             "right": "var_00000"
+        },
+        "basic_details": {
+            "full_date_line": "5-6-1836 to 6-22-1917",
+            "born_in": "Born in Kentucky, USA",
+            "died_in": "Died in Carbondale, Jackson County, Illinois, USA"
         }
     },
     "var_0000a": {
@@ -6233,6 +7203,11 @@
             "down": "var_000",
             "left": "var_0000",
             "right": "var_0000b"
+        },
+        "basic_details": {
+            "full_date_line": "1852 to 1932",
+            "born_in": "",
+            "died_in": ""
         }
     },
     "var_0000b": {
@@ -6263,6 +7238,11 @@
             "down": "var_000",
             "left": "var_0000a",
             "right": "var_0000c"
+        },
+        "basic_details": {
+            "full_date_line": "1855 to 1930",
+            "born_in": "",
+            "died_in": ""
         }
     },
     "var_0000c": {
@@ -6293,6 +7273,11 @@
             "down": "var_000",
             "left": "var_0000b",
             "right": "var_0000d"
+        },
+        "basic_details": {
+            "full_date_line": "1857 to 1932",
+            "born_in": "",
+            "died_in": ""
         }
     },
     "var_0000d": {
@@ -6323,6 +7308,11 @@
             "down": "var_000",
             "left": "var_0000c",
             "right": ""
+        },
+        "basic_details": {
+            "full_date_line": "1863 to 1894",
+            "born_in": "",
+            "died_in": ""
         }
     },
     "var_000010": {
@@ -6351,6 +7341,11 @@
             "down": "var_00001",
             "left": "var_000011",
             "right": ""
+        },
+        "basic_details": {
+            "full_date_line": "",
+            "born_in": "",
+            "died_in": ""
         }
     },
     "var_00001a": {
@@ -6378,6 +7373,11 @@
             "down": "var_0000",
             "left": "var_00010e",
             "right": "var_00001"
+        },
+        "basic_details": {
+            "full_date_line": "",
+            "born_in": "",
+            "died_in": ""
         }
     },
     "var_000011": {
@@ -6412,6 +7412,11 @@
             "down": "var_00001",
             "left": "var_000011e",
             "right": "var_000010"
+        },
+        "basic_details": {
+            "full_date_line": "10-2-1798 to 6-4-1886",
+            "born_in": "Born in Jefferson County, Kentucky, United States ",
+            "died_in": "Died in Makanda, Jackson County, IL, United States"
         }
     },
     "var_000011a": {
@@ -6443,6 +7448,11 @@
             "down": "var_00001",
             "left": "var_000100",
             "right": "var_000011b"
+        },
+        "basic_details": {
+            "full_date_line": "",
+            "born_in": "",
+            "died_in": ""
         }
     },
     "var_000011b": {
@@ -6474,6 +7484,11 @@
             "down": "var_00001",
             "left": "var_000011a",
             "right": "var_000011c"
+        },
+        "basic_details": {
+            "full_date_line": "",
+            "born_in": "",
+            "died_in": ""
         }
     },
     "var_000011c": {
@@ -6505,6 +7520,11 @@
             "down": "var_00001",
             "left": "var_000011b",
             "right": "var_000011d"
+        },
+        "basic_details": {
+            "full_date_line": "",
+            "born_in": "",
+            "died_in": ""
         }
     },
     "var_000011d": {
@@ -6536,6 +7556,11 @@
             "down": "var_00001",
             "left": "var_000011c",
             "right": "var_000011e"
+        },
+        "basic_details": {
+            "full_date_line": "",
+            "born_in": "",
+            "died_in": ""
         }
     },
     "var_000011e": {
@@ -6567,6 +7592,11 @@
             "down": "var_00001",
             "left": "var_000011d",
             "right": "var_000011"
+        },
+        "basic_details": {
+            "full_date_line": "",
+            "born_in": "",
+            "died_in": ""
         }
     },
     "var_0000110": {
@@ -6599,6 +7629,11 @@
             "down": "var_000011",
             "left": "var_0000111",
             "right": ""
+        },
+        "basic_details": {
+            "full_date_line": "",
+            "born_in": "",
+            "died_in": ""
         }
     },
     "var_0000111": {
@@ -6631,6 +7666,11 @@
             "down": "var_000011",
             "left": "var_0010000c",
             "right": "var_0000110"
+        },
+        "basic_details": {
+            "full_date_line": "",
+            "born_in": "",
+            "died_in": ""
         }
     },
     "var_001a": {
@@ -6661,6 +7701,11 @@
             "down": "var_00",
             "left": "var_010",
             "right": "var_001b"
+        },
+        "basic_details": {
+            "full_date_line": "10-10-1893 to 5-6-1982",
+            "born_in": "Born in West Townshend, Windham County, Vermont, USA",
+            "died_in": "Died in Lexington, Middlesex County, Massachusetts, USA"
         }
     },
     "var_001b": {
@@ -6691,6 +7736,11 @@
             "down": "var_00",
             "left": "var_001a",
             "right": "var_001c"
+        },
+        "basic_details": {
+            "full_date_line": "7-27-1896 to 12-26-1989",
+            "born_in": "Born in West Townshend, Windham County, Vermont, USA",
+            "died_in": "Died in Concord, Middlesex County, Massachusetts, USA"
         }
     },
     "var_001c": {
@@ -6721,6 +7771,11 @@
             "down": "var_00",
             "left": "var_001b",
             "right": "var_001d"
+        },
+        "basic_details": {
+            "full_date_line": "11-14-1901 to 11-11-1959",
+            "born_in": "Born in West Townshend, Windham County, Vermont, USA",
+            "died_in": "Died in Washington, District of Columbia, District of Columbia, USA"
         }
     },
     "var_001d": {
@@ -6751,6 +7806,11 @@
             "down": "var_00",
             "left": "var_001c",
             "right": "var_001"
+        },
+        "basic_details": {
+            "full_date_line": "8-31-1909 to 12-8-1993",
+            "born_in": "Born in Montpelier, Washington County, Vermont, USA",
+            "died_in": "Died in Barre, Washington County, Vermont, USA"
         }
     },
     "var_00110": {
@@ -6782,6 +7842,11 @@
             "down": "var_0011",
             "left": "var_00111",
             "right": "var_00101a"
+        },
+        "basic_details": {
+            "full_date_line": "1-27-1830 to 7-25-1901",
+            "born_in": "Born in Windham, Windham County, Vermont, USA",
+            "died_in": "Died in Townshend, Windham County, Vermont, USA"
         }
     },
     "var_00111": {
@@ -6817,6 +7882,11 @@
             "down": "var_0011",
             "left": "var_00111c",
             "right": "var_00110"
+        },
+        "basic_details": {
+            "full_date_line": "1826 to 1902",
+            "born_in": "",
+            "died_in": ""
         }
     },
     "var_0011a": {
@@ -6847,6 +7917,11 @@
             "down": "var_001",
             "left": "var_0110e",
             "right": "var_0011b"
+        },
+        "basic_details": {
+            "full_date_line": "1860 to 1940",
+            "born_in": "",
+            "died_in": ""
         }
     },
     "var_0011b": {
@@ -6877,6 +7952,11 @@
             "down": "var_001",
             "left": "var_0011a",
             "right": "var_0011c"
+        },
+        "basic_details": {
+            "full_date_line": "1863 to 1864",
+            "born_in": "",
+            "died_in": ""
         }
     },
     "var_0011c": {
@@ -6907,6 +7987,11 @@
             "down": "var_001",
             "left": "var_0011b",
             "right": "var_0011d"
+        },
+        "basic_details": {
+            "full_date_line": "1865 to 1865",
+            "born_in": "",
+            "died_in": ""
         }
     },
     "var_0011d": {
@@ -6937,6 +8022,11 @@
             "down": "var_001",
             "left": "var_0011c",
             "right": "var_0011"
+        },
+        "basic_details": {
+            "full_date_line": "1871 to 1952",
+            "born_in": "",
+            "died_in": ""
         }
     },
     "var_001100": {
@@ -6970,6 +8060,11 @@
             "down": "var_00110",
             "left": "var_001101",
             "right": "var_001100a"
+        },
+        "basic_details": {
+            "full_date_line": "11-19-1790 to 12-1-1873",
+            "born_in": "Born in Woodstock, Windsor County, Vermont, USA",
+            "died_in": "Died in Reading, Windsor County, Vermont, USA"
         }
     },
     "var_001100a": {
@@ -7001,6 +8096,11 @@
             "down": "var_00110",
             "left": "var_001100",
             "right": "var_001100b"
+        },
+        "basic_details": {
+            "full_date_line": "1793 to 1882",
+            "born_in": "",
+            "died_in": ""
         }
     },
     "var_001100b": {
@@ -7032,6 +8132,11 @@
             "down": "var_00110",
             "left": "var_001100a",
             "right": "var_001100c"
+        },
+        "basic_details": {
+            "full_date_line": "1797 to 1870",
+            "born_in": "",
+            "died_in": ""
         }
     },
     "var_001100c": {
@@ -7063,6 +8168,11 @@
             "down": "var_00110",
             "left": "var_001100b",
             "right": "var_001100d"
+        },
+        "basic_details": {
+            "full_date_line": "1799 to 1875",
+            "born_in": "",
+            "died_in": ""
         }
     },
     "var_001100d": {
@@ -7094,6 +8204,11 @@
             "down": "var_00110",
             "left": "var_001100c",
             "right": "var_001100e"
+        },
+        "basic_details": {
+            "full_date_line": "1802 to 1882",
+            "born_in": "",
+            "died_in": ""
         }
     },
     "var_001100e": {
@@ -7125,6 +8240,11 @@
             "down": "var_00110",
             "left": "var_001100d",
             "right": "var_001011"
+        },
+        "basic_details": {
+            "full_date_line": "1805 to 1862",
+            "born_in": "",
+            "died_in": ""
         }
     },
     "var_0011000": {
@@ -7165,6 +8285,11 @@
             "down": "var_001100",
             "left": "var_0011001",
             "right": "var_0011000a"
+        },
+        "basic_details": {
+            "full_date_line": "2-25-1761 to 4-17-1826",
+            "born_in": "Born in Middleborough, Plymouth County, Massachusetts, USA",
+            "died_in": "Died in Woodstock, Windsor County, Vermont, USA"
         }
     },
     "var_0011001": {
@@ -7206,6 +8331,11 @@
             "down": "var_001100",
             "left": "var_0011001h",
             "right": "var_0011000"
+        },
+        "basic_details": {
+            "full_date_line": "4-10-1766 to 1-11-1848",
+            "born_in": "Born in Woodstock, Windsor County, Vermont, USA",
+            "died_in": "Died in Woodstock, Windsor County, Vermont, USA"
         }
     },
     "var_0011000a": {
@@ -7239,6 +8369,11 @@
             "down": "var_001100",
             "left": "var_0011000",
             "right": "var_0011000b"
+        },
+        "basic_details": {
+            "full_date_line": "1744 to 1829",
+            "born_in": "",
+            "died_in": ""
         }
     },
     "var_0011000b": {
@@ -7272,6 +8407,11 @@
             "down": "var_001100",
             "left": "var_0011000a",
             "right": "var_0011000c"
+        },
+        "basic_details": {
+            "full_date_line": "1749 to 1821",
+            "born_in": "",
+            "died_in": ""
         }
     },
     "var_0011000c": {
@@ -7305,6 +8445,11 @@
             "down": "var_001100",
             "left": "var_0011000b",
             "right": "var_0011000d"
+        },
+        "basic_details": {
+            "full_date_line": "1751 to 1825",
+            "born_in": "",
+            "died_in": ""
         }
     },
     "var_0011000d": {
@@ -7338,6 +8483,11 @@
             "down": "var_001100",
             "left": "var_0011000c",
             "right": "var_0011000e"
+        },
+        "basic_details": {
+            "full_date_line": "1753 to 1808",
+            "born_in": "",
+            "died_in": ""
         }
     },
     "var_0011000e": {
@@ -7371,6 +8521,11 @@
             "down": "var_001100",
             "left": "var_0011000d",
             "right": "var_0011000f"
+        },
+        "basic_details": {
+            "full_date_line": "1755 to 1774",
+            "born_in": "",
+            "died_in": ""
         }
     },
     "var_0011000f": {
@@ -7404,6 +8559,11 @@
             "down": "var_001100",
             "left": "var_0011000e",
             "right": "var_0011000g"
+        },
+        "basic_details": {
+            "full_date_line": "1756 to 1824",
+            "born_in": "",
+            "died_in": ""
         }
     },
     "var_0011000g": {
@@ -7437,6 +8597,11 @@
             "down": "var_001100",
             "left": "var_0011000f",
             "right": "var_0010101"
+        },
+        "basic_details": {
+            "full_date_line": "1758 to 1841",
+            "born_in": "",
+            "died_in": ""
         }
     },
     "var_0011001a": {
@@ -7471,6 +8636,11 @@
             "down": "var_001100",
             "left": "var_0011100",
             "right": "var_0011001b"
+        },
+        "basic_details": {
+            "full_date_line": "1749 to 1813",
+            "born_in": "",
+            "died_in": ""
         }
     },
     "var_0011001b": {
@@ -7505,6 +8675,11 @@
             "down": "var_001100",
             "left": "var_0011001a",
             "right": "var_0011001c"
+        },
+        "basic_details": {
+            "full_date_line": "1761 to 1837",
+            "born_in": "",
+            "died_in": ""
         }
     },
     "var_0011001c": {
@@ -7539,6 +8714,11 @@
             "down": "var_001100",
             "left": "var_0011001b",
             "right": "var_0011001d"
+        },
+        "basic_details": {
+            "full_date_line": "1763 to 1847",
+            "born_in": "",
+            "died_in": ""
         }
     },
     "var_0011001d": {
@@ -7573,6 +8753,11 @@
             "down": "var_001100",
             "left": "var_0011001c",
             "right": "var_0011001e"
+        },
+        "basic_details": {
+            "full_date_line": "1769 to 1837",
+            "born_in": "",
+            "died_in": ""
         }
     },
     "var_0011001e": {
@@ -7607,6 +8792,11 @@
             "down": "var_001100",
             "left": "var_0011001d",
             "right": "var_0011001f"
+        },
+        "basic_details": {
+            "full_date_line": "1771 to 1826",
+            "born_in": "",
+            "died_in": ""
         }
     },
     "var_0011001f": {
@@ -7641,6 +8831,11 @@
             "down": "var_001100",
             "left": "var_0011001e",
             "right": "var_0011001g"
+        },
+        "basic_details": {
+            "full_date_line": "1776 to 1848",
+            "born_in": "",
+            "died_in": ""
         }
     },
     "var_0011001g": {
@@ -7675,6 +8870,11 @@
             "down": "var_001100",
             "left": "var_0011001f",
             "right": "var_0011001h"
+        },
+        "basic_details": {
+            "full_date_line": "1781 to 1860",
+            "born_in": "",
+            "died_in": ""
         }
     },
     "var_0011001h": {
@@ -7709,6 +8909,11 @@
             "down": "var_001100",
             "left": "var_0011001g",
             "right": "var_0011001"
+        },
+        "basic_details": {
+            "full_date_line": "1785 to 1839",
+            "born_in": "",
+            "died_in": ""
         }
     },
     "var_00110000": {
@@ -7745,6 +8950,11 @@
             "down": "var_0011000",
             "left": "var_00110001",
             "right": "var_00110000a"
+        },
+        "basic_details": {
+            "full_date_line": "7-13-1719 to 8-8-1787",
+            "born_in": "Born in Middleborough, Plymouth County, Massachusetts, USA",
+            "died_in": "Died in Middleborough, Plymouth County, Massachusetts, USA"
         }
     },
     "var_00110001": {
@@ -7779,6 +8989,11 @@
             "down": "var_0011000",
             "left": "var_00110010",
             "right": "var_00110000"
+        },
+        "basic_details": {
+            "full_date_line": "6-4-1722 to 1-4-1776",
+            "born_in": "Born in Middleborough, Plymouth County, Massachusetts, USA",
+            "died_in": "Died in Middleborough, Plymouth County, Massachusetts, USA"
         }
     },
     "var_00110000a": {
@@ -7806,6 +9021,11 @@
             "down": "var_0011000",
             "left": "var_00110000",
             "right": "var_00100011"
+        },
+        "basic_details": {
+            "full_date_line": "1725 to 1803",
+            "born_in": "",
+            "died_in": ""
         }
     },
     "var_001100000": {
@@ -7838,6 +9058,11 @@
             "down": "var_00110000",
             "left": "var_001100001",
             "right": "var_001100000a"
+        },
+        "basic_details": {
+            "full_date_line": "9-19-1684 to 7-13-1747",
+            "born_in": "Born in Middleborough, Plymouth County, Massachusetts, USA",
+            "died_in": "Died in Middleborough, Plymouth County, Massachusetts, USA"
         }
     },
     "var_001100001": {
@@ -7866,6 +9091,11 @@
             "down": "var_00110000",
             "left": "var_110001000",
             "right": "var_001100000"
+        },
+        "basic_details": {
+            "full_date_line": "12-8-1691 to 1725",
+            "born_in": "Born in Middleborough, Plymouth County, Massachusetts, USA",
+            "died_in": "Died in Middleborough, Plymouth County, Massachusetts, USA"
         }
     },
     "var_001100000a": {
@@ -7895,6 +9125,11 @@
             "down": "var_00110000",
             "left": "var_001100000",
             "right": "var_001100000b"
+        },
+        "basic_details": {
+            "full_date_line": "1677 to 1751",
+            "born_in": "",
+            "died_in": ""
         }
     },
     "var_001100000b": {
@@ -7924,6 +9159,11 @@
             "down": "var_00110000",
             "left": "var_001100000a",
             "right": "var_001100000c"
+        },
+        "basic_details": {
+            "full_date_line": "1679 to 1744",
+            "born_in": "",
+            "died_in": ""
         }
     },
     "var_001100000c": {
@@ -7953,6 +9193,11 @@
             "down": "var_00110000",
             "left": "var_001100000b",
             "right": ""
+        },
+        "basic_details": {
+            "full_date_line": "1691 to 1768",
+            "born_in": "",
+            "died_in": ""
         }
     },
     "var_0011000000": {
@@ -7988,6 +9233,11 @@
             "down": "var_001100000",
             "left": "var_0011000001",
             "right": "var_0011000000a"
+        },
+        "basic_details": {
+            "full_date_line": "5-21-1647 to 2-2-1718",
+            "born_in": "Born in Yarmouth, Barnstable County, Massachusetts, USA",
+            "died_in": "Died in Middleborough, Plymouth County, Massachusetts, USA"
         }
     },
     "var_0011000001": {
@@ -8022,6 +9272,11 @@
             "down": "var_001100000",
             "left": "var_0011000001c",
             "right": "var_0011000000"
+        },
+        "basic_details": {
+            "full_date_line": "1651 to 2-10-1718",
+            "born_in": "",
+            "died_in": ""
         }
     },
     "var_0011000000a": {
@@ -8052,6 +9307,11 @@
             "down": "var_001100000",
             "left": "var_0011000000",
             "right": "var_0011000000b"
+        },
+        "basic_details": {
+            "full_date_line": "1651 to 1717",
+            "born_in": "",
+            "died_in": ""
         }
     },
     "var_0011000000b": {
@@ -8082,6 +9342,11 @@
             "down": "var_001100000",
             "left": "var_0011000000a",
             "right": "var_0011000000c"
+        },
+        "basic_details": {
+            "full_date_line": "1653 to 1697",
+            "born_in": "",
+            "died_in": ""
         }
     },
     "var_0011000000c": {
@@ -8112,6 +9377,11 @@
             "down": "var_001100000",
             "left": "var_0011000000b",
             "right": "var_0011000000d"
+        },
+        "basic_details": {
+            "full_date_line": "1658 to 1719",
+            "born_in": "",
+            "died_in": ""
         }
     },
     "var_0011000000d": {
@@ -8142,6 +9412,11 @@
             "down": "var_001100000",
             "left": "var_0011000000c",
             "right": ""
+        },
+        "basic_details": {
+            "full_date_line": "1659 to 1727",
+            "born_in": "",
+            "died_in": ""
         }
     },
     "var_0011000001a": {
@@ -8171,6 +9446,11 @@
             "down": "var_001100000",
             "left": "var_1110100000",
             "right": "var_0011000001b"
+        },
+        "basic_details": {
+            "full_date_line": "1645 to 1727",
+            "born_in": "",
+            "died_in": ""
         }
     },
     "var_0011000001b": {
@@ -8200,6 +9480,11 @@
             "down": "var_001100000",
             "left": "var_0011000001a",
             "right": "var_0011000001c"
+        },
+        "basic_details": {
+            "full_date_line": "1648 to 1731",
+            "born_in": "",
+            "died_in": ""
         }
     },
     "var_0011000001c": {
@@ -8229,6 +9514,11 @@
             "down": "var_001100000",
             "left": "var_0011000001b",
             "right": "var_0011000001"
+        },
+        "basic_details": {
+            "full_date_line": "1669 to 1715",
+            "born_in": "",
+            "died_in": ""
         }
     },
     "var_00110000000": {
@@ -8260,6 +9550,11 @@
             "down": "var_0011000000",
             "left": "var_00110000001",
             "right": ""
+        },
+        "basic_details": {
+            "full_date_line": "1616 to 11-30-1670",
+            "born_in": "Born in Surrey, England",
+            "died_in": "Died in Middleborough, Plymouth County, Massachusetts, USA"
         }
     },
     "var_00110000001": {
@@ -8291,6 +9586,11 @@
             "down": "var_0011000000",
             "left": "var_00110000010",
             "right": "var_00110000000"
+        },
+        "basic_details": {
+            "full_date_line": "1621 to 1690",
+            "born_in": "Born in Netherlands",
+            "died_in": "Died in Middleborough, Plymouth County, Massachusetts, USA"
         }
     },
     "var_001101": {
@@ -8318,6 +9618,11 @@
             "down": "var_00110",
             "left": "var_001110g",
             "right": "var_001100"
+        },
+        "basic_details": {
+            "full_date_line": "4-17-1791 to 3-23-1888",
+            "born_in": "Born in Jamaica, Windham County, Vermont, USA",
+            "died_in": "Died in Townshend, Windham County, Vermont, USA"
         }
     },
     "var_00110010": {
@@ -8353,6 +9658,11 @@
             "down": "var_0011001",
             "left": "var_00110011",
             "right": "var_00110001"
+        },
+        "basic_details": {
+            "full_date_line": "12-5-1738 to 2-9-1815",
+            "born_in": "Born in Coventry, Tolland County, Connecticut, USA",
+            "died_in": "Died in Woodstock, Windsor County, Vermont, USA"
         }
     },
     "var_00110011": {
@@ -8388,6 +9698,11 @@
             "down": "var_0011001",
             "left": "var_11000100",
             "right": "var_00110010"
+        },
+        "basic_details": {
+            "full_date_line": "2-11-1738 to 11-11-1815",
+            "born_in": "Born in Coventry, Tolland County, Connecticut, USA",
+            "died_in": "Died in Woodstock, Windsor County, Vermont, USA"
         }
     },
     "var_00110000010": {
@@ -8418,6 +9733,11 @@
             "down": "var_0011000001",
             "left": "var_00110000011",
             "right": "var_00110000001"
+        },
+        "basic_details": {
+            "full_date_line": "1623 to 1693",
+            "born_in": "",
+            "died_in": "Died in Plymouth, Plymouth County, Massachusetts, USA"
         }
     },
     "var_00110000011": {
@@ -8448,6 +9768,11 @@
             "down": "var_0011000001",
             "left": "var_11101000000",
             "right": "var_00110000010"
+        },
+        "basic_details": {
+            "full_date_line": "1625 to 11-1-1691",
+            "born_in": "",
+            "died_in": "Died in Plymouth, Plymouth County, Massachusetts, USA"
         }
     },
     "var_0001a": {
@@ -8478,6 +9803,11 @@
             "down": "var_000",
             "left": "var_0010c",
             "right": "var_0001b"
+        },
+        "basic_details": {
+            "full_date_line": "1868 to 1871",
+            "born_in": "",
+            "died_in": ""
         }
     },
     "var_0001b": {
@@ -8508,6 +9838,11 @@
             "down": "var_000",
             "left": "var_0001a",
             "right": "var_0001c"
+        },
+        "basic_details": {
+            "full_date_line": "1869 to 1917",
+            "born_in": "",
+            "died_in": ""
         }
     },
     "var_0001c": {
@@ -8538,6 +9873,11 @@
             "down": "var_000",
             "left": "var_0001b",
             "right": "var_0001d"
+        },
+        "basic_details": {
+            "full_date_line": "1877 to 1962",
+            "born_in": "",
+            "died_in": ""
         }
     },
     "var_0001d": {
@@ -8568,6 +9908,11 @@
             "down": "var_000",
             "left": "var_0001c",
             "right": "var_0001"
+        },
+        "basic_details": {
+            "full_date_line": "1882 to 1955",
+            "born_in": "",
+            "died_in": ""
         }
     },
     "var_00010": {
@@ -8605,6 +9950,11 @@
             "down": "var_0001",
             "left": "var_00011",
             "right": "var_00010a"
+        },
+        "basic_details": {
+            "full_date_line": "3-9-1842 to 3-19-1896",
+            "born_in": "Born in Talbot County, Maryland, USA",
+            "died_in": "Died in Salem, Marion County, Illinois, USA"
         }
     },
     "var_00011": {
@@ -8636,6 +9986,11 @@
             "down": "var_0001",
             "left": "var_00100d",
             "right": "var_00010"
+        },
+        "basic_details": {
+            "full_date_line": "1849 to 1946",
+            "born_in": "Born in Kentucky, USA",
+            "died_in": "Died in California, USA"
         }
     },
     "var_00010a": {
@@ -8667,6 +10022,11 @@
             "down": "var_0001",
             "left": "var_00010",
             "right": "var_00010b"
+        },
+        "basic_details": {
+            "full_date_line": "1831 to 1895",
+            "born_in": "",
+            "died_in": ""
         }
     },
     "var_00010b": {
@@ -8698,6 +10058,11 @@
             "down": "var_0001",
             "left": "var_00010a",
             "right": "var_00010c"
+        },
+        "basic_details": {
+            "full_date_line": "1832 to 1863",
+            "born_in": "",
+            "died_in": ""
         }
     },
     "var_00010c": {
@@ -8729,6 +10094,11 @@
             "down": "var_0001",
             "left": "var_00010b",
             "right": "var_00010d"
+        },
+        "basic_details": {
+            "full_date_line": "1836 to 1896",
+            "born_in": "",
+            "died_in": ""
         }
     },
     "var_00010d": {
@@ -8760,6 +10130,11 @@
             "down": "var_0001",
             "left": "var_00010c",
             "right": "var_00010e"
+        },
+        "basic_details": {
+            "full_date_line": "1839 to 1913",
+            "born_in": "",
+            "died_in": ""
         }
     },
     "var_00010e": {
@@ -8791,6 +10166,11 @@
             "down": "var_0001",
             "left": "var_00010d",
             "right": "var_00001a"
+        },
+        "basic_details": {
+            "full_date_line": "1844 to 1920",
+            "born_in": "",
+            "died_in": ""
         }
     },
     "var_000100": {
@@ -8823,6 +10203,11 @@
             "down": "var_00010",
             "left": "var_000101",
             "right": "var_000011a"
+        },
+        "basic_details": {
+            "full_date_line": "3-3-1800 to 12-17-1873",
+            "born_in": "Born in Delaware, USA",
+            "died_in": "Died in Illinois, USA"
         }
     },
     "var_000101": {
@@ -8855,6 +10240,11 @@
             "down": "var_00010",
             "left": "var_000110",
             "right": "var_000100"
+        },
+        "basic_details": {
+            "full_date_line": "12-21-1801 to 6-27-1871",
+            "born_in": "Born in Pennsylvania, USA",
+            "died_in": "Died in Illinois, USA"
         }
     },
     "var_000110": {
@@ -8882,6 +10272,11 @@
             "down": "var_00011",
             "left": "var_000111",
             "right": "var_000101"
+        },
+        "basic_details": {
+            "full_date_line": "1825 to 2-16-1871",
+            "born_in": "",
+            "died_in": ""
         }
     },
     "var_000111": {
@@ -8909,6 +10304,11 @@
             "down": "var_00011",
             "left": "var_001000c",
             "right": "var_000110"
+        },
+        "basic_details": {
+            "full_date_line": "Born 3-10-1827",
+            "born_in": "",
+            "died_in": ""
         }
     },
     "var_0010a": {
@@ -8938,6 +10338,11 @@
             "down": "var_001",
             "left": "var_0010",
             "right": "var_0010b"
+        },
+        "basic_details": {
+            "full_date_line": "1853 to 1879",
+            "born_in": "",
+            "died_in": ""
         }
     },
     "var_0010b": {
@@ -8967,6 +10372,11 @@
             "down": "var_001",
             "left": "var_0010a",
             "right": "var_0010c"
+        },
+        "basic_details": {
+            "full_date_line": "1861 to 1934",
+            "born_in": "",
+            "died_in": ""
         }
     },
     "var_0010c": {
@@ -8996,6 +10406,11 @@
             "down": "var_001",
             "left": "var_0010b",
             "right": "var_0001a"
+        },
+        "basic_details": {
+            "full_date_line": "1866 to 1897",
+            "born_in": "",
+            "died_in": ""
         }
     },
     "var_00100a": {
@@ -9026,6 +10441,11 @@
             "down": "var_0010",
             "left": "var_00100",
             "right": "var_00100b"
+        },
+        "basic_details": {
+            "full_date_line": "1822 to 1893",
+            "born_in": "",
+            "died_in": ""
         }
     },
     "var_00100b": {
@@ -9056,6 +10476,11 @@
             "down": "var_0010",
             "left": "var_00100a",
             "right": "var_00100c"
+        },
+        "basic_details": {
+            "full_date_line": "1824 to 1824",
+            "born_in": "",
+            "died_in": ""
         }
     },
     "var_00100c": {
@@ -9086,6 +10511,11 @@
             "down": "var_0010",
             "left": "var_00100b",
             "right": "var_00100d"
+        },
+        "basic_details": {
+            "full_date_line": "1825 to 1903",
+            "born_in": "",
+            "died_in": ""
         }
     },
     "var_00100d": {
@@ -9116,6 +10546,11 @@
             "down": "var_0010",
             "left": "var_00100c",
             "right": "var_00011"
+        },
+        "basic_details": {
+            "full_date_line": "1833 to 1835",
+            "born_in": "",
+            "died_in": ""
         }
     },
     "var_00101a": {
@@ -9143,6 +10578,11 @@
             "down": "var_0010",
             "left": "var_00110",
             "right": "var_00101"
+        },
+        "basic_details": {
+            "full_date_line": "Died 1854",
+            "born_in": "",
+            "died_in": ""
         }
     },
     "var_001000": {
@@ -9178,6 +10618,11 @@
             "down": "var_00100",
             "left": "var_001001",
             "right": "var_001000a"
+        },
+        "basic_details": {
+            "full_date_line": "12-22-1795 to 2-19-1873",
+            "born_in": "Born in Brattleboro, Windham County, Vermont, USA",
+            "died_in": "Died in Brattleboro, Windham County, Vermont, USA"
         }
     },
     "var_001000a": {
@@ -9207,6 +10652,11 @@
             "down": "var_00100",
             "left": "var_001000",
             "right": "var_001000b"
+        },
+        "basic_details": {
+            "full_date_line": "1794 to 1795",
+            "born_in": "",
+            "died_in": ""
         }
     },
     "var_001000b": {
@@ -9236,6 +10686,11 @@
             "down": "var_00100",
             "left": "var_001000a",
             "right": "var_001000c"
+        },
+        "basic_details": {
+            "full_date_line": "1798 to 1827",
+            "born_in": "",
+            "died_in": ""
         }
     },
     "var_001000c": {
@@ -9265,6 +10720,11 @@
             "down": "var_00100",
             "left": "var_001000b",
             "right": "var_000111"
+        },
+        "basic_details": {
+            "full_date_line": "1806 to 1807",
+            "born_in": "",
+            "died_in": ""
         }
     },
     "var_001001": {
@@ -9300,6 +10760,11 @@
             "down": "var_00100",
             "left": "var_001001c",
             "right": "var_001000"
+        },
+        "basic_details": {
+            "full_date_line": "7-20-1800 to 6-6-1885",
+            "born_in": "Born in Richmond, Cheshire County, New Hampshire, USA",
+            "died_in": "Died in Charlestown, Suffolk County, Massachusetts, USA"
         }
     },
     "var_0010011": {
@@ -9330,6 +10795,11 @@
             "down": "var_001001",
             "left": "var_0010100",
             "right": "var_0010010"
+        },
+        "basic_details": {
+            "full_date_line": "",
+            "born_in": "",
+            "died_in": ""
         }
     },
     "var_0010010": {
@@ -9360,6 +10830,11 @@
             "down": "var_001001",
             "left": "var_0010011",
             "right": "var_0010001a"
+        },
+        "basic_details": {
+            "full_date_line": "10-1-1772 to 12-19-1812",
+            "born_in": "Born in Providence County, Rhode Island, USA",
+            "died_in": "Died in Brattleboro, Windham County, Vermont, USA"
         }
     },
     "var_001001a": {
@@ -9389,6 +10864,11 @@
             "down": "var_00100",
             "left": "var_001010d",
             "right": "var_001001b"
+        },
+        "basic_details": {
+            "full_date_line": "1794 to 1824",
+            "born_in": "",
+            "died_in": ""
         }
     },
     "var_001001b": {
@@ -9418,6 +10898,11 @@
             "down": "var_00100",
             "left": "var_001001a",
             "right": "var_001001c"
+        },
+        "basic_details": {
+            "full_date_line": "1805 to 1865",
+            "born_in": "",
+            "died_in": ""
         }
     },
     "var_001001c": {
@@ -9447,6 +10932,11 @@
             "down": "var_00100",
             "left": "var_001001b",
             "right": "var_001001"
+        },
+        "basic_details": {
+            "full_date_line": "1807 to 1865",
+            "born_in": "",
+            "died_in": ""
         }
     },
     "var_001010": {
@@ -9480,6 +10970,11 @@
             "down": "var_00101",
             "left": "var_001011",
             "right": "var_001010a"
+        },
+        "basic_details": {
+            "full_date_line": "1-5-1794 to 1857",
+            "born_in": "Born in Townshend, Windham County, Vermont, USA",
+            "died_in": ""
         }
     },
     "var_001011": {
@@ -9508,6 +11003,11 @@
             "down": "var_00101",
             "left": "var_001100e",
             "right": "var_001010"
+        },
+        "basic_details": {
+            "full_date_line": "1788 to 10-24-1837",
+            "born_in": "Born in White Creek, Washington County, New York, USA",
+            "died_in": "Died in Fort Edward, Washington County, New York, USA"
         }
     },
     "var_001010a": {
@@ -9538,6 +11038,11 @@
             "down": "var_00101",
             "left": "var_001010",
             "right": "var_001010b"
+        },
+        "basic_details": {
+            "full_date_line": "1793 to 1885",
+            "born_in": "",
+            "died_in": ""
         }
     },
     "var_001010b": {
@@ -9568,6 +11073,11 @@
             "down": "var_00101",
             "left": "var_001010a",
             "right": "var_001010c"
+        },
+        "basic_details": {
+            "full_date_line": "1801 to 1862",
+            "born_in": "",
+            "died_in": ""
         }
     },
     "var_001010c": {
@@ -9598,6 +11108,11 @@
             "down": "var_00101",
             "left": "var_001010b",
             "right": "var_001010d"
+        },
+        "basic_details": {
+            "full_date_line": "1804 to 1887",
+            "born_in": "",
+            "died_in": ""
         }
     },
     "var_001010d": {
@@ -9628,6 +11143,11 @@
             "down": "var_00101",
             "left": "var_001010c",
             "right": "var_001001a"
+        },
+        "basic_details": {
+            "full_date_line": "1811 to 1867",
+            "born_in": "",
+            "died_in": ""
         }
     },
     "var_0010100": {
@@ -9659,6 +11179,11 @@
             "down": "var_001010",
             "left": "var_0010101",
             "right": "var_0010011"
+        },
+        "basic_details": {
+            "full_date_line": "9-8-1764 to 12-31-1864",
+            "born_in": "",
+            "died_in": ""
         }
     },
     "var_0010101": {
@@ -9690,6 +11215,11 @@
             "down": "var_001010",
             "left": "var_0011000g",
             "right": "var_0010100"
+        },
+        "basic_details": {
+            "full_date_line": "3-11-1773 to 11-14-1850",
+            "born_in": "Born in Massachusetts, USA",
+            "died_in": "Died in Northfield, Washington County, Vermont, USA"
         }
     },
     "var_00111a": {
@@ -9719,6 +11249,11 @@
             "down": "var_0011",
             "left": "var_01100d",
             "right": "var_00111b"
+        },
+        "basic_details": {
+            "full_date_line": "1821 to 1901",
+            "born_in": "",
+            "died_in": ""
         }
     },
     "var_00111b": {
@@ -9748,6 +11283,11 @@
             "down": "var_0011",
             "left": "var_00111a",
             "right": "var_00111c"
+        },
+        "basic_details": {
+            "full_date_line": "1823 to 1849",
+            "born_in": "",
+            "died_in": ""
         }
     },
     "var_00111c": {
@@ -9777,6 +11317,11 @@
             "down": "var_0011",
             "left": "var_00111b",
             "right": "var_00111"
+        },
+        "basic_details": {
+            "full_date_line": "1833 to 1877",
+            "born_in": "",
+            "died_in": ""
         }
     },
     "var_001110": {
@@ -9815,6 +11360,11 @@
             "down": "var_00111",
             "left": "var_001111",
             "right": "var_001110a"
+        },
+        "basic_details": {
+            "full_date_line": "11-8-1798 to 11-18-1874",
+            "born_in": "Born in Andover, Essex County, Massachusetts, USA",
+            "died_in": "Died in Brunswick, Cumberland County, Maine, USA"
         }
     },
     "var_001111": {
@@ -9852,6 +11402,11 @@
             "down": "var_00111",
             "left": "var_001111f",
             "right": "var_001110"
+        },
+        "basic_details": {
+            "full_date_line": "5-14-1794 to 1-15-1876",
+            "born_in": "Born in Brunswick, Cumberland County, Maine, USA",
+            "died_in": "Died in Brunswick, Cumberland County, Maine, USA"
         }
     },
     "var_001110a": {
@@ -9885,6 +11440,11 @@
             "down": "var_00111",
             "left": "var_001110",
             "right": "var_001110b"
+        },
+        "basic_details": {
+            "full_date_line": "1795 to 1841",
+            "born_in": "",
+            "died_in": ""
         }
     },
     "var_001110b": {
@@ -9918,6 +11478,11 @@
             "down": "var_00111",
             "left": "var_001110a",
             "right": "var_001110c"
+        },
+        "basic_details": {
+            "full_date_line": "1797 to 1823",
+            "born_in": "",
+            "died_in": ""
         }
     },
     "var_001110c": {
@@ -9951,6 +11516,11 @@
             "down": "var_00111",
             "left": "var_001110b",
             "right": "var_001110d"
+        },
+        "basic_details": {
+            "full_date_line": "1800 to 1837",
+            "born_in": "",
+            "died_in": ""
         }
     },
     "var_001110d": {
@@ -9984,6 +11554,11 @@
             "down": "var_00111",
             "left": "var_001110c",
             "right": "var_001110e"
+        },
+        "basic_details": {
+            "full_date_line": "1802 to 1830",
+            "born_in": "",
+            "died_in": ""
         }
     },
     "var_001110e": {
@@ -10017,6 +11592,11 @@
             "down": "var_00111",
             "left": "var_001110d",
             "right": "var_001110f"
+        },
+        "basic_details": {
+            "full_date_line": "1805 to 1880",
+            "born_in": "",
+            "died_in": ""
         }
     },
     "var_001110f": {
@@ -10050,6 +11630,11 @@
             "down": "var_00111",
             "left": "var_001110e",
             "right": "var_001110g"
+        },
+        "basic_details": {
+            "full_date_line": "1809 to 1851",
+            "born_in": "",
+            "died_in": ""
         }
     },
     "var_001110g": {
@@ -10083,6 +11668,11 @@
             "down": "var_00111",
             "left": "var_001110f",
             "right": "var_001101"
+        },
+        "basic_details": {
+            "full_date_line": "1810 to 1889",
+            "born_in": "",
+            "died_in": ""
         }
     },
     "var_001111a": {
@@ -10115,6 +11705,11 @@
             "down": "var_00111",
             "left": "var_011000d",
             "right": "var_001111b"
+        },
+        "basic_details": {
+            "full_date_line": "1784 to 1856",
+            "born_in": "",
+            "died_in": ""
         }
     },
     "var_001111b": {
@@ -10147,6 +11742,11 @@
             "down": "var_00111",
             "left": "var_001111a",
             "right": "var_001111c"
+        },
+        "basic_details": {
+            "full_date_line": "1785 to 1862",
+            "born_in": "",
+            "died_in": ""
         }
     },
     "var_001111c": {
@@ -10179,6 +11779,11 @@
             "down": "var_00111",
             "left": "var_001111b",
             "right": "var_001111d"
+        },
+        "basic_details": {
+            "full_date_line": "1787 to 1865",
+            "born_in": "",
+            "died_in": ""
         }
     },
     "var_001111d": {
@@ -10211,6 +11816,11 @@
             "down": "var_00111",
             "left": "var_001111c",
             "right": "var_001111e"
+        },
+        "basic_details": {
+            "full_date_line": "1789 to 1869",
+            "born_in": "",
+            "died_in": ""
         }
     },
     "var_001111e": {
@@ -10243,6 +11853,11 @@
             "down": "var_00111",
             "left": "var_001111d",
             "right": "var_001111f"
+        },
+        "basic_details": {
+            "full_date_line": "1792 to 1867",
+            "born_in": "",
+            "died_in": ""
         }
     },
     "var_001111f": {
@@ -10275,6 +11890,11 @@
             "down": "var_00111",
             "left": "var_001111e",
             "right": "var_001111"
+        },
+        "basic_details": {
+            "full_date_line": "1796 to 1841",
+            "born_in": "",
+            "died_in": ""
         }
     },
     "var_0011100": {
@@ -10309,6 +11929,11 @@
             "down": "var_001110",
             "left": "var_0011101",
             "right": "var_0011001a"
+        },
+        "basic_details": {
+            "full_date_line": "6-23-1774 to 7-13-1813",
+            "born_in": "Born in Andover, Essex County, Massachusetts, USA",
+            "died_in": "Died in Andover, Essex County, Massachusetts, USA"
         }
     },
     "var_0011101": {
@@ -10343,6 +11968,11 @@
             "down": "var_001110",
             "left": "var_0011110",
             "right": "var_0011100"
+        },
+        "basic_details": {
+            "full_date_line": "1774 to 11-1-1845",
+            "born_in": "",
+            "died_in": "Died in Andover, Essex County, Massachusetts, USA"
         }
     },
     "var_0011110": {
@@ -10376,6 +12006,11 @@
             "down": "var_001111",
             "left": "var_0011111",
             "right": "var_0011101"
+        },
+        "basic_details": {
+            "full_date_line": "2-18-1756 to 5-28-1849",
+            "born_in": "Born in Falmouth, Cumberland County, Maine, USA",
+            "died_in": "Died in Brunswick, Cumberland County, Maine, USA"
         }
     },
     "var_0011111": {
@@ -10409,6 +12044,11 @@
             "down": "var_001111",
             "left": "var_0110000",
             "right": "var_0011110"
+        },
+        "basic_details": {
+            "full_date_line": "7-27-1754 to 2-18-1824",
+            "born_in": "",
+            "died_in": ""
         }
     },
     "var_0010000": {
@@ -10443,6 +12083,11 @@
             "down": "var_001000",
             "left": "var_0010001",
             "right": "var_0010000a"
+        },
+        "basic_details": {
+            "full_date_line": "1776 to 3-2-1826",
+            "born_in": "",
+            "died_in": ""
         }
     },
     "var_0010001": {
@@ -10477,6 +12122,11 @@
             "down": "var_001000",
             "left": "var_0010001c",
             "right": "var_0010000"
+        },
+        "basic_details": {
+            "full_date_line": "1769 to 12-5-1816",
+            "born_in": "",
+            "died_in": "Died in Brattleboro, Windham County, Vermont, USA"
         }
     },
     "var_0010000a": {
@@ -10506,6 +12156,11 @@
             "down": "var_001000",
             "left": "var_0010000",
             "right": "var_0010000b"
+        },
+        "basic_details": {
+            "full_date_line": "1750 to 1816",
+            "born_in": "",
+            "died_in": ""
         }
     },
     "var_0010000b": {
@@ -10535,6 +12190,11 @@
             "down": "var_001000",
             "left": "var_0010000a",
             "right": "var_0010000c"
+        },
+        "basic_details": {
+            "full_date_line": "1762 to 1847",
+            "born_in": "",
+            "died_in": ""
         }
     },
     "var_0010000c": {
@@ -10564,6 +12224,11 @@
             "down": "var_001000",
             "left": "var_0010000b",
             "right": "var_0000111"
+        },
+        "basic_details": {
+            "full_date_line": "1767 to 1865",
+            "born_in": "",
+            "died_in": ""
         }
     },
     "var_0010001a": {
@@ -10593,6 +12258,11 @@
             "down": "var_001000",
             "left": "var_0010010",
             "right": "var_0010001b"
+        },
+        "basic_details": {
+            "full_date_line": "1771 to 1812",
+            "born_in": "",
+            "died_in": ""
         }
     },
     "var_0010001b": {
@@ -10622,6 +12292,11 @@
             "down": "var_001000",
             "left": "var_0010001a",
             "right": "var_0010001c"
+        },
+        "basic_details": {
+            "full_date_line": "1781 to 1853",
+            "born_in": "",
+            "died_in": ""
         }
     },
     "var_0010001c": {
@@ -10651,6 +12326,11 @@
             "down": "var_001000",
             "left": "var_0010001b",
             "right": "var_0010001"
+        },
+        "basic_details": {
+            "full_date_line": "1788 to 1872",
+            "born_in": "",
+            "died_in": ""
         }
     },
     "var_00100000": {
@@ -10681,6 +12361,11 @@
             "down": "var_0010000",
             "left": "var_00100001",
             "right": ""
+        },
+        "basic_details": {
+            "full_date_line": "1726 to 12-30-1802",
+            "born_in": "",
+            "died_in": ""
         }
     },
     "var_00100001": {
@@ -10711,6 +12396,11 @@
             "down": "var_0010000",
             "left": "var_00100010",
             "right": "var_00100000"
+        },
+        "basic_details": {
+            "full_date_line": "1728 to 8-3-1804",
+            "born_in": "Born in Edgartown, Dukes County, Massachusetts, USA",
+            "died_in": "Died in Windsor, Hartford County, Connecticut, USA"
         }
     },
     "var_00100010": {
@@ -10741,6 +12431,11 @@
             "down": "var_0010001",
             "left": "var_00100011",
             "right": "var_00100001"
+        },
+        "basic_details": {
+            "full_date_line": "5-31-1741 to 12-7-1820",
+            "born_in": "Born in East Windsor, Hartford County, Connecticut, USA",
+            "died_in": "Died in East Windsor, Hartford County, Connecticut, USA"
         }
     },
     "var_00100011": {
@@ -10771,6 +12466,11 @@
             "down": "var_0010001",
             "left": "var_00110000a",
             "right": "var_00100010"
+        },
+        "basic_details": {
+            "full_date_line": "1-20-1742 to 12-30-1821",
+            "born_in": "Born in South Windsor, Hartford County, Connecticut, USA",
+            "died_in": "Died in East Windsor, Hartford County, Connecticut, USA"
         }
     },
     "var_1101a": {
@@ -10803,6 +12503,11 @@
             "down": "var_110",
             "left": "var_1110",
             "right": "var_1101b"
+        },
+        "basic_details": {
+            "full_date_line": "1871 to 1946",
+            "born_in": "",
+            "died_in": ""
         }
     },
     "var_1101b": {
@@ -10835,6 +12540,11 @@
             "down": "var_110",
             "left": "var_1101a",
             "right": "var_1101c"
+        },
+        "basic_details": {
+            "full_date_line": "1876 to 1944",
+            "born_in": "",
+            "died_in": ""
         }
     },
     "var_1101c": {
@@ -10867,6 +12577,11 @@
             "down": "var_110",
             "left": "var_1101b",
             "right": "var_1101d"
+        },
+        "basic_details": {
+            "full_date_line": "1877 to 1929",
+            "born_in": "",
+            "died_in": ""
         }
     },
     "var_1101d": {
@@ -10899,6 +12614,11 @@
             "down": "var_110",
             "left": "var_1101c",
             "right": "var_1101e"
+        },
+        "basic_details": {
+            "full_date_line": "1879 to 1964",
+            "born_in": "",
+            "died_in": ""
         }
     },
     "var_1101e": {
@@ -10931,6 +12651,11 @@
             "down": "var_110",
             "left": "var_1101d",
             "right": "var_1101f"
+        },
+        "basic_details": {
+            "full_date_line": "1887 to 1941",
+            "born_in": "",
+            "died_in": ""
         }
     },
     "var_1101f": {
@@ -10963,6 +12688,11 @@
             "down": "var_110",
             "left": "var_1101e",
             "right": "var_1101"
+        },
+        "basic_details": {
+            "full_date_line": "1889 to 1975",
+            "born_in": "",
+            "died_in": ""
         }
     },
     "var_11010a": {
@@ -10995,6 +12725,11 @@
             "down": "var_1101",
             "left": "var_11010",
             "right": "var_11010b"
+        },
+        "basic_details": {
+            "full_date_line": "1832 to 1894",
+            "born_in": "",
+            "died_in": ""
         }
     },
     "var_11010b": {
@@ -11027,6 +12762,11 @@
             "down": "var_1101",
             "left": "var_11010a",
             "right": "var_11010c"
+        },
+        "basic_details": {
+            "full_date_line": "1834 to 1929",
+            "born_in": "",
+            "died_in": ""
         }
     },
     "var_11010c": {
@@ -11059,6 +12799,11 @@
             "down": "var_1101",
             "left": "var_11010b",
             "right": "var_11010d"
+        },
+        "basic_details": {
+            "full_date_line": "1840 to 1926",
+            "born_in": "",
+            "died_in": ""
         }
     },
     "var_11010d": {
@@ -11091,6 +12836,11 @@
             "down": "var_1101",
             "left": "var_11010c",
             "right": "var_11010e"
+        },
+        "basic_details": {
+            "full_date_line": "1846 to 1892",
+            "born_in": "",
+            "died_in": ""
         }
     },
     "var_11010e": {
@@ -11123,6 +12873,11 @@
             "down": "var_1101",
             "left": "var_11010d",
             "right": "var_11010f"
+        },
+        "basic_details": {
+            "full_date_line": "1847 to 1853",
+            "born_in": "",
+            "died_in": ""
         }
     },
     "var_11010f": {
@@ -11155,6 +12910,11 @@
             "down": "var_1101",
             "left": "var_11010e",
             "right": "var_11001"
+        },
+        "basic_details": {
+            "full_date_line": "1849 to 1912",
+            "born_in": "",
+            "died_in": ""
         }
     },
     "var_1100a": {
@@ -11182,6 +12942,11 @@
             "down": "var_110",
             "left": "var_1100",
             "right": "var_1011"
+        },
+        "basic_details": {
+            "full_date_line": "3-9-1869 to 2-5-1949",
+            "born_in": "Born in Sheboygan, Sheboygan County, Wisconsin, USA",
+            "died_in": "Died in Alameda County, California, USA"
         }
     }
 }

@@ -8,11 +8,6 @@ let currentSuggestionIndex = -1;
 let suggestions = [];
 const container = document.getElementById('treeContainer');
 
-// dealing with FOUC
-// function ensureVisibility() {
-//     document.documentElement.style.visibility = 'visible';
-//     document.documentElement.style.opacity = '1';
-// }
 function ensureVisibility() {
     document.documentElement.classList.add('hide-fouc');
 }
@@ -179,32 +174,6 @@ function clearNuclearFamilyHighlights() {
         box.classList.remove('nuclear-family', 'spouse', 'child');
     });
 }
-
-// function highlightNuclearFamily(familyData, parentMapping, focusedId) {
-//     clearNuclearFamilyHighlights();
-    
-//     const familyUnit = Object.values(parentMapping).find(family => 
-//         family.parent_variable_names.includes(focusedId)
-//     );
-    
-//     if (familyUnit) {
-//         const spouseId = familyUnit.parent_variable_names.find(id => id !== focusedId);
-        
-//         if (spouseId) {
-//             const spouseBox = document.querySelector(`[data-id="${spouseId}"]`);
-//             if (spouseBox) {
-//                 spouseBox.classList.add('nuclear-family', 'spouse');
-//             }
-//         }
-        
-//         familyUnit.children_variable_names.forEach(childId => {
-//             const childBox = document.querySelector(`[data-id="${childId}"]`);
-//             if (childBox) {
-//                 childBox.classList.add('nuclear-family', 'child');
-//             }
-//         });
-//     }
-// }
 
 function highlightNuclearFamily(familyData, parentMapping, focusedId) {
     clearNuclearFamilyHighlights();
@@ -380,6 +349,7 @@ function selectSuggestion(id) {
     renderFamilyTree(window.familyData, window.totalHeight);
     centerOnFocus(window.familyData, window.totalHeight);
     highlightNuclearFamily(window.familyData, window.parentMapping, currentFocus);
+    updateBasicDetails(currentFocus);
     
     searchInput.value = '';
     suggestionsContainer.style.display = 'none';
@@ -417,54 +387,10 @@ function setupNavigation(familyData, parentMapping, totalHeight) {
             renderFamilyTree(familyData, totalHeight);
             centerOnFocus(familyData, totalHeight);
             highlightNuclearFamily(familyData, parentMapping, currentFocus);
+            updateBasicDetails(currentFocus);
         }
     });
 }
-
-
-
-// function initializeVisualization(familyData, parentMapping) {
-//     // Check if mobile device before doing any visualization
-//     if (isMobileDevice()) {
-//         handleMobileAccess();
-//         return;
-//     }
-    
-//     let maxX = 0;
-//     let maxY = 0;
-    
-//     Object.values(familyData).forEach(member => {
-//         maxX = Math.max(maxX, member.x + BOX_WIDTH + 100);
-//         maxY = Math.max(maxY, member.y + member.box_height + 100);
-//     });
-    
-//     container.style.width = `${maxX}px`;
-//     container.style.height = `${maxY}px`;
-    
-//     window.familyData = familyData;
-//     window.totalHeight = maxY;
-//     window.parentMapping = parentMapping;
-    
-//     const connectionsLayer = createFamilyConnections(parentMapping, familyData, maxY);
-//     container.appendChild(connectionsLayer);
-    
-//     renderFamilyTree(familyData, maxY);
-//     setupNavigation(familyData, parentMapping, maxY);
-//     createZoomControls();
-//     setupSearch();
-    
-//     centerOnFocus(familyData, maxY);
-//     highlightNuclearFamily(familyData, parentMapping, currentFocus);
-// }
-
-// // Initialize when DOM is loaded
-// // document.addEventListener('DOMContentLoaded', loadFamilyData);
-
-// // Initialize when DOM is loaded
-// document.addEventListener('DOMContentLoaded', () => {
-//     handleMobileAccess(); // Check for mobile device immediately
-//     loadFamilyData();
-// });
 
 // Info Modal
 function createInfoButton() {
@@ -474,6 +400,44 @@ function createInfoButton() {
         <button id="infoBtn" class="zoom-btn">i</button>
     `;
     document.body.appendChild(infoControls);
+}
+
+function createBasicDetailsBox() {
+    const basicDetailsBox = document.createElement('div');
+    basicDetailsBox.className = 'basic-details-box';
+    basicDetailsBox.innerHTML = `
+        <div class="basic-details-content">
+            <div id="basicDetailsText"></div>
+        </div>
+    `;
+    document.body.appendChild(basicDetailsBox);
+}
+
+function updateBasicDetails(memberId) {
+    const member = window.familyData[memberId];
+    const basicDetailsText = document.getElementById('basicDetailsText');
+    
+    if (!member || !member.basic_details) {
+        basicDetailsText.innerHTML = '<p>No additional details available</p>';
+        return;
+    }
+    
+    const details = member.basic_details;
+    let detailsHTML = '';
+    
+    if (details.full_date_line) {
+        detailsHTML += `<p class="detail-line">${details.full_date_line}</p>`;
+    }
+    
+    if (details.born_in) {
+        detailsHTML += `<p class="detail-line">${details.born_in}</p>`;
+    }
+    
+    if (details.died_in) {
+        detailsHTML += `<p class="detail-line">${details.died_in}</p>`;
+    }
+    
+    basicDetailsText.innerHTML = detailsHTML || '<p>No additional details available</p>';
 }
 
 function setupInfoModal() {
@@ -554,63 +518,20 @@ function initializeVisualization(familyData, parentMapping) {
     setupNavigation(familyData, parentMapping, maxY);
     createZoomControls();
     createInfoButton();
+    createBasicDetailsBox();
     setupSearch();
     
     // Center on initial focus
     centerOnFocus(familyData, maxY);
     highlightNuclearFamily(familyData, parentMapping, currentFocus);
+    updateBasicDetails(currentFocus);
 
     // Setup info modal with a slight delay to ensure DOM elements are ready
     setTimeout(setupInfoModal, 100);
     
     // Ensure visibility after initialization
-    ensureVisibility();  // Add this
+    ensureVisibility();
 }
-
-// // Main initialization function
-// function initializeVisualization(familyData, parentMapping) {
-//     // Check for mobile device
-//     if (isMobileDevice()) {
-//         handleMobileAccess();
-//         return;
-//     }
-    
-//     // Calculate dimensions
-//     let maxX = 0;
-//     let maxY = 0;
-    
-//     Object.values(familyData).forEach(member => {
-//         maxX = Math.max(maxX, member.x + BOX_WIDTH + 100);
-//         maxY = Math.max(maxY, member.y + member.box_height + 100);
-//     });
-    
-//     // Set container dimensions
-//     container.style.width = `${maxX}px`;
-//     container.style.height = `${maxY}px`;
-    
-//     // Store data in window object for global access
-//     window.familyData = familyData;
-//     window.totalHeight = maxY;
-//     window.parentMapping = parentMapping;
-    
-//     // Create and append family connections
-//     const connectionsLayer = createFamilyConnections(parentMapping, familyData, maxY);
-//     container.appendChild(connectionsLayer);
-    
-//     // Initialize components
-//     renderFamilyTree(familyData, maxY);
-//     setupNavigation(familyData, parentMapping, maxY);
-//     createZoomControls();
-//     createInfoButton();
-//     setupSearch();
-    
-//     // Center on initial focus
-//     centerOnFocus(familyData, maxY);
-//     highlightNuclearFamily(familyData, parentMapping, currentFocus);
-
-//     // Setup info modal with a slight delay to ensure DOM elements are ready
-//     setTimeout(setupInfoModal, 100);
-// }
 
 // Handle help banner display
 function setupHelpBanner() {
@@ -667,91 +588,6 @@ document.addEventListener('DOMContentLoaded', () => {
     window.addEventListener('load', ensureVisibility);
     window.addEventListener('error', ensureVisibility);
 });
-
-// document.addEventListener('DOMContentLoaded', () => {
-//     // Check for mobile device first
-//     if (handleMobileAccess()) {
-//         ensureVisibility();  // Add this
-//         return;
-//     }
-
-//     // Setup help banner
-//     setupHelpBanner();
-
-//     // Load family data
-//     loadFamilyData();
-
-//     // Error handling for missing elements
-//     if (!container) {
-//         console.error('Tree container not found');
-//         ensureVisibility();  // Add this
-//         return;
-//     }
-
-//     // Handle window resize
-//     let resizeTimeout;
-//     window.addEventListener('resize', () => {
-//         clearTimeout(resizeTimeout);
-//         resizeTimeout = setTimeout(() => {
-//             if (window.familyData && window.totalHeight) {
-//                 centerOnFocus(window.familyData, window.totalHeight);
-//             }
-//             if (isMobileDevice()) {
-//                 handleMobileAccess();
-//             }
-//         }, 250);
-//     });
-
-//     // Add these event listeners for visibility fallback
-//     window.addEventListener('error', ensureVisibility);
-//     window.addEventListener('load', ensureVisibility);
-
-//     // Handle errors gracefully
-//     window.addEventListener('error', (e) => {
-//         console.error('Application error:', e.error);
-//         ensureVisibility();  // Add this
-//     });
-// });
-
-// // Initialize everything when DOM is loaded
-// document.addEventListener('DOMContentLoaded', () => {
-//     // Check for mobile device first
-//     if (handleMobileAccess()) {
-//         return; // Stop initialization if mobile device
-//     }
-
-//     // Setup help banner
-//     setupHelpBanner();
-
-//     // Load family data
-//     loadFamilyData();
-
-//     // Error handling for missing elements
-//     if (!container) {
-//         console.error('Tree container not found');
-//         return;
-//     }
-
-//     // Handle window resize
-//     let resizeTimeout;
-//     window.addEventListener('resize', () => {
-//         clearTimeout(resizeTimeout);
-//         resizeTimeout = setTimeout(() => {
-//             if (window.familyData && window.totalHeight) {
-//                 centerOnFocus(window.familyData, window.totalHeight);
-//             }
-//             if (isMobileDevice()) {
-//                 handleMobileAccess();
-//             }
-//         }, 250);
-//     });
-
-//     // Handle errors gracefully
-//     window.addEventListener('error', (e) => {
-//         console.error('Application error:', e.error);
-//         // You could add user-friendly error handling here
-//     });
-// });
 
 // Export necessary functions if using modules
 if (typeof module !== 'undefined' && module.exports) {
