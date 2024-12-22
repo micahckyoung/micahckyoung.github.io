@@ -107,8 +107,6 @@ function createFamilyMemberBox(id, member, totalHeight) {
     return box;
 }
 
-// Modified to only show necessary boxes and lines
-
 function createFamilyConnections(parentMapping, familyData, totalHeight) {
     const svg = document.createElementNS("http://www.w3.org/2000/svg", "svg");
     svg.style.position = 'absolute';
@@ -120,237 +118,56 @@ function createFamilyConnections(parentMapping, familyData, totalHeight) {
     
     const BOX_PADDING = 15;
     
-    // Get the current focused member's show_boxes
-    const focusedMember = familyData[currentFocus];
-    if (!focusedMember || !focusedMember.show_boxes) {
-        console.warn('No show_boxes found for current focus:', currentFocus);
-        return svg;
-    }
-    
-    const visibleBoxes = new Set(focusedMember.show_boxes);
-    
     Object.values(parentMapping).forEach(chunk => {
-        // Filter for visible parents and children
-        const visibleParents = chunk.parent_variable_names.filter(name => visibleBoxes.has(name));
-        const visibleChildren = chunk.children_variable_names.filter(name => visibleBoxes.has(name));
-        
-        // Only proceed if we have at least one visible parent and one visible child
-        if (visibleParents.length > 0 && visibleChildren.length > 0) {
-            const parents = visibleParents.map(name => familyData[name]);
-            const children = visibleChildren.map(name => familyData[name]);
+        const parents = chunk.parent_variable_names.map(name => familyData[name]);
+        const children = chunk.children_variable_names.map(name => familyData[name]);
+
+        if (parents.length === 2) {
+            const parent1BoxY = totalHeight - parents[0].y - parents[0].box_height;
+            const parent2BoxY = totalHeight - parents[1].y - parents[1].box_height;
             
-            // Calculate connection points
-            let parentMidX, jointY;
+            const parent1Y = parent1BoxY + parents[0].box_height + (BOX_PADDING * 2);
+            const parent2Y = parent2BoxY + parents[1].box_height + (BOX_PADDING * 2);
             
-            if (visibleParents.length === 1) {
-                // Single parent case
-                const parent = parents[0];
-                const parentBoxY = totalHeight - parent.y - parent.box_height;
-                const parentY = parentBoxY + parent.box_height + (BOX_PADDING * 2);
-                parentMidX = parent.x + BOX_WIDTH/2;
-                
-                // Draw single parent line
-                const childrenY = totalHeight - (children[0].y + children[0].box_height);
-                jointY = (parentY + childrenY) / 2;
-                
+            const parent1X = parents[0].x + BOX_WIDTH/2;
+            const parent2X = parents[1].x + BOX_WIDTH/2;
+            
+            const childrenY = totalHeight - (children[0].y + children[0].box_height);
+            
+            const parentMidX = (parent1X + parent2X) / 2;
+            const childrenMidX = (children[0].x + children[children.length - 1].x + BOX_WIDTH) / 2;
+            const jointX = (parentMidX + childrenMidX) / 2;
+            const jointY = (parent1Y + childrenY) / 2;
+
+            [parent1X, parent2X].forEach((parentX, idx) => {
+                const parentY = idx === 0 ? parent1Y : parent2Y;
                 const path = document.createElementNS("http://www.w3.org/2000/svg", "path");
                 path.setAttribute("d", `
-                    M ${parentMidX} ${parentY}
-                    L ${parentMidX} ${jointY}
+                    M ${parentX} ${parentY}
+                    L ${parentX} ${jointY}
+                    L ${jointX} ${jointY}
                 `);
                 path.setAttribute("class", "family-line");
                 svg.appendChild(path);
-                
-            } else if (visibleParents.length === 2) {
-                // Two parents case
-                const parent1BoxY = totalHeight - parents[0].y - parents[0].box_height;
-                const parent2BoxY = totalHeight - parents[1].y - parents[1].box_height;
-                
-                const parent1Y = parent1BoxY + parents[0].box_height + (BOX_PADDING * 2);
-                const parent2Y = parent2BoxY + parents[1].box_height + (BOX_PADDING * 2);
-                
-                const parent1X = parents[0].x + BOX_WIDTH/2;
-                const parent2X = parents[1].x + BOX_WIDTH/2;
-                
-                parentMidX = (parent1X + parent2X) / 2;
-                const childrenY = totalHeight - (children[0].y + children[0].box_height);
-                jointY = (parent1Y + childrenY) / 2;
-                
-                // Draw parent lines
-                [parent1X, parent2X].forEach((parentX, idx) => {
-                    const parentY = idx === 0 ? parent1Y : parent2Y;
-                    const path = document.createElementNS("http://www.w3.org/2000/svg", "path");
-                    path.setAttribute("d", `
-                        M ${parentX} ${parentY}
-                        L ${parentX} ${jointY}
-                        L ${parentMidX} ${jointY}
-                    `);
-                    path.setAttribute("class", "family-line");
-                    svg.appendChild(path);
-                });
-            }
-            
-            // Draw children lines
-            if (parentMidX !== undefined && jointY !== undefined) {
-                children.forEach(child => {
-                    const childX = child.x + BOX_WIDTH/2;
-                    const childY = totalHeight - (child.y + child.box_height);
-                    const path = document.createElementNS("http://www.w3.org/2000/svg", "path");
-                    path.setAttribute("d", `
-                        M ${parentMidX} ${jointY}
-                        L ${childX} ${jointY}
-                        L ${childX} ${childY}
-                    `);
-                    path.setAttribute("class", "family-line");
-                    svg.appendChild(path);
-                });
-            }
+            });
+
+            children.forEach(child => {
+                const childX = child.x + BOX_WIDTH/2;
+                const childY = totalHeight - (child.y + child.box_height);
+                const path = document.createElementNS("http://www.w3.org/2000/svg", "path");
+                path.setAttribute("d", `
+                    M ${jointX} ${jointY}
+                    L ${childX} ${jointY}
+                    L ${childX} ${childY}
+                `);
+                path.setAttribute("class", "family-line");
+                svg.appendChild(path);
+            });
         }
     });
     
     return svg;
 }
-
-// this code is great but it doesn't show the lines
-
-// function createFamilyConnections(parentMapping, familyData, totalHeight) {
-//     const svg = document.createElementNS("http://www.w3.org/2000/svg", "svg");
-//     svg.style.position = 'absolute';
-//     svg.style.top = '0';
-//     svg.style.left = '0';
-//     svg.style.width = '100%';
-//     svg.style.height = '100%';
-//     svg.style.pointerEvents = 'none';
-    
-//     const BOX_PADDING = 15;
-    
-//     // Get the current focused member's show_boxes
-//     const focusedMember = familyData[currentFocus];
-//     if (!focusedMember || !focusedMember.show_boxes) {
-//         console.warn('No show_boxes found for current focus:', currentFocus);
-//         return svg;
-//     }
-    
-//     const visibleBoxes = new Set(focusedMember.show_boxes);
-    
-//     Object.values(parentMapping).forEach(chunk => {
-//         // Only process connections if both parents and children are in visible boxes
-//         const visibleParents = chunk.parent_variable_names.filter(name => visibleBoxes.has(name));
-//         const visibleChildren = chunk.children_variable_names.filter(name => visibleBoxes.has(name));
-        
-//         if (visibleParents.length === 2 && visibleChildren.length > 0) {
-//             const parents = visibleParents.map(name => familyData[name]);
-//             const children = visibleChildren.map(name => familyData[name]);
-            
-//             const parent1BoxY = totalHeight - parents[0].y - parents[0].box_height;
-//             const parent2BoxY = totalHeight - parents[1].y - parents[1].box_height;
-            
-//             const parent1Y = parent1BoxY + parents[0].box_height + (BOX_PADDING * 2);
-//             const parent2Y = parent2BoxY + parents[1].box_height + (BOX_PADDING * 2);
-            
-//             const parent1X = parents[0].x + BOX_WIDTH/2;
-//             const parent2X = parents[1].x + BOX_WIDTH/2;
-            
-//             const childrenY = totalHeight - (children[0].y + children[0].box_height);
-            
-//             const parentMidX = (parent1X + parent2X) / 2;
-//             const childrenMidX = (children[0].x + children[children.length - 1].x + BOX_WIDTH) / 2;
-//             const jointX = (parentMidX + childrenMidX) / 2;
-//             const jointY = (parent1Y + childrenY) / 2;
-
-//             // Draw parent lines
-//             [parent1X, parent2X].forEach((parentX, idx) => {
-//                 const parentY = idx === 0 ? parent1Y : parent2Y;
-//                 const path = document.createElementNS("http://www.w3.org/2000/svg", "path");
-//                 path.setAttribute("d", `
-//                     M ${parentX} ${parentY}
-//                     L ${parentX} ${jointY}
-//                     L ${jointX} ${jointY}
-//                 `);
-//                 path.setAttribute("class", "family-line");
-//                 svg.appendChild(path);
-//             });
-
-//             // Draw children lines
-//             children.forEach(child => {
-//                 const childX = child.x + BOX_WIDTH/2;
-//                 const childY = totalHeight - (child.y + child.box_height);
-//                 const path = document.createElementNS("http://www.w3.org/2000/svg", "path");
-//                 path.setAttribute("d", `
-//                     M ${jointX} ${jointY}
-//                     L ${childX} ${jointY}
-//                     L ${childX} ${childY}
-//                 `);
-//                 path.setAttribute("class", "family-line");
-//                 svg.appendChild(path);
-//             });
-//         }
-//     });
-    
-//     return svg;
-// }
-
-// function createFamilyConnections(parentMapping, familyData, totalHeight) {
-//     const svg = document.createElementNS("http://www.w3.org/2000/svg", "svg");
-//     svg.style.position = 'absolute';
-//     svg.style.top = '0';
-//     svg.style.left = '0';
-//     svg.style.width = '100%';
-//     svg.style.height = '100%';
-//     svg.style.pointerEvents = 'none';
-    
-//     const BOX_PADDING = 15;
-    
-//     Object.values(parentMapping).forEach(chunk => {
-//         const parents = chunk.parent_variable_names.map(name => familyData[name]);
-//         const children = chunk.children_variable_names.map(name => familyData[name]);
-
-//         if (parents.length === 2) {
-//             const parent1BoxY = totalHeight - parents[0].y - parents[0].box_height;
-//             const parent2BoxY = totalHeight - parents[1].y - parents[1].box_height;
-            
-//             const parent1Y = parent1BoxY + parents[0].box_height + (BOX_PADDING * 2);
-//             const parent2Y = parent2BoxY + parents[1].box_height + (BOX_PADDING * 2);
-            
-//             const parent1X = parents[0].x + BOX_WIDTH/2;
-//             const parent2X = parents[1].x + BOX_WIDTH/2;
-            
-//             const childrenY = totalHeight - (children[0].y + children[0].box_height);
-            
-//             const parentMidX = (parent1X + parent2X) / 2;
-//             const childrenMidX = (children[0].x + children[children.length - 1].x + BOX_WIDTH) / 2;
-//             const jointX = (parentMidX + childrenMidX) / 2;
-//             const jointY = (parent1Y + childrenY) / 2;
-
-//             [parent1X, parent2X].forEach((parentX, idx) => {
-//                 const parentY = idx === 0 ? parent1Y : parent2Y;
-//                 const path = document.createElementNS("http://www.w3.org/2000/svg", "path");
-//                 path.setAttribute("d", `
-//                     M ${parentX} ${parentY}
-//                     L ${parentX} ${jointY}
-//                     L ${jointX} ${jointY}
-//                 `);
-//                 path.setAttribute("class", "family-line");
-//                 svg.appendChild(path);
-//             });
-
-//             children.forEach(child => {
-//                 const childX = child.x + BOX_WIDTH/2;
-//                 const childY = totalHeight - (child.y + child.box_height);
-//                 const path = document.createElementNS("http://www.w3.org/2000/svg", "path");
-//                 path.setAttribute("d", `
-//                     M ${jointX} ${jointY}
-//                     L ${childX} ${jointY}
-//                     L ${childX} ${childY}
-//                 `);
-//                 path.setAttribute("class", "family-line");
-//                 svg.appendChild(path);
-//             });
-//         }
-//     });
-    
-//     return svg;
-// }
 
 function clearNuclearFamilyHighlights() {
     document.querySelectorAll('.nuclear-family').forEach(box => {
@@ -401,73 +218,15 @@ function highlightNuclearFamily(familyData, parentMapping, focusedId) {
     }
 }
 
-// Modified to only show necessary boxes and lines
 function renderFamilyTree(familyData, totalHeight) {
-    // Remove existing boxes
     const existingBoxes = container.querySelectorAll('.person-box');
     existingBoxes.forEach(box => box.remove());
     
-    // Remove existing SVG
-    const existingSvg = container.querySelector('svg');
-    if (existingSvg) {
-        existingSvg.remove();
-    }
-    
-    // Get the current focused member's show_boxes array
-    const focusedMember = familyData[currentFocus];
-    if (!focusedMember || !focusedMember.show_boxes) {
-        console.warn('No show_boxes found for current focus:', currentFocus);
-        return;
-    }
-    
-    const visibleBoxes = new Set(focusedMember.show_boxes);
-    
-    // Render boxes
     Object.entries(familyData).forEach(([id, member]) => {
-        if (visibleBoxes.has(id)) {
-            const box = createFamilyMemberBox(id, member, totalHeight);
-            container.appendChild(box);
-        }
+        const box = createFamilyMemberBox(id, member, totalHeight);
+        container.appendChild(box);
     });
-
-    // Create and append new connections
-    const connections = createFamilyConnections(window.parentMapping, familyData, totalHeight);
-    container.appendChild(connections);
 }
-
-// again, this code works with the boxes but not with the lines
-
-// function renderFamilyTree(familyData, totalHeight) {
-//     const existingBoxes = container.querySelectorAll('.person-box');
-//     existingBoxes.forEach(box => box.remove());
-    
-//     // Get the current focused member's show_boxes array
-//     const focusedMember = familyData[currentFocus];
-//     if (!focusedMember || !focusedMember.show_boxes) {
-//         console.warn('No show_boxes found for current focus:', currentFocus);
-//         return;
-//     }
-    
-//     const visibleBoxes = new Set(focusedMember.show_boxes);
-    
-//     // Only render boxes that are in the show_boxes array
-//     Object.entries(familyData).forEach(([id, member]) => {
-//         if (visibleBoxes.has(id)) {
-//             const box = createFamilyMemberBox(id, member, totalHeight);
-//             container.appendChild(box);
-//         }
-//     });
-// }
-
-// function renderFamilyTree(familyData, totalHeight) {
-//     const existingBoxes = container.querySelectorAll('.person-box');
-//     existingBoxes.forEach(box => box.remove());
-    
-//     Object.entries(familyData).forEach(([id, member]) => {
-//         const box = createFamilyMemberBox(id, member, totalHeight);
-//         container.appendChild(box);
-//     });
-// }
 
 function centerOnFocus(familyData, totalHeight) {
     const focusedMember = familyData[currentFocus];
