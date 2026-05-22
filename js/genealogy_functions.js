@@ -774,8 +774,11 @@ function initializeVisualization(familyData, parentMapping) {
     createBasicDetailsBox();
     setupSearch();
     
-    // Center on initial focus
+    // Center on initial focus without animating from the default position
+    container.style.transition = 'none';
     centerOnFocus(familyData, maxY);
+    container.offsetHeight; // force reflow so the transform applies before transitions resume
+    container.style.transition = '';
     highlightNuclearFamily(familyData, parentMapping, currentFocus);
     updateBasicDetails(currentFocus);
 
