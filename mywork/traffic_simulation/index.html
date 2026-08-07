@@ -58,7 +58,7 @@
           For the past several months, I've been developing a computational model to assess how the Honolulu Rail might alleviate Oahu's notorious traffic congestion. <b>While my final interactive map remains in development</b>, I’m sharing my analytical approach here.
         </p> -->
         <p>
-          This study develops a dynamic traffic assignment model to quantify the potential impact of Honolulu's $12.4 billion rail transit system (HART) on the island's severe traffic congestion. Using a novel simulation approach, I track over 190,000 individual vehicles at 60-second intervals throughout the morning rush hour, integrating LODES commuter flow data, OpenStreetMap road networks, and American Community Survey demographics. The model reveals that HART could save ~2,700 collective hours of daily commute time assuming it removes 10,000 vehicles from the network. This granular approach enables precise measurement of congestion impacts at the individual vehicle level, revealing how benefits vary across communities. While these time savings demonstrate measurable congestion relief—particularly for West side communities who face the longest commutes due to Oahu's constraining geography—they exclude additional time savings for actual rail riders. Beyond the scope of this traffic analysis, an important question emerges for future research: could improved accessibility paradoxically accelerate gentrification in these lower-income West side communities? While this study focuses on quantifying congestion impacts, the potential for transportation improvements to influence housing affordability warrants careful consideration as HART implementation proceeds.
+          In this article, I analyze how Honolulu's $12.4 billion rail transit system (HART) could reduce traffic congestion. I simulate over 190,000 vehicles during morning rush hour by integrating LODES commuter flow data, OpenStreetMap road networks, and American Community Survey demographics. My model suggests that HART could save ~2,700 collective hours of daily commute time and remove ~10,000 vehicles from the network (for simplicity, I assume that HART can accommodate an unlimited number of riders). Should HART prove popular for commuters, congestion would reduce, providing a greater incentive to drive to work and, paradoxically, resulting in additional vehicles on the road. Eventually a new traffic equilibrium would emerge.
         </p>
         <p>
           Note: This article is best viewed on a computer, rather than a mobile device.
@@ -76,20 +76,20 @@
         </p>
         <img src="../../images/census_tract_inflow_map.png" id="inflow_img" class="inflow_img" type="image/png", alt = "traffic_inflow_map">
         <p>
-          Oahu’s employment opportunities concentrate along the island’s southeastern edge. Figure 1 illustrates this dense concentration at the Census Tract level, revealing that merely 16 Census Tracts accommodate over 50% of the island's entire workforce. Even within this concentrated group, substantial disparities exist. The central Town districts—home to corporate headquarters and professional offices—employ up to six times more workers than areas like Pearl City, Kapolei, and the Airport. This employment hierarchy descends from the dense urban core of Town to Waikiki's tourism hub, Manoa's university campus, the Daniel K. Inouye Airport, and finally to Pearl City and Kapolei—areas the government is actively developing as satellite urban centers. This extreme concentration of workplaces along the island's edge creates a funneling effect, forcing traffic through limited access points and generating severe bottlenecks into Town.
+          Figure 1 illustrates how Oahu’s employment opportunities concentrate along the island’s southeastern edge. The polygons in this map measure employment inflow on the Census Tract level. Merely sixteen Census Tracts (the colored polygons) accommodate over 50% of the island's entire workforce. The central Town districts employ up to six times more workers than areas like Pearl City, Kapolei, and the Airport. The extreme concentration of workplaces along the island's edge creates a funneling effect, forcing traffic through limited access points and generating severe bottlenecks into Town.
         </p>
         <p> 
           <i>Fig 2: East West Map</i>
         </p>
         <img src="../../images/east_west_map.png" id="ew_map_img" class="ew_map_img" type="image/png", alt = "oahu_east_west_map">
         <p>
-          Oahu's mountainous topography fundamentally shapes its road network. The steep ridges of the Ko'olau and Wai'anae Mountain Ranges, combined with the island's coastal boundaries, severely restrict viable transportation corridors. Town, the primary location center, is indicated by the star symbol on the map. 
+          In addition to concentration of employment opportunity, Oahu's topography shapes congestion. The steep ridges of the Ko'olau and Wai'anae Mountain Ranges, combined with the island's coastal boundaries, severely restrict viable transportation corridors. Town, the primary location center, is indicated by the star symbol on the map. 
         </p>
         <p>
-          There are 3 main motorways in Oahu’s road network. The H1 is the focal motorway and it stretches from Kapolei in the West to Kahala in the East. The H2 (which connects to Mililani and the North Shore) and the H3 (which connects to Kaneohe) funnel into the H1, creating a choke point west of Town. Rather than most cities which have a wheel and spokes network of motorways with the city in the center, in Oahu, Town is on one of the spokes. This setup forces congestion to accumulate as you get closer to Town from the West side of the island. 
+          There are three primary motorways in Oahu’s road network. The H1 is the focal motorway and it stretches from Kapolei in the West to Kahala in the East. The H2 (which connects to Mililani and the North Shore) and the H3 (which connects to Kaneohe) funnel into the H1, creating a choke point west of Town. Rather than most cities which have a wheel and spokes network of motorways with the city in the center, in Oahu, Town is on one of the spokes. This setup forces congestion to accumulate as one arrives closer to Town from the West side of the island. 
         </p>
         <p> 
-          In Figure 2, there are two groups of colored Census Tracts: (1) the West side in orange and (2) the East side in blue. Other than living in Town itself (between these two regions), these are the most populous parts of the island. The West side of the island represents 28% of the total Oahu population and the East side of the island represents ~10%. Both regions use the H1 to commute to Town, but they approach from opposite directions. The West side of the island has much more traffic and longer commute times. 
+          In Figure 2, there are two groups of colored Census Tracts: (1) the West side in orange and (2) the East side in blue. Other than Town itself (between these two regions), these are the most populous parts of the island. The West side of the island represents 28% of the total Oahu population and the East side of the island represents ~10%. Both regions use the H1 to commute to Town, but they approach from opposite directions. The West side of the island has much more traffic and longer commute times. 
         </p>
         <p>
           <div class="section-title">
@@ -107,7 +107,7 @@
           While establishing direct causality would require dedicated research, the correlation between traffic patterns and socioeconomic distribution is striking. The data reveal pronounced disparities: East side communities have shorter commutes, higher household incomes, and whiter populations than their West side counterparts. 
         </p>
         <p>
-          Figures 3 & 4 compare income and demographic characteristics between the East and West Census Tracts. The West side of the island has 10% greater percentage of households below $100k annual income than the East side and it has half as many households with an income greater than $200k. The West side has half as many white people (as percentage of population) and three times as many Pacific Islanders. It takes only an hour to drive from Makaha (the furthest Western edge) to Hawaii Kai (the furthest Eastern edge) in free flow conditions, and yet there are dramatic differences between these two regions. 
+          Figures 3 & 4 compare income and demographic characteristics between the East and West Census Tracts. Note that the following statements are on a percentage of household basis rather than absolute: the West side of the island has a triple the population of the East side. The West side of the island has half as many households with an income greater than $200k compared to the East side. It also has half as many white people and triple the amount of Pacific Islanders. It takes only an hour to drive from Makaha (the furthest Western edge) to Hawaii Kai (the furthest Eastern edge) in free flow traffic conditions, and yet there are dramatic differences between these two regions.
         </p>
         <p> 
           <div class="section-title">
@@ -115,10 +115,10 @@
           </div>
         </p>
         <p>
-          Oahu's severe traffic congestion has long been apparent to residents, prompting the state to undertake its most ambitious infrastructure project ever: a comprehensive rail system. Though plans have existed since the 1960s, the project only gained official momentum in 2010 when voters established the Honolulu Authority for Rapid Transportation (HART). Construction began in 2011 with an initial budget projection of $4 billion, but costs have since inflated to an estimated $12.4 billion, triggering public skepticism.
+          Oahu's severe traffic congestion has long been apparent to residents, prompting the state to undertake its most ambitious infrastructure project ever: a rail system. Though plans have existed since the 1960s, the project only gained official momentum in 2010 when voters established the Honolulu Authority for Rapid Transportation (HART). Construction began in 2011 with an initial budget projection of $4 billion, but costs have since inflated to an estimated $12.4 billion, triggering public skepticism.
         </p>
         <p> 
-          The rail system is deployed in phases, with the first segment (Skyline) connecting East Kapolei to Aloha Stadium having opened on June 30, 2023. Phase 2, extending the line to Pearl Harbor, and the airport, is scheduled for completion by October 1, 2025. The final phase, which will bring the rail to the center of the city, remains years away with a targeted 2031 opening date.
+          The rail system has been deployed in phases. The first segment (Skyline) connecting East Kapolei to Aloha Stadium opened on June 30, 2023. Phase 2, extending the line to Pearl Harbor, and the airport, was completed October 16, 2025. The final phase, which will bring the rail to the center of the city, remains years away with a targeted 2031 opening date.
         </p>
         <p>
           Over the past 15 years, Honolulu's rail project has faced significant delays and budget overruns, eroding public confidence. Yet the critical question remains: Will this enormous investment ultimately deliver on its promise to alleviate traffic congestion?
@@ -127,7 +127,7 @@
             Model Overview
           </div>
         <p>
-          My analysis quantifies the Honolulu rail's impact on island-wide traffic congestion through a dynamic simulation tracking over 190,000 individual vehicles during their morning commutes. The model captures each vehicle's position at 60-second intervals, precisely measuring its contribution to congestion on specific road segments. Each simulated vehicle calculates its optimal route based on real-time traffic conditions at its departure time. By running the simulation chronologically from 5 AM until all commutes are completed, the model accounts for the cascading effects of earlier travelers on subsequent traffic patterns, creating a comprehensive picture of how congestion develops and propagates throughout the morning rush hour.
+          My analysis estimates the Honolulu rail's impact on island-wide traffic congestion. I build a dynamic simulation tracking over 190,000 individual vehicles during their morning commutes. The model captures each vehicle's position at 60-second intervals, precisely measuring its contribution to congestion on individual road segments. An optimal route, based on real-time traffic conditions and departure time, is calculated for each simulated vehicle. By running the simulation chronologically from 5 AM until all commutes are completed, the model accounts for the cascading effects of earlier travelers on subsequent traffic patterns, creating a comprehensive picture of how congestion develops and propagates throughout the morning rush hour.
         </p>
         <p> 
           <div class="section-title">
@@ -135,7 +135,7 @@
           </div>
         </p>
         <p> 
-          My traffic simulation integrates multiple data sources. Using Longitudinal Employer-Household Dynamics (LODES) data, I precisely map commuter flows between residential and employment Census Blocks across the island. I construct Oahu's transportation network from OpenStreetMap data, capturing road connections and their specific characteristics, such as speed limit and number of lanes. Through geospatial analysis, I align these datasets and supplement them with American Community Survey (ACS) data to accurately model morning departure time distributions. To calibrate the simulation, I incorporate a sample of both free-flow and peak congestion travel times from Google Maps API, establishing realistic edge weights within the network model. The final simulation quantifies the Honolulu rail's impact by systematically removing rail-eligible vehicles from the road network, revealing how this infrastructure project could transform island-wide traffic patterns.
+          My traffic simulation integrates multiple data sources. Using Longitudinal Employer-Household Dynamics (LODES) data, I precisely map commuter flows between residential and employment Census Blocks across the island. I construct Oahu's transportation network from OpenStreetMap data, capturing road connections and their specific characteristics such as speed limit and number of lanes. Through geospatial analysis, I align these datasets and supplement them with American Community Survey (ACS) data to accurately model morning departure time distributions. To calibrate the simulation, I incorporate a sample of both free-flow and peak congestion travel times from Google Maps API, establishing realistic edge weights within the network model. The final simulation quantifies the Honolulu rail's impact by systematically removing rail-eligible vehicles from the road network, revealing how this infrastructure project could transform island-wide traffic patterns.
         </p>
         <div class="table-container">
           <table>
@@ -149,7 +149,7 @@
             <tbody>
               <tr>
                 <td>Longitudinal Employer-Household Dynamics <a href="https://lehd.ces.census.gov/data/">(LODES)</a></td>
-                <td>Census data tracking commuter flows between home and work locations</td>
+                <td>Census data on commuter flows between home and work locations</td>
                 <td>Maps origin-destination patterns at Census Block level</td>
               </tr>
               <tr>
@@ -169,7 +169,7 @@
               </tr>
               <tr>
                 <td><a href="https://developers.google.com/maps/apis-by-platform">Google Maps API</a></td>
-                <td>Real-time and historical travel times for 10,000 commute routes</td>
+                <td>Real-time and historical travel times for 10,000 sample commute routes</td>
                 <td>Calibrates network edge weights for both free-flow and congestion conditions</td>
               </tr>
               <tr>
@@ -186,10 +186,10 @@
           </div>
         </p>
         <p> 
-          My simulation incorporates several carefully considered assumptions to address data limitations. First, since LODES data exclusively captures work commutes, I've implemented strategic offsets to account for missing travel patterns. For school-related traffic, I calibrated the model using Google Maps congestion data from summer days when schools are not in session, allowing me to isolate and analyze work-only traffic patterns. Tourism, while significant to Hawaii's economy, minimally impacts morning rush hour patterns as visitors typically travel outside peak periods or in directions counter to the main commuter flow (most hotels are concentrated in Town). Military personnel, another substantial demographic, often reside on bases (no impact on roadways) or commute to bases away from Town near Wahiawa and Mokapu, with low overall contributions to traffic congestion.
+          My simulation incorporates several carefully considered assumptions to address data limitations. First, since LODES data exclusively captures work commutes, I've implemented strategic offsets to account for missing travel patterns. For school-related traffic, I calibrated the model using Google Maps congestion data from summer days when schools are not in session, allowing me to isolate and analyze work-only traffic patterns. Tourism, while significant to Hawaii's economy, minimally impacts morning rush hour patterns as visitors typically travel outside peak periods or in directions counter to the main commuter flow (most hotels are concentrated in Town). Military personnel, another substantial demographic, often reside on bases (private roadways) or commute to bases away from Town near Wahiawa and Mokapu, with low overall contributions to traffic congestion.
         </p>
         <p>
-          For departure timing, I strictly adhere to the ACS-reported distribution within each Census Block Group—for instance, if ACS indicates 10% of residents in a particular Block Group depart at 7:00 AM and 15% at 7:30 AM, I apply this exact distribution. However, a limitation exists in that these departure times are assigned based solely on residential location without considering specific commute destinations. This approach may miss potential correlations between commute distance and departure time, as longer-distance commuters may leave for work earlier in the morning. Finally, my simulation tracks vehicle queuing but does not model queue spillback effects. While this theoretically underestimates congestion in extreme cases, my calibration against actual Google Maps congestion data helps correct for this limitation, ensuring the model's predictions remain aligned with observed traffic patterns.
+          For departure timing, I strictly adhere to the ACS-reported distribution within each Census Block Group—for instance, if ACS indicates 10% of residents in a particular Block Group depart at 7:00 AM and 15% at 7:30 AM, I apply this exact distribution. However, a limitation exists in that these departure times are assigned based solely on residential location without considering specific commute destinations. This approach would miss potential correlations between commute distance and departure time, as longer-distance commuters may leave for work earlier in the morning. Finally, my simulation tracks vehicle queuing but does not model queue spillback effects. While this theoretically underestimates congestion in extreme cases, my calibration against actual Google Maps congestion data helps correct for this limitation, ensuring the model's predictions remain aligned with observed traffic patterns.
         </p>
         <p>
           <div class="section-title">
@@ -207,7 +207,7 @@
           My transportation network relies on OpenStreetMap (OSM) data, which requires significant preprocessing. As an open-source platform, OSM contains varying degrees of completeness across its attributes.
         </p>
         <p> 
-          Simplified depiction of the OSM data:
+          Simplified depiction of the OSM variables:
         </p>
         <div class="table-container">
           <table>
@@ -226,7 +226,7 @@
           </table>
         </div>
         <p>
-          To ensure model integrity, I performed several critical data cleaning steps. First, I eliminated disconnected network components to create a strongly connected graph—one where any node can be reached from any other node—preventing routing failures during simulation. I also removed self-referential edges (those with identical origin and destination nodes), which primarily represented cul-de-sacs.
+          To ensure model integrity, I performed several critical data cleaning steps. First, I eliminated disconnected network components to create a strongly connected graph—one where any node can be reached from any other node—preventing routing failures during simulation. I also removed self-referential edges (those with identical origin and destination nodes, i.e., cul-de-sacs).
         </p>
         <p>
           <i>Fig 5: Example of How Highways Are Split in OSM</i>
